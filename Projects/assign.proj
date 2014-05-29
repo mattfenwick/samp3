@@ -1,0 +1,40 @@
+<sparky project file>
+<version 3.115>
+<savefiles>
+../Save/nhsqc.save
+../Save/hnco.save
+../Save/hncacb.save
+../Save/hbhaconh.save
+../Save/cconh_tocsy.save
+../Save/hcconh_tocsy.save
+<end savefiles>
+<options>
+<end options>
+<syncaxes>
+nhsqc 0 hnco 0
+nhsqc 0 hncacb 0
+nhsqc 0 hbhaconh 0
+nhsqc 0 cconh_tocsy 0
+nhsqc 0 hcconh_tocsy 0
+hncacb 2 cconh_tocsy 2
+hbhaconh 2 hcconh_tocsy 2
+nhsqc 1 hnco 1
+nhsqc 1 hncacb 1
+nhsqc 1 hbhaconh 1
+nhsqc 1 cconh_tocsy 1
+nhsqc 1 hcconh_tocsy 1
+<end syncaxes>
+<overlays>
+<end overlays>
+<attached data>
+<end attached data>
+<molecule>
+name 
+<attached data>
+<end attached data>
+<condition>
+name 
+<resonances>
+<end resonances>
+<end condition>
+<end molecule>

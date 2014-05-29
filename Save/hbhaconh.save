@@ -1,0 +1,101 @@
+<sparky save file>
+<version 3.115>
+<user>
+set mode 0
+set saveprompt 0
+set saveinterval 0
+set resizeViews 0
+set keytimeout 3000
+set cachesize 4
+set contourgraying 1
+default print command lpr
+default print options 2 27 1.000000 1.000000
+<end user>
+<spectrum>
+name hbhaconh
+pathname ../Data/hbhaconh.ucsf
+dimension 3
+shift -0.024584 0.022613 0.000000
+points 128 512 256
+extraPeakPlanes 4 4 4
+assignMultiAxisGuess 0
+assignGuessThreshold 0.000000
+assignRelation 1 4 
+assignRelation 2 4 
+assignRelation 3 4 
+assignRange 1 0.000000
+assignRange 2 0.000000
+assignRange 3 0.000000
+assignFormat %a1-%a2-%a3
+listTool sortBy label
+listTool nameType assignment
+listTool sortAxis w1
+listTool showFlags frequency
+integrate.overlapped_sep 300.000 30.000 30.000
+integrate.methods 1 0 1
+integrate.allow_motion 1
+integrate.adjust_linewidths 1
+integrate.motion_range 0.100 0.010 0.010
+integrate.min_linewidth 0.0329 0.0033 0.0033
+integrate.max_linewidth 3.2944 0.3338 0.3338
+integrate.fit_baseline 0
+integrate.subtract_peaks 0
+integrate.contoured_data 1
+integrate.rectangle_data 0
+integrate.maxiterations 10000
+integrate.tolerance 0.001000
+peak.pick 0.000000 0.000000 0.000000 0.000000 0
+peak.pick-minimum-linewidth 0.000000 0.000000 0.000000
+peak.pick-minimum-dropoff 0.00
+noise.sigma 0.338245
+ornament.label.size 2.486682
+ornament.line.size 0.402014
+ornament.peak.size 4.144469
+ornament.grid.size 0.400000
+ornament.peakgroup.size 0.799883
+ornament.selectsize 0.500000
+ornament.pointersize 0.500000
+ornament.lineendsize 0.500000
+<attached data>
+<end attached data>
+<view>
+name hbhaconh
+precision 0
+precision_by_units 0 0 0
+viewmode 0
+show 1 label line peak grid peakgroup
+axistype 2
+flags crosshair crosshair2
+contour.pos 15 1.69 1.400000 0.000000 red-yellow
+contour.neg 15 -1.69 1.400000 0.000000 green-blue
+<params>
+orientation 2 0 1
+location 2637 82
+size 250 740
+offset 65.906023 259.586819 159.519155
+scale 1.000000 0.611940 1.621392
+zoom 37.783718
+flags 0
+<end params>
+<params>
+orientation 2 0 1
+location 2637 82
+size 250 740
+offset 65.906023 259.586819 159.519155
+scale 1.000000 0.611940 1.621392
+zoom 37.783718
+flags 0
+<end params>
+<params>
+orientation 2 0 1
+location 2637 82
+size 250 740
+offset 65.906023 259.586819 159.519155
+scale 1.000000 0.611940 1.621392
+zoom 37.783718
+flags 0
+<end params>
+<end view>
+<ornament>
+<end ornament>
+<end spectrum>
