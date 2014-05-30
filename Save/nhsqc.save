@@ -69,7 +69,7 @@ contour.neg 15 -10 1.400000 0.000000 green-blue
 orientation 1 0
 location 241 228
 size 768 716
-offset 536.698847 1268.638059
+offset 458.636308 1316.745591
 scale 1.000000 2.639064
 zoom 1.165732
 flags 0
@@ -78,7 +78,7 @@ flags 0
 orientation 1 0
 location 241 228
 size 768 716
-offset 536.698847 1268.638059
+offset 458.636308 1316.745591
 scale 1.000000 2.639064
 zoom 1.165732
 flags 0
@@ -87,7 +87,7 @@ flags 0
 orientation 1 0
 location 241 228
 size 768 716
-offset 536.698847 1268.638059
+offset 458.636308 1316.745591
 scale 1.000000 2.639064
 zoom 1.165732
 flags 0
@@ -1452,7 +1452,7 @@ xy 115.514,9.221 9.371,114.014
 ]
 type peak
 color 0 2 0 white
-flags 1 0 0 0
+flags 0 0 0 0
 id 88
 pos 115.454 7.515
 height 0.000 6.522
@@ -1917,7 +1917,7 @@ xy 100.621,8.529 8.679,99.121
 ]
 type peak
 color 0 2 0 white
-flags 1 0 0 0
+flags 0 0 0 0
 id 121
 pos 115.469 7.700
 height 0.000 5.992

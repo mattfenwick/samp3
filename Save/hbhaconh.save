@@ -50,7 +50,7 @@ peak.pick-minimum-dropoff 0.00
 noise.sigma 0.338245
 ornament.label.size 2.486682
 ornament.line.size 0.402014
-ornament.peak.size 4.144469
+ornament.peak.size 6.216704
 ornament.grid.size 0.400000
 ornament.peakgroup.size 0.799883
 ornament.selectsize 0.500000
@@ -66,13 +66,13 @@ viewmode 0
 show 1 label line peak grid peakgroup
 axistype 2
 flags crosshair crosshair2
-contour.pos 15 1.69 1.400000 0.000000 red-yellow
-contour.neg 15 -1.69 1.400000 0.000000 green-blue
+contour.pos 15 7 1.400000 0.000000 red-yellow
+contour.neg 15 -7 1.400000 0.000000 green-blue
 <params>
 orientation 2 0 1
 location 2637 104
 size 250 714
-offset 52.690012 251.066562 68.924982
+offset 47.794662 263.522572 68.924982
 scale 1.000000 0.611940 1.621392
 zoom 2.361482
 flags 0
@@ -81,7 +81,7 @@ flags 0
 orientation 2 0 1
 location 2637 104
 size 250 714
-offset 52.690012 251.066562 68.924982
+offset 47.794662 263.522572 68.924982
 scale 1.000000 0.611940 1.621392
 zoom 2.361482
 flags 0
@@ -90,12 +90,1214 @@ flags 0
 orientation 2 0 1
 location 2637 104
 size 250 714
-offset 52.690012 251.066562 68.924982
+offset 47.794662 263.522572 68.924982
 scale 1.000000 0.611940 1.621392
 zoom 2.361482
 flags 0
 <end params>
 <end view>
 <ornament>
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 1
+pos 129.423 9.559 4.493
+height 0.000 8.515
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 2
+pos 128.715 9.869 4.873
+fq 128.715 9.869 14.888
+height 0.000 13.918
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 3
+pos 128.590 9.013 4.457
+height 0.000 13.856
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 4
+pos 127.563 9.302 5.750
+height 0.000 19.925
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 5
+pos 127.555 9.302 1.235
+height 0.000 17.440
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 6
+pos 127.267 8.356 9.743
+height 0.000 -15.886
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 7
+pos 127.267 8.355 3.997
+height 0.000 56.591
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 8
+pos 127.266 8.355 2.042
+height 0.000 28.764
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 9
+pos 127.227 9.529 4.699
+height 0.000 20.356
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 10
+pos 127.148 9.232 4.694
+height 0.000 16.130
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 11
+pos 127.118 9.230 1.532
+height 0.000 7.653
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 12
+pos 126.307 8.785 4.637
+height 0.000 16.263
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 13
+pos 126.333 8.784 2.525
+height 0.000 -7.527
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 14
+pos 126.334 8.481 4.142
+height 0.000 19.023
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 15
+pos 126.309 8.483 2.458
+height 0.000 10.564
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 16
+pos 126.124 9.337 1.991
+height 0.000 9.881
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 17
+pos 126.108 9.334 5.246
+height 0.000 18.014
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 18
+pos 125.696 9.204 2.863
+height 0.000 -9.484
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 19
+pos 125.655 9.201 5.526
+height 0.000 18.135
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 20
+pos 125.606 9.119 5.252
+height 0.000 22.421
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 21
+pos 125.623 9.117 2.141
+height 0.000 -8.260
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 22
+pos 125.622 9.119 1.842
+height 0.000 -9.031
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 23
+pos 124.437 9.197 4.833
+height 0.000 15.975
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 24
+pos 124.442 9.195 2.082
+height 0.000 10.094
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 25
+pos 124.292 8.143 5.187
+height 0.000 20.347
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 26
+pos 124.298 8.143 2.483
+height 0.000 -22.767
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 27
+pos 124.237 7.360 4.303
+height 0.000 26.291
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 28
+pos 124.212 7.362 1.907
+height 0.000 -7.430
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 29
+pos 124.247 7.360 1.226
+height 0.000 -7.329
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 30
+pos 124.073 7.770 4.744
+height 0.000 26.900
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 31
+pos 124.066 7.773 2.934
+height 0.000 -12.802
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 32
+pos 124.005 7.771 2.603
+height 0.000 -10.993
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 33
+pos 123.815 8.403 5.240
+height 0.000 22.151
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 34
+pos 123.807 8.400 3.119
+height 0.000 -7.331
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 35
+pos 123.375 7.501 4.902
+height 0.000 21.028
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 36
+pos 123.350 7.500 3.043
+height 0.000 -7.229
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 37
+pos 123.162 8.190 9.744
+height 0.000 13.470
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 38
+pos 123.143 8.189 4.494
+height 0.000 78.520
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 39
+pos 123.145 8.189 2.964
+height 0.000 -39.931
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 40
+pos 122.953 8.853 4.795
+height 0.000 27.090
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 41
+pos 122.948 8.849 2.204
+height 0.000 -7.362
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 42
+pos 122.948 8.851 1.723
+height 0.000 -8.604
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 43
+pos 122.697 8.457 5.119
+height 0.000 25.184
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 44
+pos 122.655 9.260 4.810
+height 0.000 25.902
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 45
+pos 122.648 9.260 1.909
+height 0.000 -9.436
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 46
+pos 122.404 8.737 5.379
+height 0.000 14.940
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 47
+pos 122.388 8.736 3.790
+height 0.000 -7.487
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 48
+pos 122.275 7.852 4.132
+height 0.000 25.984
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 49
+pos 122.295 7.853 3.679
+height 0.000 -7.369
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 50
+pos 122.275 7.852 3.346
+height 0.000 -8.209
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 51
+pos 122.131 8.356 1.774
+height 0.000 -11.076
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 52
+pos 122.052 8.357 9.754
+height 0.000 -13.661
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 53
+pos 122.068 8.356 4.540
+height 0.000 28.101
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 54
+pos 122.059 8.359 2.274
+height 0.000 -9.306
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 55
+pos 122.005 8.237 4.363
+height 0.000 -28.366
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 56
+pos 121.993 8.237 3.804
+height 0.000 -30.552
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 57
+pos 121.947 8.038 4.702
+height 0.000 -7.070
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 58
+pos 121.962 8.034 4.565
+height 0.000 81.484
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 59
+pos 121.964 8.034 2.632
+height 0.000 -63.912
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 60
+pos 121.894 8.901 5.190
+height 0.000 14.611
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 61
+pos 121.851 8.901 1.909
+height 0.000 9.375
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 62
+pos 121.762 7.977 4.253
+height 0.000 -20.242
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 63
+pos 121.772 7.979 3.595
+height 0.000 -23.585
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 64
+pos 121.467 7.959 4.400
+height 0.000 14.869
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 65
+pos 121.528 8.594 4.528
+height 0.000 28.362
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 66
+pos 121.514 8.593 1.889
+height 0.000 15.477
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 67
+pos 121.455 7.071 4.675
+height 0.000 16.938
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 68
+pos 121.433 8.414 9.743
+height 0.000 10.947
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 69
+pos 121.416 8.415 4.290
+height 0.000 50.887
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 70
+pos 121.419 8.414 1.694
+height 0.000 -27.643
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 71
+pos 121.240 7.976 9.739
+height 0.000 9.054
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 72
+pos 121.400 8.263 9.753
+height 0.000 16.196
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 73
+pos 121.438 8.263 4.257
+height 0.000 85.011
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 74
+pos 121.435 8.263 1.719
+height 0.000 -36.387
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 75
+pos 121.406 8.264 -0.140
+height 0.000 -7.736
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 76
+pos 121.291 8.366 4.721
+height 0.000 32.580
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 77
+pos 121.284 8.366 2.337
+height 0.000 14.185
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 78
+pos 121.125 8.249 3.931
+height 0.000 7.690
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 79
+pos 121.120 9.149 5.250
+height 0.000 16.651
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 80
+pos 121.164 7.984 4.078
+height 0.000 16.689
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 81
+pos 121.104 7.985 2.474
+height 0.000 7.818
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 82
+pos 120.849 7.803 4.731
+height 0.000 16.528
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 83
+pos 120.753 8.247 9.742
+height 0.000 -7.966
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 84
+pos 120.835 8.231 4.535
+height 0.000 -8.634
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 85
+pos 120.535 8.248 4.127
+height 0.000 9.132
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 86
+pos 120.545 8.246 3.785
+height 0.000 12.917
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 87
+pos 120.173 8.229 4.414
+height 0.000 -7.619
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 88
+pos 120.523 8.569 5.006
+height 0.000 19.155
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 89
+pos 120.528 8.569 0.661
+height 0.000 -7.024
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 90
+pos 120.521 8.042 4.549
+height 0.000 65.971
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 91
+pos 120.524 8.044 2.569
+height 0.000 -40.954
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 92
+pos 120.408 7.484 3.828
+height 0.000 -31.026
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 93
+pos 120.272 8.969 4.618
+height 0.000 24.148
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 94
+pos 120.273 7.955 4.228
+height 0.000 41.421
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 95
+pos 120.269 7.955 1.449
+height 0.000 29.124
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 96
+pos 120.114 8.233 9.750
+height 0.000 13.071
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 97
+pos 120.095 8.235 4.684
+height 0.000 -14.431
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 98
+pos 120.133 8.237 4.550
+height 0.000 175.618
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 99
+pos 120.134 8.233 2.650
+height 0.000 -141.771
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 100
+pos 119.962 8.242 3.931
+height 0.000 22.196
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 101
+pos 119.801 7.570 4.057
+height 0.000 -31.658
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 102
+pos 119.810 7.570 3.465
+height 0.000 -33.622
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 103
+pos 119.783 7.900 3.829
+height 0.000 -34.002
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 104
+pos 119.382 8.409 4.837
+height 0.000 15.114
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 105
+pos 119.379 8.407 2.258
+height 0.000 -7.466
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 106
+pos 119.473 8.891 3.502
+height 0.000 -15.811
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 107
+pos 119.435 8.892 5.667
+height 0.000 17.273
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 108
+pos 119.280 8.800 4.929
+height 0.000 21.271
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 109
+pos 118.867 9.396 5.132
+height 0.000 25.641
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 110
+pos 118.878 9.391 9.744
+height 0.000 -8.380
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 111
+pos 118.791 7.644 3.959
+height 0.000 23.435
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 112
+pos 118.784 8.647 9.758
+height 0.000 10.275
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 113
+pos 118.806 8.648 3.768
+height 0.000 17.536
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 114
+pos 118.810 8.650 2.302
+height 0.000 8.252
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 115
+pos 118.538 8.345 3.986
+height 0.000 17.932
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 116
+pos 118.584 8.343 1.273
+height 0.000 -7.568
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 117
+pos 118.488 8.239 4.698
+height 0.000 17.233
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 118
+pos 118.522 8.073 4.695
+height 0.000 18.608
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 119
+pos 118.534 8.073 2.829
+height 0.000 -8.955
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 120
+pos 118.476 8.073 2.596
+height 0.000 -7.117
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 121
+pos 118.265 8.805 5.399
+height 0.000 20.762
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 122
+pos 118.275 8.808 1.652
+height 0.000 -10.978
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 123
+pos 118.235 7.338 3.634
+height 0.000 14.612
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 124
+pos 118.165 8.123 4.915
+height 0.000 15.432
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 125
+pos 117.980 7.376 4.009
+height 0.000 14.061
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 126
+pos 117.935 7.370 2.097
+height 0.000 8.387
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 127
+pos 117.793 8.425 4.531
+height 0.000 22.294
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 128
+pos 117.681 8.549 4.405
+height 0.000 15.210
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 129
+pos 117.479 7.925 4.211
+height 0.000 26.313
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 130
+pos 117.501 7.924 1.523
+height 0.000 18.294
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 131
+pos 117.394 6.818 4.926
+height 0.000 15.177
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 132
+pos 117.393 6.811 2.509
+height 0.000 -7.675
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 133
+pos 117.335 8.338 9.743
+height 0.000 -8.453
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 134
+pos 117.361 8.337 3.861
+height 0.000 20.797
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 135
+pos 117.178 7.432 9.755
+height 0.000 -8.387
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 136
+pos 117.170 7.430 3.713
+height 0.000 18.546
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 137
+pos 117.013 8.991 4.464
+height 0.000 18.719
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 138
+pos 117.077 7.219 3.665
+height 0.000 15.862
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 139
+pos 116.906 7.315 3.901
+height 0.000 22.606
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 140
+pos 116.900 7.315 2.116
+height 0.000 -14.224
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 141
+pos 116.899 7.481 9.739
+height 0.000 8.693
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 142
+pos 116.895 7.479 4.038
+height 0.000 23.704
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 143
+pos 116.841 8.313 5.044
+height 0.000 21.691
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 144
+pos 116.856 8.313 2.606
+height 0.000 -11.610
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 145
+pos 116.766 8.312 2.354
+height 0.000 -9.781
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 146
+pos 116.715 7.864 4.125
+height 0.000 24.203
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 147
+pos 116.721 7.865 2.071
+height 0.000 -9.073
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 148
+pos 116.711 7.867 1.816
+height 0.000 -8.902
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 149
+pos 116.140 7.791 4.228
+height 0.000 18.753
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 150
+pos 116.099 8.239 4.184
+height 0.000 -35.542
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 151
+pos 116.027 7.964 4.379
+height 0.000 28.644
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 152
+pos 116.020 7.965 2.967
+height 0.000 -12.917
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 153
+pos 116.027 7.965 2.123
+height 0.000 -10.909
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 154
+pos 116.136 7.262 4.428
+height 0.000 28.237
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 155
+pos 116.144 7.260 1.531
+height 0.000 26.876
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 156
+pos 115.653 8.006 4.131
+height 0.000 -16.488
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 157
+pos 115.646 8.006 3.641
+height 0.000 -23.075
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 158
+pos 115.492 9.365 2.668
+height 0.000 -7.625
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 159
+pos 115.481 9.362 4.318
+height 0.000 17.736
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 160
+pos 115.033 7.910 9.744
+height 0.000 -15.675
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 161
+pos 115.054 7.909 4.082
+height 0.000 18.002
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 162
+pos 115.041 7.911 3.911
+height 0.000 -350.153
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 163
+pos 115.045 7.909 3.739
+height 0.000 15.780
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 164
+pos 114.203 7.078 4.223
+height 0.000 -25.268
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 165
+pos 114.210 7.079 3.596
+height 0.000 -25.189
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 166
+pos 113.980 8.316 4.060
+height 0.000 13.821
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 167
+pos 111.746 8.419 3.923
+height 0.000 17.768
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 168
+pos 111.734 8.417 1.579
+height 0.000 15.058
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 169
+pos 111.338 7.581 3.976
+height 0.000 25.853
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 170
+pos 111.332 7.579 1.694
+height 0.000 -18.335
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 171
+pos 111.330 8.566 9.746
+height 0.000 13.885
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 172
+pos 111.328 8.565 4.265
+height 0.000 58.608
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 173
+pos 111.340 8.566 1.798
+height 0.000 -28.006
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 174
+pos 110.389 8.719 4.417
+height 0.000 27.700
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 175
+pos 110.409 8.718 1.445
+height 0.000 20.069
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 176
+pos 110.408 7.960 4.146
+height 0.000 -40.809
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 177
+pos 110.396 7.958 3.906
+height 0.000 -43.752
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 178
+pos 109.120 8.292 4.322
+height 0.000 53.732
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 179
+pos 109.121 8.292 1.356
+height 0.000 40.803
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 180
+pos 109.083 8.446 4.113
+height 0.000 8.477
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 181
+pos 109.044 8.452 3.986
+height 0.000 -102.375
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 182
+pos 107.732 8.071 5.230
+height 0.000 25.132
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 183
+pos 107.727 8.072 2.880
+height 0.000 -14.418
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 184
+pos 107.726 8.071 2.113
+height 0.000 -14.312
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 185
+pos 107.405 9.297 9.750
+height 0.000 7.835
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 186
+pos 107.454 9.295 3.436
+height 0.000 19.188
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 187
+pos 107.453 9.294 2.010
+height 0.000 9.333
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 188
+pos 107.108 8.077 3.226
+height 0.000 17.576
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 189
+pos 107.073 8.076 1.195
+height 0.000 9.281
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 190
+pos 104.577 9.092 4.415
+height 0.000 18.852
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 191
+pos 104.566 9.091 2.683
+height 0.000 -22.585
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 192
+pos 102.927 8.280 4.272
+height 0.000 21.558
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 193
+pos 102.925 8.280 2.965
+height 0.000 -22.334
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 194
+pos 102.946 8.282 2.558
+height 0.000 -20.440
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 195
+pos 101.329 8.535 3.828
+height 0.000 12.412
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 196
+pos 101.296 8.533 1.813
+height 0.000 7.394
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 197
+pos 100.543 8.682 3.913
+height 0.000 21.211
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 198
+pos 127.001 9.800 3.384
+fq 127.001 9.800 13.399
+height 0.000 -8.065
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 199
+pos 109.667 6.949 2.489
+height 0.000 -8.741
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 200
+pos 109.545 6.689 2.492
+height 0.000 -7.562
 <end ornament>
 <end spectrum>
