@@ -70,29 +70,29 @@ contour.pos 15 0.562 1.400000 0.000000 red-yellow
 contour.neg 15 -0.562 1.400000 0.000000 green-blue
 <params>
 orientation 2 0 1
-location 2169 99
-size 382 720
-offset 132.015820 256.447377 93.905421
+location 2169 121
+size 382 694
+offset 86.578384 175.238702 -57.094535
 scale 1.000000 1.223881 0.890390
-zoom 17.969659
+zoom 2.246207
 flags 0
 <end params>
 <params>
 orientation 2 0 1
-location 2169 99
-size 382 720
-offset 132.015820 256.447377 93.905421
+location 2169 121
+size 382 694
+offset 86.578384 175.238702 -57.094535
 scale 1.000000 1.223881 0.890390
-zoom 17.969659
+zoom 2.246207
 flags 0
 <end params>
 <params>
 orientation 2 0 1
-location 2169 99
-size 382 720
-offset 132.015820 256.447377 93.905421
+location 2169 121
+size 382 694
+offset 86.578384 175.238702 -57.094535
 scale 1.000000 1.223881 0.890390
-zoom 17.969659
+zoom 2.246207
 flags 0
 <end params>
 <end view>
