@@ -1,6 +1,1917 @@
 {
   "dir": "/Network/Servers/macsent1.uchc.edu/Volumes/raid/mattf/Desktop/matt_samp3",
-  "groups": {},
+  "groups": {
+    "1": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 129.392
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 9.5630000000000006
+        }
+      }
+    },
+    "10": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 126.313
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.4730000000000008
+        }
+      }
+    },
+    "100": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 102.95
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.2750000000000004
+        }
+      }
+    },
+    "101": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 101.376
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.5289999999999999
+        }
+      }
+    },
+    "102": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 100.621
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.6790000000000003
+        }
+      }
+    },
+    "103": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 126.959
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 9.8079999999999998
+        }
+      }
+    },
+    "104": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 101.432
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.0730000000000004
+        }
+      }
+    },
+    "105": {
+      "aatype": "sQ/N",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 112.33499999999999
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.001000000002290335,
+          "shift": 7.6799999999999997
+        },
+        "3": {
+          "atomtype": "?",
+          "deviation": 0.0015000000004749079,
+          "shift": 6.9604999999999997
+        },
+        "4": {
+          "atomtype": "?",
+          "deviation": 0.0069999998855969992,
+          "shift": 111.842
+        }
+      }
+    },
+    "106": {
+      "aatype": "sQ/N",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 110.148
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0015000000004749079,
+          "shift": 6.9444999999999997
+        },
+        "3": {
+          "atomtype": "?",
+          "deviation": 0.0015000000004749079,
+          "shift": 6.6654999999999998
+        },
+        "4": {
+          "atomtype": "?",
+          "deviation": 0.0015000008602313714,
+          "shift": 109.65549999999999
+        }
+      }
+    },
+    "107": {
+      "aatype": "sR",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.019499999989230091,
+          "shift": 114.1165
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.2560000000000002
+        },
+        "3": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.375
+        }
+      }
+    },
+    "108": {
+      "aatype": "sR",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.012999999961726225,
+          "shift": 115.995
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.149
+        },
+        "3": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.0570000000000004
+        }
+      }
+    },
+    "109": {
+      "aatype": "sR",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0035000000727263138,
+          "shift": 115.2715
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.5970000000000004
+        },
+        "3": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.4980000000000002
+        }
+      }
+    },
+    "11": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 126.133
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 9.3369999999999997
+        }
+      }
+    },
+    "110": {
+      "aatype": "sQ/N",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0074999999355835215,
+          "shift": 115.4615
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.5149999999999997
+        },
+        "3": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.7000000000000002
+        }
+      }
+    },
+    "12": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 125.69
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 9.1999999999999993
+        }
+      }
+    },
+    "13": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 125.61799999999999
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 9.1189999999999998
+        }
+      }
+    },
+    "14": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 124.443
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 9.1940000000000008
+        }
+      }
+    },
+    "15": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 124.41
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.6289999999999996
+        }
+      }
+    },
+    "16": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 124.319
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.1389999999999993
+        }
+      }
+    },
+    "17": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 124.267
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.3499999999999996
+        }
+      }
+    },
+    "18": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 124.044
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.7619999999999996
+        }
+      }
+    },
+    "19": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 123.82599999999999
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.4000000000000004
+        }
+      }
+    },
+    "2": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 128.744
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 9.875
+        }
+      }
+    },
+    "20": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 123.37
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.492
+        }
+      }
+    },
+    "21": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 123.10599999999999
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.1899999999999995
+        }
+      }
+    },
+    "22": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 122.961
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.8559999999999999
+        }
+      }
+    },
+    "23": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 122.712
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.4610000000000003
+        }
+      }
+    },
+    "24": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 122.634
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 9.2699999999999996
+        }
+      }
+    },
+    "25": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 122.35599999999999
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.7240000000000002
+        }
+      }
+    },
+    "26": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 122.304
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.8529999999999998
+        }
+      }
+    },
+    "27": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 122.08499999999999
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.3580000000000005
+        }
+      }
+    },
+    "28": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 122.014
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.2360000000000007
+        }
+      }
+    },
+    "29": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 121.96599999999999
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.0299999999999994
+        }
+      }
+    },
+    "3": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 128.57900000000001
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 9.0180000000000007
+        }
+      }
+    },
+    "30": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 121.876
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.9019999999999992
+        }
+      }
+    },
+    "31": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 121.72799999999999
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.9630000000000001
+        }
+      }
+    },
+    "32": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 121.577
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.593
+        }
+      }
+    },
+    "33": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 121.44199999999999
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.0549999999999997
+        }
+      }
+    },
+    "34": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 121.42100000000001
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.4149999999999991
+        }
+      }
+    },
+    "35": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 121.408
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.9530000000000003
+        }
+      }
+    },
+    "36": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 121.39400000000001
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.266
+        }
+      }
+    },
+    "37": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 121.316
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.3640000000000008
+        }
+      }
+    },
+    "38": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 121.15900000000001
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.2590000000000003
+        }
+      }
+    },
+    "39": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 121.151
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 9.1430000000000007
+        }
+      }
+    },
+    "4": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 128.17699999999999
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 10.349
+        }
+      }
+    },
+    "40": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 121.127
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.9710000000000001
+        }
+      }
+    },
+    "41": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 120.896
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.7930000000000001
+        }
+      }
+    },
+    "42": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 120.538
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.2279999999999998
+        }
+      }
+    },
+    "43": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 120.499
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.5630000000000006
+        }
+      }
+    },
+    "44": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 120.446
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.032
+        }
+      }
+    },
+    "45": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 120.44
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.476
+        }
+      }
+    },
+    "46": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 120.351
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.9710000000000001
+        }
+      }
+    },
+    "47": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 120.273
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.9560000000000004
+        }
+      }
+    },
+    "48": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 120.164
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.2149999999999999
+        }
+      }
+    },
+    "49": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 120.116
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.2189999999999994
+        }
+      }
+    },
+    "5": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 127.547
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 9.3049999999999997
+        }
+      }
+    },
+    "50": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 119.889
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.2530000000000001
+        }
+      }
+    },
+    "51": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 119.831
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.5579999999999998
+        }
+      }
+    },
+    "52": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 119.705
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.8780000000000001
+        }
+      }
+    },
+    "53": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 119.417
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.4139999999999997
+        }
+      }
+    },
+    "54": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 119.372
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.8859999999999992
+        }
+      }
+    },
+    "55": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 119.267
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.8019999999999996
+        }
+      }
+    },
+    "56": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 118.90000000000001
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 9.4000000000000004
+        }
+      }
+    },
+    "57": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 118.822
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.6319999999999997
+        }
+      }
+    },
+    "58": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 118.79300000000001
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.6449999999999996
+        }
+      }
+    },
+    "59": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 118.535
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.3460000000000001
+        }
+      }
+    },
+    "6": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 127.227
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.3499999999999996
+        }
+      }
+    },
+    "60": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 118.524
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.2370000000000001
+        }
+      }
+    },
+    "61": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 118.495
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.0730000000000004
+        }
+      }
+    },
+    "62": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 118.265
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.8049999999999997
+        }
+      }
+    },
+    "63": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 118.247
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.3330000000000002
+        }
+      }
+    },
+    "64": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 118.20399999999999
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.0960000000000001
+        }
+      }
+    },
+    "65": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 118.001
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.3600000000000003
+        }
+      }
+    },
+    "66": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 117.73699999999999
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.4190000000000005
+        }
+      }
+    },
+    "67": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 117.697
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.5449999999999999
+        }
+      }
+    },
+    "68": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 117.515
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.9219999999999997
+        }
+      }
+    },
+    "69": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 117.42
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 6.8019999999999996
+        }
+      }
+    },
+    "7": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 127.20099999999999
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 9.5280000000000005
+        }
+      }
+    },
+    "70": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 117.31999999999999
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.3339999999999996
+        }
+      }
+    },
+    "71": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 117.205
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.4210000000000003
+        }
+      }
+    },
+    "72": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 117.036
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.9979999999999993
+        }
+      }
+    },
+    "73": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 117.0
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.2030000000000003
+        }
+      }
+    },
+    "74": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 116.899
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.3099999999999996
+        }
+      }
+    },
+    "75": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 116.876
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.4640000000000004
+        }
+      }
+    },
+    "76": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 116.84999999999999
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.3149999999999995
+        }
+      }
+    },
+    "77": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 116.73399999999999
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.8550000000000004
+        }
+      }
+    },
+    "78": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 116.13500000000001
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.7830000000000004
+        }
+      }
+    },
+    "79": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 116.11799999999999
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.2370000000000001
+        }
+      }
+    },
+    "8": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 127.176
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 9.2400000000000002
+        }
+      }
+    },
+    "80": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 116.11
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.9660000000000002
+        }
+      }
+    },
+    "81": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 116.119
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.2489999999999997
+        }
+      }
+    },
+    "82": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 115.65600000000001
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.0030000000000001
+        }
+      }
+    },
+    "83": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 115.514
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 9.3710000000000004
+        }
+      }
+    },
+    "84": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 115.179
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.9480000000000004
+        }
+      }
+    },
+    "85": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 115.139
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.9349999999999996
+        }
+      }
+    },
+    "86": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 115.059
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.9009999999999998
+        }
+      }
+    },
+    "87": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 114.23399999999999
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.0609999999999999
+        }
+      }
+    },
+    "88": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 113.988
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.3059999999999992
+        }
+      }
+    },
+    "89": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 111.74299999999999
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.4209999999999994
+        }
+      }
+    },
+    "9": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 126.30500000000001
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.782
+        }
+      }
+    },
+    "90": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 111.542
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.5659999999999998
+        }
+      }
+    },
+    "91": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 111.337
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.5530000000000008
+        }
+      }
+    },
+    "92": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 110.416
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.7189999999999994
+        }
+      }
+    },
+    "93": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 110.404
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 7.9569999999999999
+        }
+      }
+    },
+    "94": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 109.09399999999999
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.2840000000000007
+        }
+      }
+    },
+    "95": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 109.036
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.4420000000000002
+        }
+      }
+    },
+    "96": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 107.72799999999999
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.0619999999999994
+        }
+      }
+    },
+    "97": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 107.458
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 9.2940000000000005
+        }
+      }
+    },
+    "98": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 107.117
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 8.0660000000000007
+        }
+      }
+    },
+    "99": {
+      "aatype": "?",
+      "next": "?",
+      "residue": "?",
+      "resonances": {
+        "1": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 104.607
+        },
+        "2": {
+          "atomtype": "?",
+          "deviation": 0.0,
+          "shift": 9.0920000000000005
+        }
+      }
+    }
+  },
   "keyvals": {},
   "notes": [],
   "path": "/Network/Servers/macsent1.uchc.edu/Volumes/raid/mattf/Desktop/matt_samp3/Projects/assign.proj",
@@ -243,8 +2154,14 @@
             9.5630000000000006
           ],
           "resonances": [
-            null,
-            null
+            [
+              "1",
+              "1"
+            ],
+            [
+              "1",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -270,8 +2187,14 @@
             9.875
           ],
           "resonances": [
-            null,
-            null
+            [
+              "2",
+              "1"
+            ],
+            [
+              "2",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -297,8 +2220,14 @@
             9.0180000000000007
           ],
           "resonances": [
-            null,
-            null
+            [
+              "3",
+              "1"
+            ],
+            [
+              "3",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -324,8 +2253,14 @@
             10.349
           ],
           "resonances": [
-            null,
-            null
+            [
+              "4",
+              "1"
+            ],
+            [
+              "4",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -351,8 +2286,14 @@
             9.3049999999999997
           ],
           "resonances": [
-            null,
-            null
+            [
+              "5",
+              "1"
+            ],
+            [
+              "5",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -378,8 +2319,14 @@
             8.3499999999999996
           ],
           "resonances": [
-            null,
-            null
+            [
+              "6",
+              "1"
+            ],
+            [
+              "6",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -405,8 +2352,14 @@
             9.5280000000000005
           ],
           "resonances": [
-            null,
-            null
+            [
+              "7",
+              "1"
+            ],
+            [
+              "7",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -432,8 +2385,14 @@
             9.2400000000000002
           ],
           "resonances": [
-            null,
-            null
+            [
+              "8",
+              "1"
+            ],
+            [
+              "8",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -459,8 +2418,14 @@
             8.782
           ],
           "resonances": [
-            null,
-            null
+            [
+              "9",
+              "1"
+            ],
+            [
+              "9",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -486,8 +2451,14 @@
             8.4730000000000008
           ],
           "resonances": [
-            null,
-            null
+            [
+              "10",
+              "1"
+            ],
+            [
+              "10",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -513,8 +2484,14 @@
             9.3369999999999997
           ],
           "resonances": [
-            null,
-            null
+            [
+              "11",
+              "1"
+            ],
+            [
+              "11",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -540,8 +2517,14 @@
             9.1999999999999993
           ],
           "resonances": [
-            null,
-            null
+            [
+              "12",
+              "1"
+            ],
+            [
+              "12",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -567,8 +2550,14 @@
             9.1189999999999998
           ],
           "resonances": [
-            null,
-            null
+            [
+              "13",
+              "1"
+            ],
+            [
+              "13",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -594,8 +2583,14 @@
             9.1940000000000008
           ],
           "resonances": [
-            null,
-            null
+            [
+              "14",
+              "1"
+            ],
+            [
+              "14",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -621,8 +2616,14 @@
             8.6289999999999996
           ],
           "resonances": [
-            null,
-            null
+            [
+              "15",
+              "1"
+            ],
+            [
+              "15",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -648,8 +2649,14 @@
             8.1389999999999993
           ],
           "resonances": [
-            null,
-            null
+            [
+              "16",
+              "1"
+            ],
+            [
+              "16",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -675,8 +2682,14 @@
             7.3499999999999996
           ],
           "resonances": [
-            null,
-            null
+            [
+              "17",
+              "1"
+            ],
+            [
+              "17",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -702,8 +2715,14 @@
             7.7619999999999996
           ],
           "resonances": [
-            null,
-            null
+            [
+              "18",
+              "1"
+            ],
+            [
+              "18",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -729,8 +2748,14 @@
             8.4000000000000004
           ],
           "resonances": [
-            null,
-            null
+            [
+              "19",
+              "1"
+            ],
+            [
+              "19",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -756,8 +2781,14 @@
             7.492
           ],
           "resonances": [
-            null,
-            null
+            [
+              "20",
+              "1"
+            ],
+            [
+              "20",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -783,8 +2814,14 @@
             8.1899999999999995
           ],
           "resonances": [
-            null,
-            null
+            [
+              "21",
+              "1"
+            ],
+            [
+              "21",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -810,8 +2847,14 @@
             8.8559999999999999
           ],
           "resonances": [
-            null,
-            null
+            [
+              "22",
+              "1"
+            ],
+            [
+              "22",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -837,8 +2880,14 @@
             8.4610000000000003
           ],
           "resonances": [
-            null,
-            null
+            [
+              "23",
+              "1"
+            ],
+            [
+              "23",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -864,8 +2913,14 @@
             9.2699999999999996
           ],
           "resonances": [
-            null,
-            null
+            [
+              "24",
+              "1"
+            ],
+            [
+              "24",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -891,8 +2946,14 @@
             8.7240000000000002
           ],
           "resonances": [
-            null,
-            null
+            [
+              "25",
+              "1"
+            ],
+            [
+              "25",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -918,8 +2979,14 @@
             7.8529999999999998
           ],
           "resonances": [
-            null,
-            null
+            [
+              "26",
+              "1"
+            ],
+            [
+              "26",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -945,8 +3012,14 @@
             8.3580000000000005
           ],
           "resonances": [
-            null,
-            null
+            [
+              "27",
+              "1"
+            ],
+            [
+              "27",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -972,8 +3045,14 @@
             8.2360000000000007
           ],
           "resonances": [
-            null,
-            null
+            [
+              "28",
+              "1"
+            ],
+            [
+              "28",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1026,8 +3105,14 @@
             8.0299999999999994
           ],
           "resonances": [
-            null,
-            null
+            [
+              "29",
+              "1"
+            ],
+            [
+              "29",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1053,8 +3138,14 @@
             8.9019999999999992
           ],
           "resonances": [
-            null,
-            null
+            [
+              "30",
+              "1"
+            ],
+            [
+              "30",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1080,8 +3171,14 @@
             7.9630000000000001
           ],
           "resonances": [
-            null,
-            null
+            [
+              "31",
+              "1"
+            ],
+            [
+              "31",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1107,8 +3204,14 @@
             8.593
           ],
           "resonances": [
-            null,
-            null
+            [
+              "32",
+              "1"
+            ],
+            [
+              "32",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1134,8 +3237,14 @@
             7.0549999999999997
           ],
           "resonances": [
-            null,
-            null
+            [
+              "33",
+              "1"
+            ],
+            [
+              "33",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1161,8 +3270,14 @@
             8.4149999999999991
           ],
           "resonances": [
-            null,
-            null
+            [
+              "34",
+              "1"
+            ],
+            [
+              "34",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1188,8 +3303,14 @@
             7.9530000000000003
           ],
           "resonances": [
-            null,
-            null
+            [
+              "35",
+              "1"
+            ],
+            [
+              "35",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1215,8 +3336,14 @@
             8.266
           ],
           "resonances": [
-            null,
-            null
+            [
+              "36",
+              "1"
+            ],
+            [
+              "36",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1242,8 +3369,14 @@
             8.3640000000000008
           ],
           "resonances": [
-            null,
-            null
+            [
+              "37",
+              "1"
+            ],
+            [
+              "37",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1269,8 +3402,14 @@
             8.2590000000000003
           ],
           "resonances": [
-            null,
-            null
+            [
+              "38",
+              "1"
+            ],
+            [
+              "38",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1296,8 +3435,14 @@
             9.1430000000000007
           ],
           "resonances": [
-            null,
-            null
+            [
+              "39",
+              "1"
+            ],
+            [
+              "39",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1323,8 +3468,14 @@
             7.9710000000000001
           ],
           "resonances": [
-            null,
-            null
+            [
+              "40",
+              "1"
+            ],
+            [
+              "40",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1350,8 +3501,14 @@
             7.7930000000000001
           ],
           "resonances": [
-            null,
-            null
+            [
+              "41",
+              "1"
+            ],
+            [
+              "41",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1377,8 +3534,14 @@
             8.2279999999999998
           ],
           "resonances": [
-            null,
-            null
+            [
+              "42",
+              "1"
+            ],
+            [
+              "42",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1404,8 +3567,14 @@
             8.5630000000000006
           ],
           "resonances": [
-            null,
-            null
+            [
+              "43",
+              "1"
+            ],
+            [
+              "43",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1431,8 +3600,14 @@
             8.032
           ],
           "resonances": [
-            null,
-            null
+            [
+              "44",
+              "1"
+            ],
+            [
+              "44",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1458,8 +3633,14 @@
             7.476
           ],
           "resonances": [
-            null,
-            null
+            [
+              "45",
+              "1"
+            ],
+            [
+              "45",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1485,8 +3666,14 @@
             8.9710000000000001
           ],
           "resonances": [
-            null,
-            null
+            [
+              "46",
+              "1"
+            ],
+            [
+              "46",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1512,8 +3699,14 @@
             7.9560000000000004
           ],
           "resonances": [
-            null,
-            null
+            [
+              "47",
+              "1"
+            ],
+            [
+              "47",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1566,8 +3759,14 @@
             8.2149999999999999
           ],
           "resonances": [
-            null,
-            null
+            [
+              "48",
+              "1"
+            ],
+            [
+              "48",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1620,8 +3819,14 @@
             8.2189999999999994
           ],
           "resonances": [
-            null,
-            null
+            [
+              "49",
+              "1"
+            ],
+            [
+              "49",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1674,8 +3879,14 @@
             8.2530000000000001
           ],
           "resonances": [
-            null,
-            null
+            [
+              "50",
+              "1"
+            ],
+            [
+              "50",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1701,8 +3912,14 @@
             7.5579999999999998
           ],
           "resonances": [
-            null,
-            null
+            [
+              "51",
+              "1"
+            ],
+            [
+              "51",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1728,8 +3945,14 @@
             7.8780000000000001
           ],
           "resonances": [
-            null,
-            null
+            [
+              "52",
+              "1"
+            ],
+            [
+              "52",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1755,8 +3978,14 @@
             8.4139999999999997
           ],
           "resonances": [
-            null,
-            null
+            [
+              "53",
+              "1"
+            ],
+            [
+              "53",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1782,8 +4011,14 @@
             8.8859999999999992
           ],
           "resonances": [
-            null,
-            null
+            [
+              "54",
+              "1"
+            ],
+            [
+              "54",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1809,8 +4044,14 @@
             8.8019999999999996
           ],
           "resonances": [
-            null,
-            null
+            [
+              "55",
+              "1"
+            ],
+            [
+              "55",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1836,8 +4077,14 @@
             9.4000000000000004
           ],
           "resonances": [
-            null,
-            null
+            [
+              "56",
+              "1"
+            ],
+            [
+              "56",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1863,8 +4110,14 @@
             7.6319999999999997
           ],
           "resonances": [
-            null,
-            null
+            [
+              "57",
+              "1"
+            ],
+            [
+              "57",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1890,8 +4143,14 @@
             8.6449999999999996
           ],
           "resonances": [
-            null,
-            null
+            [
+              "58",
+              "1"
+            ],
+            [
+              "58",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1917,8 +4176,14 @@
             8.3460000000000001
           ],
           "resonances": [
-            null,
-            null
+            [
+              "59",
+              "1"
+            ],
+            [
+              "59",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1944,8 +4209,14 @@
             8.2370000000000001
           ],
           "resonances": [
-            null,
-            null
+            [
+              "60",
+              "1"
+            ],
+            [
+              "60",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1971,8 +4242,14 @@
             8.0730000000000004
           ],
           "resonances": [
-            null,
-            null
+            [
+              "61",
+              "1"
+            ],
+            [
+              "61",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -1998,8 +4275,14 @@
             8.8049999999999997
           ],
           "resonances": [
-            null,
-            null
+            [
+              "62",
+              "1"
+            ],
+            [
+              "62",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2025,8 +4308,14 @@
             7.3330000000000002
           ],
           "resonances": [
-            null,
-            null
+            [
+              "63",
+              "1"
+            ],
+            [
+              "63",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2052,8 +4341,14 @@
             8.0960000000000001
           ],
           "resonances": [
-            null,
-            null
+            [
+              "64",
+              "1"
+            ],
+            [
+              "64",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2079,8 +4374,14 @@
             7.3600000000000003
           ],
           "resonances": [
-            null,
-            null
+            [
+              "65",
+              "1"
+            ],
+            [
+              "65",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2106,8 +4407,14 @@
             8.4190000000000005
           ],
           "resonances": [
-            null,
-            null
+            [
+              "66",
+              "1"
+            ],
+            [
+              "66",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2133,8 +4440,14 @@
             8.5449999999999999
           ],
           "resonances": [
-            null,
-            null
+            [
+              "67",
+              "1"
+            ],
+            [
+              "67",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2160,8 +4473,14 @@
             7.9219999999999997
           ],
           "resonances": [
-            null,
-            null
+            [
+              "68",
+              "1"
+            ],
+            [
+              "68",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2187,8 +4506,14 @@
             6.8019999999999996
           ],
           "resonances": [
-            null,
-            null
+            [
+              "69",
+              "1"
+            ],
+            [
+              "69",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2214,8 +4539,14 @@
             8.3339999999999996
           ],
           "resonances": [
-            null,
-            null
+            [
+              "70",
+              "1"
+            ],
+            [
+              "70",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2241,8 +4572,14 @@
             7.4210000000000003
           ],
           "resonances": [
-            null,
-            null
+            [
+              "71",
+              "1"
+            ],
+            [
+              "71",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2268,8 +4605,14 @@
             8.9979999999999993
           ],
           "resonances": [
-            null,
-            null
+            [
+              "72",
+              "1"
+            ],
+            [
+              "72",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2295,8 +4638,14 @@
             7.2030000000000003
           ],
           "resonances": [
-            null,
-            null
+            [
+              "73",
+              "1"
+            ],
+            [
+              "73",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2322,8 +4671,14 @@
             7.3099999999999996
           ],
           "resonances": [
-            null,
-            null
+            [
+              "74",
+              "1"
+            ],
+            [
+              "74",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2349,8 +4704,14 @@
             7.4640000000000004
           ],
           "resonances": [
-            null,
-            null
+            [
+              "75",
+              "1"
+            ],
+            [
+              "75",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2376,8 +4737,14 @@
             8.3149999999999995
           ],
           "resonances": [
-            null,
-            null
+            [
+              "76",
+              "1"
+            ],
+            [
+              "76",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2403,8 +4770,14 @@
             7.8550000000000004
           ],
           "resonances": [
-            null,
-            null
+            [
+              "77",
+              "1"
+            ],
+            [
+              "77",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2430,8 +4803,14 @@
             7.7830000000000004
           ],
           "resonances": [
-            null,
-            null
+            [
+              "78",
+              "1"
+            ],
+            [
+              "78",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2457,8 +4836,14 @@
             8.2370000000000001
           ],
           "resonances": [
-            null,
-            null
+            [
+              "79",
+              "1"
+            ],
+            [
+              "79",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2484,8 +4869,14 @@
             7.9660000000000002
           ],
           "resonances": [
-            null,
-            null
+            [
+              "80",
+              "1"
+            ],
+            [
+              "80",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2511,8 +4902,14 @@
             7.2489999999999997
           ],
           "resonances": [
-            null,
-            null
+            [
+              "81",
+              "1"
+            ],
+            [
+              "81",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2538,8 +4935,14 @@
             8.0030000000000001
           ],
           "resonances": [
-            null,
-            null
+            [
+              "82",
+              "1"
+            ],
+            [
+              "82",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2565,8 +4968,14 @@
             9.3710000000000004
           ],
           "resonances": [
-            null,
-            null
+            [
+              "83",
+              "1"
+            ],
+            [
+              "83",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2592,8 +5001,14 @@
             7.5149999999999997
           ],
           "resonances": [
-            null,
-            null
+            [
+              "110",
+              "1"
+            ],
+            [
+              "110",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2619,8 +5034,14 @@
             7.9480000000000004
           ],
           "resonances": [
-            null,
-            null
+            [
+              "84",
+              "1"
+            ],
+            [
+              "84",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2646,8 +5067,14 @@
             7.9349999999999996
           ],
           "resonances": [
-            null,
-            null
+            [
+              "85",
+              "1"
+            ],
+            [
+              "85",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2727,8 +5154,14 @@
             7.9009999999999998
           ],
           "resonances": [
-            null,
-            null
+            [
+              "86",
+              "1"
+            ],
+            [
+              "86",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2835,8 +5268,14 @@
             7.0609999999999999
           ],
           "resonances": [
-            null,
-            null
+            [
+              "87",
+              "1"
+            ],
+            [
+              "87",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2862,8 +5301,14 @@
             8.3059999999999992
           ],
           "resonances": [
-            null,
-            null
+            [
+              "88",
+              "1"
+            ],
+            [
+              "88",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2916,8 +5361,14 @@
             7.6790000000000003
           ],
           "resonances": [
-            null,
-            null
+            [
+              "105",
+              "1"
+            ],
+            [
+              "105",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2970,8 +5421,14 @@
             6.9589999999999996
           ],
           "resonances": [
-            null,
-            null
+            [
+              "105",
+              "1"
+            ],
+            [
+              "105",
+              "3"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -2997,8 +5454,14 @@
             7.681
           ],
           "resonances": [
-            null,
-            null
+            [
+              "105",
+              "4"
+            ],
+            [
+              "105",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3024,8 +5487,14 @@
             6.9619999999999997
           ],
           "resonances": [
-            null,
-            null
+            [
+              "105",
+              "4"
+            ],
+            [
+              "105",
+              "3"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3051,8 +5520,14 @@
             8.4209999999999994
           ],
           "resonances": [
-            null,
-            null
+            [
+              "89",
+              "1"
+            ],
+            [
+              "89",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3078,8 +5553,14 @@
             7.5659999999999998
           ],
           "resonances": [
-            null,
-            null
+            [
+              "90",
+              "1"
+            ],
+            [
+              "90",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3105,8 +5586,14 @@
             8.5530000000000008
           ],
           "resonances": [
-            null,
-            null
+            [
+              "91",
+              "1"
+            ],
+            [
+              "91",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3132,8 +5619,14 @@
             8.7189999999999994
           ],
           "resonances": [
-            null,
-            null
+            [
+              "92",
+              "1"
+            ],
+            [
+              "92",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3159,8 +5652,14 @@
             7.9569999999999999
           ],
           "resonances": [
-            null,
-            null
+            [
+              "93",
+              "1"
+            ],
+            [
+              "93",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3186,8 +5685,14 @@
             6.9429999999999996
           ],
           "resonances": [
-            null,
-            null
+            [
+              "106",
+              "1"
+            ],
+            [
+              "106",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3213,8 +5718,14 @@
             6.6639999999999997
           ],
           "resonances": [
-            null,
-            null
+            [
+              "106",
+              "1"
+            ],
+            [
+              "106",
+              "3"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3240,8 +5751,14 @@
             8.2840000000000007
           ],
           "resonances": [
-            null,
-            null
+            [
+              "94",
+              "1"
+            ],
+            [
+              "94",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3267,8 +5784,14 @@
             8.4420000000000002
           ],
           "resonances": [
-            null,
-            null
+            [
+              "95",
+              "1"
+            ],
+            [
+              "95",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3294,8 +5817,14 @@
             8.0619999999999994
           ],
           "resonances": [
-            null,
-            null
+            [
+              "96",
+              "1"
+            ],
+            [
+              "96",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3321,8 +5850,14 @@
             9.2940000000000005
           ],
           "resonances": [
-            null,
-            null
+            [
+              "97",
+              "1"
+            ],
+            [
+              "97",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3348,8 +5883,14 @@
             8.0660000000000007
           ],
           "resonances": [
-            null,
-            null
+            [
+              "98",
+              "1"
+            ],
+            [
+              "98",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3375,8 +5916,14 @@
             9.0920000000000005
           ],
           "resonances": [
-            null,
-            null
+            [
+              "99",
+              "1"
+            ],
+            [
+              "99",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3402,8 +5949,14 @@
             8.2750000000000004
           ],
           "resonances": [
-            null,
-            null
+            [
+              "100",
+              "1"
+            ],
+            [
+              "100",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3429,8 +5982,14 @@
             8.5289999999999999
           ],
           "resonances": [
-            null,
-            null
+            [
+              "101",
+              "1"
+            ],
+            [
+              "101",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3456,8 +6015,14 @@
             8.6790000000000003
           ],
           "resonances": [
-            null,
-            null
+            [
+              "102",
+              "1"
+            ],
+            [
+              "102",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3483,8 +6048,14 @@
             7.7000000000000002
           ],
           "resonances": [
-            null,
-            null
+            [
+              "110",
+              "1"
+            ],
+            [
+              "110",
+              "3"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3510,8 +6081,14 @@
             7.149
           ],
           "resonances": [
-            null,
-            null
+            [
+              "108",
+              "1"
+            ],
+            [
+              "108",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3537,8 +6114,14 @@
             7.0570000000000004
           ],
           "resonances": [
-            null,
-            null
+            [
+              "108",
+              "1"
+            ],
+            [
+              "108",
+              "3"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3564,8 +6147,14 @@
             7.2560000000000002
           ],
           "resonances": [
-            null,
-            null
+            [
+              "107",
+              "1"
+            ],
+            [
+              "107",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3591,8 +6180,14 @@
             7.375
           ],
           "resonances": [
-            null,
-            null
+            [
+              "107",
+              "1"
+            ],
+            [
+              "107",
+              "3"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3618,8 +6213,14 @@
             9.8079999999999998
           ],
           "resonances": [
-            null,
-            null
+            [
+              "103",
+              "1"
+            ],
+            [
+              "103",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3645,8 +6246,14 @@
             8.0730000000000004
           ],
           "resonances": [
-            null,
-            null
+            [
+              "104",
+              "1"
+            ],
+            [
+              "104",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3672,8 +6279,14 @@
             6.9459999999999997
           ],
           "resonances": [
-            null,
-            null
+            [
+              "106",
+              "4"
+            ],
+            [
+              "106",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3699,8 +6312,14 @@
             6.6669999999999998
           ],
           "resonances": [
-            null,
-            null
+            [
+              "106",
+              "4"
+            ],
+            [
+              "106",
+              "3"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3726,8 +6345,14 @@
             7.5970000000000004
           ],
           "resonances": [
-            null,
-            null
+            [
+              "109",
+              "1"
+            ],
+            [
+              "109",
+              "2"
+            ]
           ],
           "type": "peak",
           "volume": null,
@@ -3753,8 +6378,14 @@
             7.4980000000000002
           ],
           "resonances": [
-            null,
-            null
+            [
+              "109",
+              "1"
+            ],
+            [
+              "109",
+              "3"
+            ]
           ],
           "type": "peak",
           "volume": null,
