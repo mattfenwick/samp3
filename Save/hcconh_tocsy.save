@@ -17,7 +17,7 @@ pathname ../Data/hcconh_tocsy.ucsf
 dimension 3
 shift -0.002559 0.024226 0.000000
 points 256 512 256
-extraPeakPlanes 4 4 4
+extraPeakPlanes 2 2 2
 assignMultiAxisGuess 0
 assignGuessThreshold 0.000000
 assignRelation 1 4 
@@ -48,7 +48,7 @@ peak.pick 0.000000 0.000000 0.000000 0.000000 0
 peak.pick-minimum-linewidth 0.000000 0.000000 0.000000
 peak.pick-minimum-dropoff 0.00
 noise.sigma 0.255648
-ornament.label.size 2.486272
+ornament.label.size 8.287573
 ornament.line.size 0.397804
 ornament.peak.size 16.575147
 ornament.grid.size 0.400000
@@ -66,31 +66,31 @@ viewmode 0
 show 1 label line peak grid peakgroup
 axistype 2
 flags crosshair crosshair2
-contour.pos 15 6 1.400000 0.000000 red-yellow
-contour.neg 15 -6 1.400000 0.000000 green-blue
+contour.pos 15 1 1.400000 0.000000 red-yellow
+contour.neg 15 -1 1.400000 0.000000 green-blue
 <params>
 orientation 2 0 1
-location 3001 102
+location 3049 48
 size 214 741
-offset 95.777133 302.340827 58.952736
+offset 8.749981 145.439626 58.952736
 scale 1.000000 2.447400 3.761074
 zoom 1.000000
 flags 0
 <end params>
 <params>
 orientation 2 0 1
-location 3001 102
+location 3049 48
 size 214 741
-offset 95.777133 302.340827 58.952736
+offset 8.749981 145.439626 58.952736
 scale 1.000000 2.447400 3.761074
 zoom 1.000000
 flags 0
 <end params>
 <params>
 orientation 2 0 1
-location 3001 102
+location 3049 48
 size 214 741
-offset 95.777133 302.340827 58.952736
+offset 8.749981 145.439626 58.952736
 scale 1.000000 2.447400 3.761074
 zoom 1.000000
 flags 0

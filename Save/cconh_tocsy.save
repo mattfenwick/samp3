@@ -66,13 +66,13 @@ viewmode 0
 show 1 label line peak grid peakgroup
 axistype 2
 flags crosshair crosshair2
-contour.pos 15 12 1.400000 0.000000 red-yellow
-contour.neg 15 -12 1.400000 0.000000 green-blue
+contour.pos 15 1 1.400000 0.000000 red-yellow
+contour.neg 15 -1 1.400000 0.000000 green-blue
 <params>
 orientation 2 0 1
 location 1045 78
 size 228 846
-offset 95.701153 299.340127 -18.987838
+offset 8.674001 142.438925 -18.987838
 scale 1.000000 4.894800 5.504417
 zoom 0.500000
 flags 0
@@ -81,7 +81,7 @@ flags 0
 orientation 2 0 1
 location 1045 78
 size 228 846
-offset 95.701153 299.340127 -18.987838
+offset 8.674001 142.438925 -18.987838
 scale 1.000000 4.894800 5.504417
 zoom 0.500000
 flags 0
@@ -90,7 +90,7 @@ flags 0
 orientation 2 0 1
 location 1045 78
 size 228 846
-offset 95.701153 299.340127 -18.987838
+offset 8.674001 142.438925 -18.987838
 scale 1.000000 4.894800 5.504417
 zoom 0.500000
 flags 0
