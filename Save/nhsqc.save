@@ -63,33 +63,33 @@ viewmode 0
 show 1 label line peak grid peakgroup
 axistype 2
 flags crosshair crosshair2
-contour.pos 15 2000 1.400000 0.000000 red-yellow
-contour.neg 15 -2000 1.400000 0.000000 green-blue
+contour.pos 15 100 1.400000 0.000000 red-yellow
+contour.neg 15 -100 1.400000 0.000000 green-blue
 <params>
 orientation 1 0
-location 230 146
+location 250 98
 size 1096 737
-offset -833.470282 -197.503980
+offset 1380.596807 981.784695
 scale 1.000000 2.639064
-zoom 0.145716
+zoom 0.582864
 flags 0
 <end params>
 <params>
 orientation 1 0
-location 230 146
+location 250 98
 size 1096 737
-offset -833.470282 -197.503980
+offset 1380.596807 981.784695
 scale 1.000000 2.639064
-zoom 0.145716
+zoom 0.582864
 flags 0
 <end params>
 <params>
 orientation 1 0
-location 230 146
+location 250 98
 size 1096 737
-offset -833.470282 -197.503980
+offset 1380.596807 981.784695
 scale 1.000000 2.639064
-zoom 0.145716
+zoom 0.582864
 flags 0
 <end params>
 <end view>
@@ -724,5 +724,107 @@ flags 0 0 0 0
 id 105
 pos 100.621 8.680
 height 0.000 4169.590
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 106
+pos 129.402 9.565
+height 0.000 986.139
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 107
+pos 126.953 9.809
+height 0.000 611.185
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 108
+pos 101.380 8.529
+height 0.000 1680.716
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 109
+pos 101.433 8.064
+height 0.000 387.163
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 110
+pos 109.041 8.443
+height 0.000 1447.971
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 111
+pos 120.903 7.796
+height 0.000 1993.265
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 112
+pos 114.129 7.377
+height 0.000 507.768
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 113
+pos 114.115 7.260
+height 0.000 391.758
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 114
+pos 115.264 7.595
+height 0.000 564.146
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 115
+pos 111.833 7.682
+height 0.000 1317.887
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 116
+pos 111.812 6.963
+height 0.000 732.542
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 117
+pos 109.631 6.947
+height 0.000 437.920
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 118
+pos 109.605 6.671
+height 0.000 206.076
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 119
+pos 116.008 7.150
+height 0.000 364.558
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 120
+pos 115.999 7.062
+height 0.000 230.423
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 121
+pos 115.464 7.702
+height 0.000 621.250
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 122
+pos 115.454 7.516
+height 0.000 716.033
 <end ornament>
 <end spectrum>

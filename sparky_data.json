@@ -3081,6 +3081,465 @@
           "type": "peak",
           "volume": null,
           "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            129.40231349547045,
+            9.564953295072101
+          ],
+          "height": {
+            "closest": 986.13885498046875,
+            "fit": null
+          },
+          "id": 106,
+          "note": "",
+          "position": [
+            129.40231349547045,
+            9.564953295072101
+          ],
+          "resonances": [
+            null,
+            null
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            126.95303898055491,
+            9.8085006192184778
+          ],
+          "height": {
+            "closest": 611.18499755859375,
+            "fit": null
+          },
+          "id": 107,
+          "note": "",
+          "position": [
+            126.95303898055491,
+            9.8085006192184778
+          ],
+          "resonances": [
+            null,
+            null
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            101.3796379906497,
+            8.5293779268945542
+          ],
+          "height": {
+            "closest": 1680.7156982421875,
+            "fit": null
+          },
+          "id": 108,
+          "note": "",
+          "position": [
+            101.3796379906497,
+            8.5293779268945542
+          ],
+          "resonances": [
+            null,
+            null
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            101.43293869064863,
+            8.064201663060949
+          ],
+          "height": {
+            "closest": 387.16348266601562,
+            "fit": null
+          },
+          "id": 109,
+          "note": "",
+          "position": [
+            101.43293869064863,
+            8.064201663060949
+          ],
+          "resonances": [
+            null,
+            null
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            109.04142566931645,
+            8.4433606219249757
+          ],
+          "height": {
+            "closest": 1447.970947265625,
+            "fit": null
+          },
+          "id": 110,
+          "note": "",
+          "position": [
+            109.04142566931645,
+            8.4433606219249757
+          ],
+          "resonances": [
+            null,
+            null
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            120.90334173061625,
+            7.7959094851686892
+          ],
+          "height": {
+            "closest": 1993.2650146484375,
+            "fit": null
+          },
+          "id": 111,
+          "note": "",
+          "position": [
+            120.90334173061625,
+            7.7959094851686892
+          ],
+          "resonances": [
+            null,
+            null
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            114.12948628116824,
+            7.3766146000921102
+          ],
+          "height": {
+            "closest": 507.76812744140625,
+            "fit": null
+          },
+          "id": 112,
+          "note": "",
+          "position": [
+            114.12948628116824,
+            7.3766146000921102
+          ],
+          "resonances": [
+            null,
+            null
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            114.11525971212853,
+            7.2601274766836408
+          ],
+          "height": {
+            "closest": 391.75814819335938,
+            "fit": null
+          },
+          "id": 113,
+          "note": "",
+          "position": [
+            114.11525971212853,
+            7.2601274766836408
+          ],
+          "resonances": [
+            null,
+            null
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            115.26405141392883,
+            7.5950758019466473
+          ],
+          "height": {
+            "closest": 564.14581298828125,
+            "fit": null
+          },
+          "id": 114,
+          "note": "",
+          "position": [
+            115.26405141392883,
+            7.5950758019466473
+          ],
+          "resonances": [
+            null,
+            null
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            111.83285602751421,
+            7.6822483569883664
+          ],
+          "height": {
+            "closest": 1317.8870849609375,
+            "fit": null
+          },
+          "id": 115,
+          "note": "",
+          "position": [
+            111.83285602751421,
+            7.6822483569883664
+          ],
+          "resonances": [
+            null,
+            null
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            111.81179070800671,
+            6.9630608376393965
+          ],
+          "height": {
+            "closest": 732.54205322265625,
+            "fit": null
+          },
+          "id": 116,
+          "note": "",
+          "position": [
+            111.81179070800671,
+            6.9630608376393965
+          ],
+          "resonances": [
+            null,
+            null
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            109.63072334646694,
+            6.9465322663665514
+          ],
+          "height": {
+            "closest": 437.91961669921875,
+            "fit": null
+          },
+          "id": 117,
+          "note": "",
+          "position": [
+            109.63072334646694,
+            6.9465322663665514
+          ],
+          "resonances": [
+            null,
+            null
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            109.60511948634125,
+            6.6712376543691354
+          ],
+          "height": {
+            "closest": 206.07646179199219,
+            "fit": null
+          },
+          "id": 118,
+          "note": "",
+          "position": [
+            109.60511948634125,
+            6.6712376543691354
+          ],
+          "resonances": [
+            null,
+            null
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            116.00761676666789,
+            7.1495439264317788
+          ],
+          "height": {
+            "closest": 364.55780029296875,
+            "fit": null
+          },
+          "id": 119,
+          "note": "",
+          "position": [
+            116.00761676666789,
+            7.1495439264317788
+          ],
+          "resonances": [
+            null,
+            null
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            115.99943673555798,
+            7.061512172469663
+          ],
+          "height": {
+            "closest": 230.42312622070312,
+            "fit": null
+          },
+          "id": 120,
+          "note": "",
+          "position": [
+            115.99943673555798,
+            7.061512172469663
+          ],
+          "resonances": [
+            null,
+            null
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            115.46429798724895,
+            7.7024660634696769
+          ],
+          "height": {
+            "closest": 621.249755859375,
+            "fit": null
+          },
+          "id": 121,
+          "note": "",
+          "position": [
+            115.46429798724895,
+            7.7024660634696769
+          ],
+          "resonances": [
+            null,
+            null
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            115.45397203819384,
+            7.5162358654949584
+          ],
+          "height": {
+            "closest": 716.0325927734375,
+            "fit": null
+          },
+          "id": 122,
+          "note": "",
+          "position": [
+            115.45397203819384,
+            7.5162358654949584
+          ],
+          "resonances": [
+            null,
+            null
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
         }
       ],
       "region": [
