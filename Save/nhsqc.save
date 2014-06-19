@@ -68,8 +68,8 @@ contour.neg 15 -100 1.400000 0.000000 green-blue
 <params>
 orientation 1 0
 location 250 98
-size 1096 737
-offset 681.033959 1203.145110
+size 689 701
+offset 815.713747 1064.510430
 scale 1.000000 2.639064
 zoom 1.165728
 flags 0
@@ -77,8 +77,8 @@ flags 0
 <params>
 orientation 1 0
 location 250 98
-size 1096 737
-offset 681.033959 1203.145110
+size 689 701
+offset 815.713747 1064.510430
 scale 1.000000 2.639064
 zoom 1.165728
 flags 0
@@ -86,8 +86,8 @@ flags 0
 <params>
 orientation 1 0
 location 250 98
-size 1096 737
-offset 681.033959 1203.145110
+size 689 701
+offset 815.713747 1064.510430
 scale 1.000000 2.639064
 zoom 1.165728
 flags 0
