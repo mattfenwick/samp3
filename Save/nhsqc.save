@@ -67,7 +67,7 @@ contour.pos 15 100 1.400000 0.000000 red-yellow
 contour.neg 15 -100 1.400000 0.000000 green-blue
 <params>
 orientation 1 0
-location 250 98
+location 250 120
 size 689 701
 offset 815.713747 1064.510430
 scale 1.000000 2.639064
@@ -76,7 +76,7 @@ flags 0
 <end params>
 <params>
 orientation 1 0
-location 250 98
+location 250 120
 size 689 701
 offset 815.713747 1064.510430
 scale 1.000000 2.639064
@@ -85,7 +85,7 @@ flags 0
 <end params>
 <params>
 orientation 1 0
-location 250 98
+location 250 120
 size 689 701
 offset 815.713747 1064.510430
 scale 1.000000 2.639064
@@ -100,480 +100,1280 @@ flags 0 1 0 0
 id 1
 pos 128.743 9.876
 height 0.000 3029.613
+rs |1{?}{?}{?}|1{?}| |1{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 128.743 9.876
+label 1{?}{?}{?}1{?}-2{?}
+xy 128.743,9.751 9.876,127.493
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 2
 pos 128.578 9.019
 height 0.000 3066.870
+rs |2{?}{?}{?}|1{?}| |2{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 128.578 9.019
+label 2{?}{?}{?}1{?}-2{?}
+xy 128.578,8.894 9.019,127.328
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 3
 pos 128.178 10.349
 height 0.000 10931.206
+rs |3{?}{?}{?}|1{?}| |3{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 128.178 10.349
+label 3{?}{?}{?}1{?}-2{?}
+xy 128.178,10.224 10.349,126.928
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 4
 pos 127.552 9.307
 height 0.000 3713.028
+rs |4{?}{?}{?}|1{?}| |4{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 127.552 9.307
+label 4{?}{?}{?}1{?}-2{?}
+xy 127.552,9.182 9.307,126.302
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 5
 pos 127.227 8.351
 height 0.000 10967.962
+rs |5{?}{?}{?}|1{?}| |5{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 127.227 8.351
+label 5{?}{?}{?}1{?}-2{?}
+xy 127.227,8.226 8.351,125.977
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 6
 pos 127.196 9.527
 height 0.000 2615.939
+rs |6{?}{?}{?}|1{?}| |6{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 127.196 9.527
+label 6{?}{?}{?}1{?}-2{?}
+xy 127.196,9.402 9.527,125.946
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 7
 pos 127.179 9.241
 height 0.000 4462.786
+rs |7{?}{?}{?}|1{?}| |7{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 127.179 9.241
+label 7{?}{?}{?}1{?}-2{?}
+xy 127.179,9.116 9.241,125.929
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 8
 pos 126.315 8.473
 height 0.000 4209.494
+rs |8{?}{?}{?}|1{?}| |8{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 126.315 8.473
+label 8{?}{?}{?}1{?}-2{?}
+xy 126.315,8.348 8.473,125.065
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 9
 pos 126.305 8.782
 height 0.000 5325.444
+rs |9{?}{?}{?}|1{?}| |9{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 126.305 8.782
+label 9{?}{?}{?}1{?}-2{?}
+xy 126.305,8.657 8.782,125.055
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 10
 pos 126.132 9.336
 height 0.000 3411.296
+rs |10{?}{?}{?}|1{?}| |10{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 126.132 9.336
+label 10{?}{?}{?}1{?}-2{?}
+xy 126.132,9.211 9.336,124.882
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 11
 pos 125.688 9.200
 height 0.000 3511.024
+rs |11{?}{?}{?}|1{?}| |11{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 125.688 9.200
+label 11{?}{?}{?}1{?}-2{?}
+xy 125.688,9.075 9.200,124.438
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 12
 pos 125.617 9.118
 height 0.000 3567.849
+rs |12{?}{?}{?}|1{?}| |12{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 125.617 9.118
+label 12{?}{?}{?}1{?}-2{?}
+xy 125.617,8.993 9.118,124.367
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 13
 pos 124.447 9.193
 height 0.000 3250.873
+rs |13{?}{?}{?}|1{?}| |13{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 124.447 9.193
+label 13{?}{?}{?}1{?}-2{?}
+xy 124.447,9.068 9.193,123.197
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 14
 pos 124.410 8.630
 height 0.000 4185.097
+rs |14{?}{?}{?}|1{?}| |14{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 124.410 8.630
+label 14{?}{?}{?}1{?}-2{?}
+xy 124.410,8.505 8.630,123.160
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 15
 pos 124.321 8.139
 height 0.000 4255.243
+rs |15{?}{?}{?}|1{?}| |15{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 124.321 8.139
+label 15{?}{?}{?}1{?}-2{?}
+xy 124.321,8.014 8.139,123.071
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 16
 pos 124.266 7.351
 height 0.000 6868.086
+rs |16{?}{?}{?}|1{?}| |16{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 124.266 7.351
+label 16{?}{?}{?}1{?}-2{?}
+xy 124.266,7.226 7.351,123.016
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 17
 pos 124.045 7.763
 height 0.000 7204.109
+rs |17{?}{?}{?}|1{?}| |17{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 124.045 7.763
+label 17{?}{?}{?}1{?}-2{?}
+xy 124.045,7.638 7.763,122.795
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 18
 pos 123.827 8.401
 height 0.000 4531.114
+rs |18{?}{?}{?}|1{?}| |18{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 123.827 8.401
+label 18{?}{?}{?}1{?}-2{?}
+xy 123.827,8.276 8.401,122.577
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 19
 pos 123.366 7.495
 height 0.000 4246.684
+rs |19{?}{?}{?}|1{?}| |19{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 123.366 7.495
+label 19{?}{?}{?}1{?}-2{?}
+xy 123.366,7.370 7.495,122.116
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 20
 pos 123.107 8.192
 height 0.000 11732.146
+rs |20{?}{?}{?}|1{?}| |20{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 123.107 8.192
+label 20{?}{?}{?}1{?}-2{?}
+xy 123.107,8.067 8.192,121.857
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 21
 pos 122.961 8.856
 height 0.000 5464.036
+rs |21{?}{?}{?}|1{?}| |21{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 122.961 8.856
+label 21{?}{?}{?}1{?}-2{?}
+xy 122.961,8.731 8.856,121.711
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 22
 pos 122.711 8.461
 height 0.000 3767.268
+rs |22{?}{?}{?}|1{?}| |22{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 122.711 8.461
+label 22{?}{?}{?}1{?}-2{?}
+xy 122.711,8.336 8.461,121.461
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 23
 pos 122.631 9.269
 height 0.000 4441.737
+rs |23{?}{?}{?}|1{?}| |23{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 122.631 9.269
+label 23{?}{?}{?}1{?}-2{?}
+xy 122.631,9.144 9.269,121.381
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 24
 pos 122.354 8.724
 height 0.000 3347.724
+rs |24{?}{?}{?}|1{?}| |24{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 122.354 8.724
+label 24{?}{?}{?}1{?}-2{?}
+xy 122.354,8.599 8.724,121.104
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 25
 pos 122.302 7.854
 height 0.000 5178.115
+rs |25{?}{?}{?}|1{?}| |25{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 122.302 7.854
+label 25{?}{?}{?}1{?}-2{?}
+xy 122.302,7.729 7.854,121.052
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 26
 pos 122.087 8.359
 height 0.000 10111.800
+rs |26{?}{?}{?}|1{?}| |26{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 122.087 8.359
+label 26{?}{?}{?}1{?}-2{?}
+xy 122.087,8.234 8.359,120.837
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 27
 pos 122.016 8.237
 height 0.000 5371.461
+rs |27{?}{?}{?}|1{?}| |27{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 122.016 8.237
+label 27{?}{?}{?}1{?}-2{?}
+xy 122.016,8.112 8.237,120.766
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 28
 pos 121.966 8.031
 height 0.000 20155.555
+rs |28{?}{?}{?}|1{?}| |28{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 121.966 8.031
+label 28{?}{?}{?}1{?}-2{?}
+xy 121.966,7.906 8.031,120.716
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 29
 pos 121.880 8.902
 height 0.000 3243.672
+rs |29{?}{?}{?}|1{?}| |29{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 121.880 8.902
+label 29{?}{?}{?}1{?}-2{?}
+xy 121.880,8.777 8.902,120.630
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 30
 pos 121.733 7.964
 height 0.000 4007.911
+rs |30{?}{?}{?}|1{?}| |30{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 121.733 7.964
+label 30{?}{?}{?}1{?}-2{?}
+xy 121.733,7.839 7.964,120.483
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 31
 pos 121.582 8.593
 height 0.000 4568.591
+rs |31{?}{?}{?}|1{?}| |31{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 121.582 8.593
+label 31{?}{?}{?}1{?}-2{?}
+xy 121.582,8.468 8.593,120.332
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 32
 pos 121.443 7.057
 height 0.000 3567.242
+rs |32{?}{?}{?}|1{?}| |32{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 121.443 7.057
+label 32{?}{?}{?}1{?}-2{?}
+xy 121.443,6.932 7.057,120.193
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 33
 pos 121.419 8.417
 height 0.000 2882.472
+rs |33{?}{?}{?}|1{?}| |33{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 121.419 8.417
+label 33{?}{?}{?}1{?}-2{?}
+xy 121.419,8.292 8.417,120.169
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 34
 pos 121.408 7.955
 height 0.000 5911.454
+rs |34{?}{?}{?}|1{?}| |34{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 121.408 7.955
+label 34{?}{?}{?}1{?}-2{?}
+xy 121.408,7.830 7.955,120.158
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 35
 pos 121.395 8.266
 height 0.000 14218.978
+rs |35{?}{?}{?}|1{?}| |35{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 121.395 8.266
+label 35{?}{?}{?}1{?}-2{?}
+xy 121.395,8.141 8.266,120.145
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 36
 pos 121.316 8.365
 height 0.000 6968.631
+rs |36{?}{?}{?}|1{?}| |36{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 121.316 8.365
+label 36{?}{?}{?}1{?}-2{?}
+xy 121.316,8.240 8.365,120.066
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 37
 pos 121.152 9.142
 height 0.000 3632.806
+rs |37{?}{?}{?}|1{?}| |37{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 121.152 9.142
+label 37{?}{?}{?}1{?}-2{?}
+xy 121.152,9.017 9.142,119.902
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 38
 pos 121.121 7.972
 height 0.000 4629.384
+rs |38{?}{?}{?}|1{?}| |38{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 121.121 7.972
+label 38{?}{?}{?}1{?}-2{?}
+xy 121.121,7.847 7.972,119.871
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 39
 pos 120.542 8.229
 height 0.000 7056.093
+rs |39{?}{?}{?}|1{?}| |39{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 120.542 8.229
+label 39{?}{?}{?}1{?}-2{?}
+xy 120.542,8.104 8.229,119.292
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 40
 pos 120.500 8.564
 height 0.000 3056.380
+rs |40{?}{?}{?}|1{?}| |40{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 120.500 8.564
+label 40{?}{?}{?}1{?}-2{?}
+xy 120.500,8.439 8.564,119.250
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 41
 pos 120.446 8.033
 height 0.000 7063.930
+rs |41{?}{?}{?}|1{?}| |41{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 120.446 8.033
+label 41{?}{?}{?}1{?}-2{?}
+xy 120.446,7.908 8.033,119.196
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 42
 pos 120.443 7.477
 height 0.000 6326.624
+rs |42{?}{?}{?}|1{?}| |42{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 120.443 7.477
+label 42{?}{?}{?}1{?}-2{?}
+xy 120.443,7.352 7.477,119.193
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 43
 pos 120.356 8.970
 height 0.000 4315.133
+rs |43{?}{?}{?}|1{?}| |43{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 120.356 8.970
+label 43{?}{?}{?}1{?}-2{?}
+xy 120.356,8.845 8.970,119.106
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 44
 pos 120.269 7.956
 height 0.000 5554.123
+rs |44{?}{?}{?}|1{?}| |44{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 120.269 7.956
+label 44{?}{?}{?}1{?}-2{?}
+xy 120.269,7.831 7.956,119.019
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 45
 pos 120.169 8.216
 height 0.000 26064.432
+rs |45{?}{?}{?}|1{?}| |45{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 120.169 8.216
+label 45{?}{?}{?}1{?}-2{?}
+xy 120.169,8.091 8.216,118.919
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 46
 pos 120.112 8.220
 height 0.000 27535.904
+rs |46{?}{?}{?}|1{?}| |46{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 120.112 8.220
+label 46{?}{?}{?}1{?}-2{?}
+xy 120.112,8.095 8.220,118.862
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 47
 pos 119.890 8.254
 height 0.000 21904.781
+rs |47{?}{?}{?}|1{?}| |47{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 119.890 8.254
+label 47{?}{?}{?}1{?}-2{?}
+xy 119.890,8.129 8.254,118.640
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 48
 pos 119.832 7.558
 height 0.000 5897.355
+rs |48{?}{?}{?}|1{?}| |48{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 119.832 7.558
+label 48{?}{?}{?}1{?}-2{?}
+xy 119.832,7.433 7.558,118.582
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 49
 pos 119.706 7.880
 height 0.000 2330.760
+rs |49{?}{?}{?}|1{?}| |49{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 119.706 7.880
+label 49{?}{?}{?}1{?}-2{?}
+xy 119.706,7.755 7.880,118.456
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 50
 pos 119.421 8.416
 height 0.000 2735.177
+rs |50{?}{?}{?}|1{?}| |50{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 119.421 8.416
+label 50{?}{?}{?}1{?}-2{?}
+xy 119.421,8.291 8.416,118.171
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 51
 pos 119.375 8.887
 height 0.000 3906.058
+rs |51{?}{?}{?}|1{?}| |51{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 119.375 8.887
+label 51{?}{?}{?}1{?}-2{?}
+xy 119.375,8.762 8.887,118.125
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 52
 pos 119.273 8.803
 height 0.000 4222.452
+rs |52{?}{?}{?}|1{?}| |52{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 119.273 8.803
+label 52{?}{?}{?}1{?}-2{?}
+xy 119.273,8.678 8.803,118.023
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 53
 pos 118.906 9.400
 height 0.000 3852.554
+rs |53{?}{?}{?}|1{?}| |53{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 118.906 9.400
+label 53{?}{?}{?}1{?}-2{?}
+xy 118.906,9.275 9.400,117.656
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 54
 pos 118.825 7.634
 height 0.000 6307.530
+rs |54{?}{?}{?}|1{?}| |54{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 118.825 7.634
+label 54{?}{?}{?}1{?}-2{?}
+xy 118.825,7.509 7.634,117.575
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 55
 pos 118.791 8.645
 height 0.000 4528.942
+rs |55{?}{?}{?}|1{?}| |55{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 118.791 8.645
+label 55{?}{?}{?}1{?}-2{?}
+xy 118.791,8.520 8.645,117.541
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 56
 pos 118.535 8.346
 height 0.000 5562.903
+rs |56{?}{?}{?}|1{?}| |56{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 118.535 8.346
+label 56{?}{?}{?}1{?}-2{?}
+xy 118.535,8.221 8.346,117.285
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 57
 pos 118.519 8.239
 height 0.000 3633.026
+rs |57{?}{?}{?}|1{?}| |57{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 118.519 8.239
+label 57{?}{?}{?}1{?}-2{?}
+xy 118.519,8.114 8.239,117.269
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 58
 pos 118.493 8.074
 height 0.000 5370.780
+rs |58{?}{?}{?}|1{?}| |58{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 118.493 8.074
+label 58{?}{?}{?}1{?}-2{?}
+xy 118.493,7.949 8.074,117.243
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 59
 pos 118.261 8.807
 height 0.000 4479.124
+rs |59{?}{?}{?}|1{?}| |59{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 118.261 8.807
+label 59{?}{?}{?}1{?}-2{?}
+xy 118.261,8.682 8.807,117.011
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 60
 pos 118.249 7.335
 height 0.000 4475.026
+rs |60{?}{?}{?}|1{?}| |60{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 118.249 7.335
+label 60{?}{?}{?}1{?}-2{?}
+xy 118.249,7.210 7.335,116.999
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 61
 pos 118.202 8.095
 height 0.000 2669.522
+rs |61{?}{?}{?}|1{?}| |61{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 118.202 8.095
+label 61{?}{?}{?}1{?}-2{?}
+xy 118.202,7.970 8.095,116.952
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 62
 pos 118.003 7.362
 height 0.000 2813.034
+rs |62{?}{?}{?}|1{?}| |62{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 118.003 7.362
+label 62{?}{?}{?}1{?}-2{?}
+xy 118.003,7.237 7.362,116.753
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 63
 pos 117.736 8.420
 height 0.000 5756.120
+rs |63{?}{?}{?}|1{?}| |63{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 117.736 8.420
+label 63{?}{?}{?}1{?}-2{?}
+xy 117.736,8.295 8.420,116.486
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 64
 pos 117.700 8.546
 height 0.000 3450.421
+rs |64{?}{?}{?}|1{?}| |64{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 117.700 8.546
+label 64{?}{?}{?}1{?}-2{?}
+xy 117.700,8.421 8.546,116.450
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 65
 pos 117.514 7.923
 height 0.000 5819.243
+rs |65{?}{?}{?}|1{?}| |65{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 117.514 7.923
+label 65{?}{?}{?}1{?}-2{?}
+xy 117.514,7.798 7.923,116.264
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 66
 pos 117.421 6.806
 height 0.000 2368.289
+rs |66{?}{?}{?}|1{?}| |66{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 117.421 6.806
+label 66{?}{?}{?}1{?}-2{?}
+xy 117.421,6.681 6.806,116.171
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 67
 pos 117.323 8.336
 height 0.000 6251.719
+rs |67{?}{?}{?}|1{?}| |67{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 117.323 8.336
+label 67{?}{?}{?}1{?}-2{?}
+xy 117.323,8.211 8.336,116.073
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 68
 pos 117.206 7.422
 height 0.000 6498.687
+rs |68{?}{?}{?}|1{?}| |68{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 117.206 7.422
+label 68{?}{?}{?}1{?}-2{?}
+xy 117.206,7.297 7.422,115.956
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 69
 pos 117.039 8.999
 height 0.000 2788.615
+rs |69{?}{?}{?}|1{?}| |69{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 117.039 8.999
+label 69{?}{?}{?}1{?}-2{?}
+xy 117.039,8.874 8.999,115.789
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 70
 pos 117.005 7.205
 height 0.000 3604.761
+rs |70{?}{?}{?}|1{?}| |70{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 117.005 7.205
+label 70{?}{?}{?}1{?}-2{?}
+xy 117.005,7.080 7.205,115.755
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 71
 pos 116.902 7.312
 height 0.000 5584.001
+rs |71{?}{?}{?}|1{?}| |71{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 116.902 7.312
+label 71{?}{?}{?}1{?}-2{?}
+xy 116.902,7.187 7.312,115.652
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 72
 pos 116.873 7.465
 height 0.000 3783.156
+rs |72{?}{?}{?}|1{?}| |72{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 116.873 7.465
+label 72{?}{?}{?}1{?}-2{?}
+xy 116.873,7.340 7.465,115.623
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 73
 pos 116.850 8.316
 height 0.000 5135.960
+rs |73{?}{?}{?}|1{?}| |73{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 116.850 8.316
+label 73{?}{?}{?}1{?}-2{?}
+xy 116.850,8.191 8.316,115.600
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 74
 pos 116.737 7.857
 height 0.000 4918.566
+rs |74{?}{?}{?}|1{?}| |74{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 116.737 7.857
+label 74{?}{?}{?}1{?}-2{?}
+xy 116.737,7.732 7.857,115.487
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 75
 pos 116.136 7.784
 height 0.000 4403.112
+rs |75{?}{?}{?}|1{?}| |75{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 116.136 7.784
+label 75{?}{?}{?}1{?}-2{?}
+xy 116.136,7.659 7.784,114.886
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 76
 pos 116.119 8.236
 height 0.000 3399.832
+rs |76{?}{?}{?}|1{?}| |76{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 116.119 8.236
+label 76{?}{?}{?}1{?}-2{?}
+xy 116.119,8.111 8.236,114.869
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 77
 pos 116.118 7.251
 height 0.000 5446.423
+rs |77{?}{?}{?}|1{?}| |77{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 116.118 7.251
+label 77{?}{?}{?}1{?}-2{?}
+xy 116.118,7.126 7.251,114.868
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 78
 pos 116.109 7.966
 height 0.000 5109.170
+rs |78{?}{?}{?}|1{?}| |78{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 116.109 7.966
+label 78{?}{?}{?}1{?}-2{?}
+xy 116.109,7.841 7.966,114.859
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 79
 pos 115.655 8.003
 height 0.000 3564.509
+rs |79{?}{?}{?}|1{?}| |79{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 115.655 8.003
+label 79{?}{?}{?}1{?}-2{?}
+xy 115.655,7.878 8.003,114.405
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 80
 pos 115.512 9.372
 height 0.000 2934.851
+rs |80{?}{?}{?}|1{?}| |80{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 115.512 9.372
+label 80{?}{?}{?}1{?}-2{?}
+xy 115.512,9.247 9.372,114.262
+]
 type peak
 color 0 6 0 blue
 flags 0 1 0 0
@@ -601,6 +1401,16 @@ flags 0 1 0 0
 id 84
 pos 115.060 7.902
 height 0.000 72712.156
+rs |81{?}{?}{?}|1{?}| |81{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 115.060 7.902
+label 81{?}{?}{?}1{?}-2{?}
+xy 115.060,7.777 7.902,113.810
+]
 type peak
 color 0 6 0 blue
 flags 0 1 0 0
@@ -628,209 +1438,559 @@ flags 0 1 0 0
 id 88
 pos 114.238 7.063
 height 0.000 5668.697
+rs |82{?}{?}{?}|1{?}| |82{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 114.238 7.063
+label 82{?}{?}{?}1{?}-2{?}
+xy 114.238,6.938 7.063,112.988
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 89
 pos 113.991 8.307
 height 0.000 3193.102
+rs |83{?}{?}{?}|1{?}| |83{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 113.991 8.307
+label 83{?}{?}{?}1{?}-2{?}
+xy 113.991,8.182 8.307,112.741
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 90
 pos 112.336 7.681
 height 0.000 27844.066
+rs |84{?}{?}{?}|1{?}| |84{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 112.336 7.681
+label 84{?}{?}{?}1{?}-2{?}
+xy 112.336,7.556 7.681,111.086
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 91
 pos 112.336 6.960
 height 0.000 21157.633
+rs |85{?}{?}{?}|1{?}| |85{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 112.336 6.960
+label 85{?}{?}{?}1{?}-2{?}
+xy 112.336,6.835 6.960,111.086
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 92
 pos 111.744 8.423
 height 0.000 3284.594
+rs |86{?}{?}{?}|1{?}| |86{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 111.744 8.423
+label 86{?}{?}{?}1{?}-2{?}
+xy 111.744,8.298 8.423,110.494
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 93
 pos 111.541 7.568
 height 0.000 5929.725
+rs |87{?}{?}{?}|1{?}| |87{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 111.541 7.568
+label 87{?}{?}{?}1{?}-2{?}
+xy 111.541,7.443 7.568,110.291
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 94
 pos 111.339 8.554
 height 0.000 11430.934
+rs |88{?}{?}{?}|1{?}| |88{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 111.339 8.554
+label 88{?}{?}{?}1{?}-2{?}
+xy 111.339,8.429 8.554,110.089
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 95
 pos 110.416 8.719
 height 0.000 3955.955
+rs |89{?}{?}{?}|1{?}| |89{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 110.416 8.719
+label 89{?}{?}{?}1{?}-2{?}
+xy 110.416,8.594 8.719,109.166
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 96
 pos 110.408 7.957
 height 0.000 7469.127
+rs |90{?}{?}{?}|1{?}| |90{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 110.408 7.957
+label 90{?}{?}{?}1{?}-2{?}
+xy 110.408,7.832 7.957,109.158
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 97
 pos 110.149 6.944
 height 0.000 9624.469
+rs |91{?}{?}{?}|1{?}| |91{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 110.149 6.944
+label 91{?}{?}{?}1{?}-2{?}
+xy 110.149,6.819 6.944,108.899
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 98
 pos 110.148 6.666
 height 0.000 6919.812
+rs |92{?}{?}{?}|1{?}| |92{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 110.148 6.666
+label 92{?}{?}{?}1{?}-2{?}
+xy 110.148,6.541 6.666,108.898
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 99
 pos 109.095 8.285
 height 0.000 4303.003
+rs |93{?}{?}{?}|1{?}| |93{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 109.095 8.285
+label 93{?}{?}{?}1{?}-2{?}
+xy 109.095,8.160 8.285,107.845
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 100
 pos 107.732 8.063
 height 0.000 5125.508
+rs |94{?}{?}{?}|1{?}| |94{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 107.732 8.063
+label 94{?}{?}{?}1{?}-2{?}
+xy 107.732,7.938 8.063,106.482
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 101
 pos 107.460 9.295
 height 0.000 4462.514
+rs |95{?}{?}{?}|1{?}| |95{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 107.460 9.295
+label 95{?}{?}{?}1{?}-2{?}
+xy 107.460,9.170 9.295,106.210
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 102
 pos 107.115 8.066
 height 0.000 4145.828
+rs |96{?}{?}{?}|1{?}| |96{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 107.115 8.066
+label 96{?}{?}{?}1{?}-2{?}
+xy 107.115,7.941 8.066,105.865
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 103
 pos 104.608 9.092
 height 0.000 4110.404
+rs |97{?}{?}{?}|1{?}| |97{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 104.608 9.092
+label 97{?}{?}{?}1{?}-2{?}
+xy 104.608,8.967 9.092,103.358
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 104
 pos 102.951 8.276
 height 0.000 4458.666
+rs |98{?}{?}{?}|1{?}| |98{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 102.951 8.276
+label 98{?}{?}{?}1{?}-2{?}
+xy 102.951,8.151 8.276,101.701
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 105
 pos 100.621 8.680
 height 0.000 4169.590
+rs |99{?}{?}{?}|1{?}| |99{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 100.621 8.680
+label 99{?}{?}{?}1{?}-2{?}
+xy 100.621,8.555 8.680,99.371
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 106
 pos 129.402 9.565
 height 0.000 986.139
+rs |100{?}{?}{?}|1{?}| |100{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 129.402 9.565
+label 100{?}{?}{?}1{?}-2{?}
+xy 129.402,9.440 9.565,128.152
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 107
 pos 126.953 9.809
 height 0.000 611.185
+rs |101{?}{?}{?}|1{?}| |101{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 126.953 9.809
+label 101{?}{?}{?}1{?}-2{?}
+xy 126.953,9.684 9.809,125.703
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 108
 pos 101.380 8.529
 height 0.000 1680.716
+rs |102{?}{?}{?}|1{?}| |102{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 101.380 8.529
+label 102{?}{?}{?}1{?}-2{?}
+xy 101.380,8.404 8.529,100.130
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 109
 pos 101.433 8.064
 height 0.000 387.163
+rs |103{?}{?}{?}|1{?}| |103{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 101.433 8.064
+label 103{?}{?}{?}1{?}-2{?}
+xy 101.433,7.939 8.064,100.183
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 110
 pos 109.041 8.443
 height 0.000 1447.971
+rs |104{?}{?}{?}|1{?}| |104{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 109.041 8.443
+label 104{?}{?}{?}1{?}-2{?}
+xy 109.041,8.318 8.443,107.791
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 111
 pos 120.903 7.796
 height 0.000 1993.265
+rs |105{?}{?}{?}|1{?}| |105{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 120.903 7.796
+label 105{?}{?}{?}1{?}-2{?}
+xy 120.903,7.671 7.796,119.653
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 112
 pos 114.129 7.377
 height 0.000 507.768
+rs |106{?}{?}{?}|1{?}| |106{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 114.129 7.377
+label 106{?}{?}{?}1{?}-2{?}
+xy 114.129,7.252 7.377,112.879
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 113
 pos 114.115 7.260
 height 0.000 391.758
+rs |107{?}{?}{?}|1{?}| |107{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 114.115 7.260
+label 107{?}{?}{?}1{?}-2{?}
+xy 114.115,7.135 7.260,112.865
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 114
 pos 115.264 7.595
 height 0.000 564.146
+rs |108{?}{?}{?}|1{?}| |108{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 115.264 7.595
+label 108{?}{?}{?}1{?}-2{?}
+xy 115.264,7.470 7.595,114.014
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 115
 pos 111.833 7.682
 height 0.000 1317.887
+rs |109{?}{?}{?}|1{?}| |109{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 111.833 7.682
+label 109{?}{?}{?}1{?}-2{?}
+xy 111.833,7.557 7.682,110.583
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 116
 pos 111.812 6.963
 height 0.000 732.542
+rs |110{?}{?}{?}|1{?}| |110{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 111.812 6.963
+label 110{?}{?}{?}1{?}-2{?}
+xy 111.812,6.838 6.963,110.562
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 117
 pos 109.631 6.947
 height 0.000 437.920
+rs |111{?}{?}{?}|1{?}| |111{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 109.631 6.947
+label 111{?}{?}{?}1{?}-2{?}
+xy 109.631,6.822 6.947,108.381
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 118
 pos 109.605 6.671
 height 0.000 206.076
+rs |112{?}{?}{?}|1{?}| |112{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 109.605 6.671
+label 112{?}{?}{?}1{?}-2{?}
+xy 109.605,6.546 6.671,108.355
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 119
 pos 116.008 7.150
 height 0.000 364.558
+rs |113{?}{?}{?}|1{?}| |113{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 116.008 7.150
+label 113{?}{?}{?}1{?}-2{?}
+xy 116.008,7.025 7.150,114.758
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 120
 pos 115.999 7.062
 height 0.000 230.423
+rs |114{?}{?}{?}|1{?}| |114{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 115.999 7.062
+label 114{?}{?}{?}1{?}-2{?}
+xy 115.999,6.937 7.062,114.749
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 121
 pos 115.464 7.702
 height 0.000 621.250
+rs |115{?}{?}{?}|1{?}| |115{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 115.464 7.702
+label 115{?}{?}{?}1{?}-2{?}
+xy 115.464,7.577 7.702,114.214
+]
 type peak
 color 0 2 0 white
 flags 0 1 0 0
 id 122
 pos 115.454 7.516
 height 0.000 716.033
+rs |116{?}{?}{?}|1{?}| |116{?}{?}{?}|2{?}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 115.454 7.516
+label 116{?}{?}{?}1{?}-2{?}
+xy 115.454,7.391 7.516,114.204
+]
 <end ornament>
 <end spectrum>
