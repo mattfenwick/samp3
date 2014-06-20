@@ -69,7 +69,7 @@ contour.neg 15 -100 1.400000 0.000000 green-blue
 orientation 1 0
 location 50 202
 size 689 701
-offset 1563.315246 1197.944279
+offset 1021.164762 987.960683
 scale 1.000000 2.639064
 zoom 0.582864
 flags 0
@@ -78,7 +78,7 @@ flags 0
 orientation 1 0
 location 50 202
 size 689 701
-offset 1563.315246 1197.944279
+offset 1021.164762 987.960683
 scale 1.000000 2.639064
 zoom 0.582864
 flags 0
@@ -87,7 +87,7 @@ flags 0
 orientation 1 0
 location 50 202
 size 689 701
-offset 1563.315246 1197.944279
+offset 1021.164762 987.960683
 scale 1.000000 2.639064
 zoom 0.582864
 flags 0
@@ -1486,14 +1486,14 @@ flags 0 1 0 0
 id 91
 pos 112.336 6.960
 height 0.000 21157.633
-rs |84{sQ/sN}{?}{?}|1{N[DE]}| |84{sQ/sN}{?}{?}|3{?}|
+rs |84{sQ/sN}{?}{?}|1{N[DE]}| |84{sQ/sN}{?}{?}|6{H*1}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 112.336 6.960
-label 84{sQ/sN}{?}{?}1{N[DE]}-3{?}
+label 84{sQ/sN}{?}{?}1{N[DE]}-6{H*1}
 xy 112.336,6.835 7.146,111.667
 ]
 type peak
@@ -1598,14 +1598,14 @@ flags 0 1 0 0
 id 98
 pos 110.148 6.666
 height 0.000 6919.812
-rs |91{sQ/sN}{?}{?}|1{N[DE]}| |91{sQ/sN}{?}{?}|3{?}|
+rs |91{sQ/sN}{?}{?}|1{N[DE]}| |91{sQ/sN}{?}{?}|6{H*1}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 110.148 6.666
-label 91{sQ/sN}{?}{?}1{N[DE]}-3{?}
+label 91{sQ/sN}{?}{?}1{N[DE]}-6{H*1}
 xy 110.148,6.541 6.530,109.085
 ]
 type peak
@@ -1834,7 +1834,7 @@ xy 114.129,7.252 7.377,112.879
 ]
 type peak
 color 0 2 0 white
-flags 1 1 0 0
+flags 0 1 0 0
 id 113
 pos 114.115 7.260
 height 0.000 391.758
@@ -1886,14 +1886,14 @@ flags 0 1 0 0
 id 116
 pos 111.812 6.963
 height 0.000 732.542
-rs |84{sQ/sN}{?}{?}|4{N*}| |84{sQ/sN}{?}{?}|3{?}|
+rs |84{sQ/sN}{?}{?}|4{N*}| |84{sQ/sN}{?}{?}|6{H*1}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 111.812 6.963
-label 84{sQ/sN}{?}{?}4{N*}-3{?}
+label 84{sQ/sN}{?}{?}4{N*}-6{H*1}
 xy 111.812,6.838 6.963,110.562
 ]
 type peak
@@ -1918,14 +1918,14 @@ flags 0 1 0 0
 id 118
 pos 109.605 6.671
 height 0.000 206.076
-rs |91{sQ/sN}{?}{?}|4{N*}| |91{sQ/sN}{?}{?}|3{?}|
+rs |91{sQ/sN}{?}{?}|4{N*}| |91{sQ/sN}{?}{?}|6{H*1}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 109.605 6.671
-label 91{sQ/sN}{?}{?}4{N*}-3{?}
+label 91{sQ/sN}{?}{?}4{N*}-6{H*1}
 xy 109.605,6.546 6.671,108.355
 ]
 type peak
