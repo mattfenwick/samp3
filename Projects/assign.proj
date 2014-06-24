@@ -32,6 +32,8 @@ notes ["GSSs 45 and 46 are heavily overlapped and I couldn't resolve them", "unp
 <molecule>
 name 
 <attached data>
+first_residue_number 1
+sequence GGGRDYKDDDDKGTMELELRFFATFREVVGQKSIYWRVDDDATVGDVLRSLEAEYDGLAGRLIEDGEVKPHVNVLKNGREVVHLDGMATALDDGDAVSVFPPVAGG
 <end attached data>
 <condition>
 name 
