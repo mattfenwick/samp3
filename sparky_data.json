@@ -2459,7 +2459,7 @@
     },
     "52": {
       "aatype": "S/T-b",
-      "next": "?",
+      "next": "95",
       "residue": "?",
       "resonances": {
         "1": {
@@ -2902,7 +2902,7 @@
     },
     "60": {
       "aatype": "?",
-      "next": "?",
+      "next": "71",
       "residue": "?",
       "resonances": {
         "1": {
@@ -3394,7 +3394,7 @@
     },
     "70": {
       "aatype": "?",
-      "next": "?",
+      "next": "96",
       "residue": "?",
       "resonances": {
         "1": {
@@ -3441,7 +3441,7 @@
     },
     "71": {
       "aatype": "?",
-      "next": "?",
+      "next": "70",
       "residue": "?",
       "resonances": {
         "1": {
@@ -3760,7 +3760,7 @@
     },
     "78": {
       "aatype": "?",
-      "next": "?",
+      "next": "17",
       "residue": "?",
       "resonances": {
         "1": {
@@ -3955,7 +3955,7 @@
     },
     "82": {
       "aatype": "G-b",
-      "next": "?",
+      "next": "63",
       "residue": "?",
       "resonances": {
         "1": {
@@ -4038,12 +4038,12 @@
       }
     },
     "84": {
-      "aatype": "sQ/sN",
+      "aatype": "sQ",
       "next": "?",
-      "residue": "?",
+      "residue": "31",
       "resonances": {
         "1": {
-          "atomtype": "N[DE]",
+          "atomtype": "NE",
           "deviation": 0.0,
           "shift": 112.336
         },
@@ -4068,12 +4068,12 @@
           "shift": 6.9695
         },
         "7": {
-          "atomtype": "C*1",
+          "atomtype": "CB/CG",
           "deviation": 0.02992490601605392,
           "shift": 32.937999999999995
         },
         "8": {
-          "atomtype": "C*2",
+          "atomtype": "CA",
           "deviation": 0.035500000001220722,
           "shift": 53.837499999999999
         }
@@ -4347,12 +4347,12 @@
       }
     },
     "91": {
-      "aatype": "sQ/sN",
+      "aatype": "sN",
       "next": "?",
       "residue": "?",
       "resonances": {
         "1": {
-          "atomtype": "N[DE]",
+          "atomtype": "ND",
           "deviation": 0.00049999826564152742,
           "shift": 110.1485
         },
@@ -4363,7 +4363,7 @@
         },
         "4": {
           "atomtype": "N*",
-          "deviation": 0.038837610650318349,
+          "deviation": 0.038837610603482578,
           "shift": 109.65180000000001
         },
         "5": {
@@ -4377,12 +4377,12 @@
           "shift": 6.6744999999999992
         },
         "7": {
-          "atomtype": "C*1",
-          "deviation": 0.058640323160946181,
-          "shift": 40.717749999999995
+          "atomtype": "CB",
+          "deviation": 0.058640323157068755,
+          "shift": 40.717750000000002
         },
         "8": {
-          "atomtype": "C*2",
+          "atomtype": "CA",
           "deviation": 0.0090000000075863978,
           "shift": 52.024999999999999
         }
@@ -4464,7 +4464,7 @@
     },
     "95": {
       "aatype": "b-G",
-      "next": "?",
+      "next": "42",
       "residue": "?",
       "resonances": {
         "1": {
@@ -4511,7 +4511,7 @@
     },
     "96": {
       "aatype": "b-G",
-      "next": "?",
+      "next": "82",
       "residue": "?",
       "resonances": {
         "1": {
@@ -17315,8 +17315,8 @@
     },
     "hncacb": {
       "contours": {
-        "high": 0.75,
-        "low": -0.75
+        "high": 0.69999999999999996,
+        "low": -0.69999999999999996
       },
       "data_size": [
         128,

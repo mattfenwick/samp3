@@ -69,7 +69,7 @@ contour.neg 15 -100 1.400000 0.000000 green-blue
 orientation 1 0
 location 50 224
 size 689 701
-offset -220.977487 683.061902
+offset 1865.272478 1168.689598
 scale 1.000000 2.639064
 zoom 0.582864
 flags 0
@@ -78,7 +78,7 @@ flags 0
 orientation 1 0
 location 50 224
 size 689 701
-offset -220.977487 683.061902
+offset 1865.272478 1168.689598
 scale 1.000000 2.639064
 zoom 0.582864
 flags 0
@@ -87,7 +87,7 @@ flags 0
 orientation 1 0
 location 50 224
 size 689 701
-offset -220.977487 683.061902
+offset 1865.272478 1168.689598
 scale 1.000000 2.639064
 zoom 0.582864
 flags 0
@@ -916,14 +916,14 @@ flags 0 1 0 0
 id 52
 pos 119.273 8.803
 height 0.000 4222.452
-rs |52{S/T-b}{?}{?}|1{N}| |52{S/T-b}{?}{?}|2{H}|
+rs |52{S/T-b}{95}{?}|1{N}| |52{S/T-b}{95}{?}|2{H}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 119.273 8.803
-label 52{S/T-b}{?}{?}1{N}-2{H}
+label 52{S/T-b}{95}{?}1{N}-2{H}
 xy 119.273,8.678 9.001,118.495
 ]
 type peak
@@ -1044,14 +1044,14 @@ flags 0 1 0 0
 id 60
 pos 118.249 7.335
 height 0.000 4475.026
-rs |60{?}{?}{?}|1{N}| |60{?}{?}{?}|2{H}|
+rs |60{?}{71}{?}|1{N}| |60{?}{71}{?}|2{H}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 118.249 7.335
-label 60{?}{?}{?}1{N}-2{H}
+label 60{?}{71}{?}1{N}-2{H}
 xy 118.249,7.210 7.283,118.853
 ]
 type peak
@@ -1204,14 +1204,14 @@ flags 0 1 0 0
 id 70
 pos 117.005 7.205
 height 0.000 3604.761
-rs |70{?}{?}{?}|1{N}| |70{?}{?}{?}|2{H}|
+rs |70{?}{96}{?}|1{N}| |70{?}{96}{?}|2{H}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 117.005 7.205
-label 70{?}{?}{?}1{N}-2{H}
+label 70{?}{96}{?}1{N}-2{H}
 xy 117.005,7.080 7.011,116.517
 ]
 type peak
@@ -1220,14 +1220,14 @@ flags 0 1 0 0
 id 71
 pos 116.902 7.312
 height 0.000 5584.001
-rs |71{?}{?}{?}|1{N}| |71{?}{?}{?}|2{H}|
+rs |71{?}{70}{?}|1{N}| |71{?}{70}{?}|2{H}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 116.902 7.312
-label 71{?}{?}{?}1{N}-2{H}
+label 71{?}{70}{?}1{N}-2{H}
 xy 116.902,7.187 7.134,117.584
 ]
 type peak
@@ -1332,14 +1332,14 @@ flags 0 1 0 0
 id 78
 pos 116.109 7.966
 height 0.000 5109.170
-rs |78{?}{?}{?}|1{N}| |78{?}{?}{?}|2{H}|
+rs |78{?}{17}{?}|1{N}| |78{?}{17}{?}|2{H}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 116.109 7.966
-label 78{?}{?}{?}1{N}-2{H}
+label 78{?}{17}{?}1{N}-2{H}
 xy 116.109,7.841 7.966,114.859
 ]
 type peak
@@ -1438,14 +1438,14 @@ flags 0 1 0 0
 id 88
 pos 114.238 7.063
 height 0.000 5668.697
-rs |82{G-b}{?}{?}|1{N}| |82{G-b}{?}{?}|2{H}|
+rs |82{G-b}{63}{?}|1{N}| |82{G-b}{63}{?}|2{H}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 114.238 7.063
-label 82{G-b}{?}{?}1{N}-2{H}
+label 82{G-b}{63}{?}1{N}-2{H}
 xy 114.238,6.938 7.063,112.988
 ]
 type peak
@@ -1470,14 +1470,14 @@ flags 0 1 0 0
 id 90
 pos 112.336 7.681
 height 0.000 27844.066
-rs |84{sQ/sN}{?}{?}|1{N[DE]}| |84{sQ/sN}{?}{?}|2{H*2}|
+rs |84{sQ}{?}{31}|1{NE}| |84{sQ}{?}{31}|2{H*2}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 112.336 7.681
-label 84{sQ/sN}{?}{?}1{N[DE]}-2{H*2}
+label 84{sQ}{?}{31}1{NE}-2{H*2}
 xy 112.336,7.556 7.467,112.191
 ]
 type peak
@@ -1486,14 +1486,14 @@ flags 0 1 0 0
 id 91
 pos 112.336 6.960
 height 0.000 21157.633
-rs |84{sQ/sN}{?}{?}|1{N[DE]}| |84{sQ/sN}{?}{?}|6{H*1}|
+rs |84{sQ}{?}{31}|1{NE}| |84{sQ}{?}{31}|6{H*1}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 112.336 6.960
-label 84{sQ/sN}{?}{?}1{N[DE]}-6{H*1}
+label 84{sQ}{?}{31}1{NE}-6{H*1}
 xy 112.336,6.835 7.146,111.667
 ]
 type peak
@@ -1582,14 +1582,14 @@ flags 0 1 0 0
 id 97
 pos 110.149 6.944
 height 0.000 9624.469
-rs |91{sQ/sN}{?}{?}|1{N[DE]}| |91{sQ/sN}{?}{?}|2{H*2}|
+rs |91{sN}{?}{?}|1{ND}| |91{sN}{?}{?}|2{H*2}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 110.149 6.944
-label 91{sQ/sN}{?}{?}1{N[DE]}-2{H*2}
+label 91{sN}{?}{?}1{ND}-2{H*2}
 xy 110.149,6.819 7.133,109.319
 ]
 type peak
@@ -1598,14 +1598,14 @@ flags 0 1 0 0
 id 98
 pos 110.148 6.666
 height 0.000 6919.812
-rs |91{sQ/sN}{?}{?}|1{N[DE]}| |91{sQ/sN}{?}{?}|6{H*1}|
+rs |91{sN}{?}{?}|1{ND}| |91{sN}{?}{?}|6{H*1}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 110.148 6.666
-label 91{sQ/sN}{?}{?}1{N[DE]}-6{H*1}
+label 91{sN}{?}{?}1{ND}-6{H*1}
 xy 110.148,6.541 6.530,109.085
 ]
 type peak
@@ -1646,14 +1646,14 @@ flags 0 1 0 0
 id 101
 pos 107.460 9.295
 height 0.000 4462.514
-rs |95{b-G}{?}{?}|1{N}| |95{b-G}{?}{?}|2{H}|
+rs |95{b-G}{42}{?}|1{N}| |95{b-G}{42}{?}|2{H}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 107.460 9.295
-label 95{b-G}{?}{?}1{N}-2{H}
+label 95{b-G}{42}{?}1{N}-2{H}
 xy 107.460,9.170 9.295,106.210
 ]
 type peak
@@ -1662,14 +1662,14 @@ flags 0 1 0 0
 id 102
 pos 107.115 8.066
 height 0.000 4145.828
-rs |96{b-G}{?}{?}|1{N}| |96{b-G}{?}{?}|2{H}|
+rs |96{b-G}{82}{?}|1{N}| |96{b-G}{82}{?}|2{H}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 107.115 8.066
-label 96{b-G}{?}{?}1{N}-2{H}
+label 96{b-G}{82}{?}1{N}-2{H}
 xy 107.115,7.941 8.066,105.865
 ]
 type peak
@@ -1870,14 +1870,14 @@ flags 0 1 0 0
 id 115
 pos 111.833 7.682
 height 0.000 1317.887
-rs |84{sQ/sN}{?}{?}|4{N*}| |84{sQ/sN}{?}{?}|2{H*2}|
+rs |84{sQ}{?}{31}|4{N*}| |84{sQ}{?}{31}|2{H*2}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 111.833 7.682
-label 84{sQ/sN}{?}{?}4{N*}-2{H*2}
+label 84{sQ}{?}{31}4{N*}-2{H*2}
 xy 111.833,7.557 7.682,110.583
 ]
 type peak
@@ -1886,14 +1886,14 @@ flags 0 1 0 0
 id 116
 pos 111.812 6.963
 height 0.000 732.542
-rs |84{sQ/sN}{?}{?}|4{N*}| |84{sQ/sN}{?}{?}|6{H*1}|
+rs |84{sQ}{?}{31}|4{N*}| |84{sQ}{?}{31}|6{H*1}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 111.812 6.963
-label 84{sQ/sN}{?}{?}4{N*}-6{H*1}
+label 84{sQ}{?}{31}4{N*}-6{H*1}
 xy 111.812,6.838 6.963,110.562
 ]
 type peak
@@ -1902,14 +1902,14 @@ flags 0 1 0 0
 id 117
 pos 109.631 6.947
 height 0.000 437.920
-rs |91{sQ/sN}{?}{?}|4{N*}| |91{sQ/sN}{?}{?}|2{H*2}|
+rs |91{sN}{?}{?}|4{N*}| |91{sN}{?}{?}|2{H*2}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 109.631 6.947
-label 91{sQ/sN}{?}{?}4{N*}-2{H*2}
+label 91{sN}{?}{?}4{N*}-2{H*2}
 xy 109.631,6.822 6.947,108.381
 ]
 type peak
@@ -1918,14 +1918,14 @@ flags 0 1 0 0
 id 118
 pos 109.605 6.671
 height 0.000 206.076
-rs |91{sQ/sN}{?}{?}|4{N*}| |91{sQ/sN}{?}{?}|6{H*1}|
+rs |91{sN}{?}{?}|4{N*}| |91{sN}{?}{?}|6{H*1}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 109.605 6.671
-label 91{sQ/sN}{?}{?}4{N*}-6{H*1}
+label 91{sN}{?}{?}4{N*}-6{H*1}
 xy 109.605,6.546 6.671,108.355
 ]
 type peak
