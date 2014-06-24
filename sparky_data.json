@@ -734,7 +734,7 @@
     },
     "16": {
       "aatype": "b-A",
-      "next": "?",
+      "next": "86",
       "residue": "?",
       "resonances": {
         "1": {
@@ -786,7 +786,7 @@
     },
     "17": {
       "aatype": "b-A",
-      "next": "?",
+      "next": "89",
       "residue": "?",
       "resonances": {
         "1": {
@@ -1367,7 +1367,7 @@
     },
     "29": {
       "aatype": "b-S/T",
-      "next": "?",
+      "next": "24",
       "residue": "?",
       "resonances": {
         "1": {
@@ -2328,7 +2328,7 @@
     },
     "5": {
       "aatype": "b-A",
-      "next": "?",
+      "next": "93",
       "residue": "?",
       "resonances": {
         "1": {
@@ -2375,7 +2375,7 @@
     },
     "50": {
       "aatype": "b-A",
-      "next": "?",
+      "next": "4",
       "residue": "?",
       "resonances": {
         "1": {
@@ -2553,7 +2553,7 @@
     },
     "54": {
       "aatype": "b-A",
-      "next": "?",
+      "next": "77",
       "residue": "?",
       "resonances": {
         "1": {
@@ -3248,7 +3248,7 @@
     },
     "68": {
       "aatype": "b-A",
-      "next": "?",
+      "next": "65",
       "residue": "?",
       "resonances": {
         "1": {
@@ -3718,7 +3718,7 @@
     },
     "77": {
       "aatype": "A-S/T",
-      "next": "?",
+      "next": "99",
       "residue": "?",
       "resonances": {
         "1": {
@@ -4118,7 +4118,7 @@
     },
     "87": {
       "aatype": "b-S/T",
-      "next": "?",
+      "next": "51",
       "residue": "?",
       "resonances": {
         "1": {
@@ -4227,7 +4227,7 @@
     },
     "89": {
       "aatype": "A-S/T",
-      "next": "?",
+      "next": "52",
       "residue": "?",
       "resonances": {
         "1": {
@@ -4311,7 +4311,7 @@
     },
     "90": {
       "aatype": "G-S/T",
-      "next": "?",
+      "next": "53",
       "residue": "?",
       "resonances": {
         "1": {
@@ -4627,7 +4627,7 @@
     },
     "99": {
       "aatype": "S/T-A",
-      "next": "?",
+      "next": "44",
       "residue": "?",
       "resonances": {
         "1": {
@@ -4687,7 +4687,8 @@
     "missing CB of GSS38 -- may be overlapped",
     "missing CB of GSS61",
     "GSS72: resonances 5 and 9 are probably both the CB(i-1)",
-    "GSS102: missing the CB(i-1).  maybe it's overlapped with the CA(i-1)?"
+    "GSS102: missing the CB(i-1).  maybe it's overlapped with the CA(i-1)?",
+    "very tough to decide between GSSs 29-24 and 87-51 for sequential assignment"
   ],
   "path": "/Network/Servers/macsent1.uchc.edu/Volumes/raid/mattf/Desktop/matt_samp3/Projects/assign.proj",
   "spectra": {
