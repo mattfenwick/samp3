@@ -2600,8 +2600,8 @@
     },
     "55": {
       "aatype": "?",
-      "next": "?",
-      "residue": "?",
+      "next": "56",
+      "residue": "48",
       "resonances": {
         "1": {
           "atomtype": "N",
@@ -2652,8 +2652,8 @@
     },
     "56": {
       "aatype": "?",
-      "next": "?",
-      "residue": "?",
+      "next": "67",
+      "residue": "49",
       "resonances": {
         "1": {
           "atomtype": "N",
@@ -3196,8 +3196,8 @@
     },
     "67": {
       "aatype": "b-S/T",
-      "next": "?",
-      "residue": "?",
+      "next": "14",
+      "residue": "50",
       "resonances": {
         "1": {
           "atomtype": "N",
