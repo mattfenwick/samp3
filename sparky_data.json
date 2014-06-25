@@ -3,7 +3,7 @@
   "groups": {
     "1": {
       "aatype": "?",
-      "next": "?",
+      "next": "103",
       "residue": "77",
       "resonances": {
         "1": {
@@ -233,8 +233,8 @@
     },
     "103": {
       "aatype": "b-G",
-      "next": "?",
-      "residue": "?",
+      "next": "30",
+      "residue": "78",
       "resonances": {
         "1": {
           "atomtype": "N",
@@ -1002,7 +1002,7 @@
     "21": {
       "aatype": "?",
       "next": "?",
-      "residue": "?",
+      "residue": "68",
       "resonances": {
         "1": {
           "atomtype": "N",
@@ -2254,8 +2254,8 @@
     },
     "48": {
       "aatype": "G-b",
-      "next": "?",
-      "residue": "?",
+      "next": "21",
+      "residue": "67",
       "resonances": {
         "1": {
           "atomtype": "N",
@@ -4585,7 +4585,7 @@
     },
     "98": {
       "aatype": "b-G",
-      "next": "?",
+      "next": "48",
       "residue": "66",
       "resonances": {
         "1": {
