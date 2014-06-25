@@ -1525,7 +1525,7 @@
     },
     "32": {
       "aatype": "?",
-      "next": "?",
+      "next": "60",
       "residue": "?",
       "resonances": {
         "1": {
@@ -3488,7 +3488,7 @@
     },
     "72": {
       "aatype": "S/T-b",
-      "next": "?",
+      "next": "32",
       "residue": "?",
       "resonances": {
         "1": {
