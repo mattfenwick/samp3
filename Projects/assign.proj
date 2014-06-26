@@ -27,7 +27,7 @@ nhsqc 1 hcconh_tocsy 1
 <overlays>
 <end overlays>
 <attached data>
-notes ["GSSs 45 and 46 are heavily overlapped and I couldn't resolve them", "unpicked signals around GSS 108", "GSSs 108, 109 and 115 are heavily overlapped", "the CB i/i-1 assignments for GSS15 are very flaky", "CA i/i-1 for GSS 16 may be overlapped", "the CA i/i-1 for GSS 16 may be overlapped", "resonances 7 & 8, GSS 24 should probably be merged", "GSS 26: missing CA and CB?  or are they overlapped with the CA(i-1) and CB(i-1)?", "missing the CB of GSS34 -- may be overlapped", "missing CB of GSS38 -- may be overlapped", "missing CB of GSS61", "GSS72: resonances 5 and 9 are probably both the CB(i-1)", "GSS102: missing the CB(i-1).  maybe it's overlapped with the CA(i-1)?", "very tough to decide between GSSs 29-24 and 87-51 for sequential assignment"]
+notes ["GSSs 45 and 46 are heavily overlapped and I couldn't resolve them", "unpicked signals around GSS 108", "GSSs 108, 109 and 115 are heavily overlapped", "the CB i/i-1 assignments for GSS15 are very flaky", "CA i/i-1 for GSS 16 may be overlapped", "the CA i/i-1 for GSS 16 may be overlapped", "resonances 7 & 8, GSS 24 should probably be merged", "GSS 26: missing CA and CB?  or are they overlapped with the CA(i-1) and CB(i-1)?", "missing the CB of GSS34 -- may be overlapped", "missing CB of GSS38 -- may be overlapped", "missing CB of GSS61", "GSS72: resonances 5 and 9 are probably both the CB(i-1)", "GSS102: missing the CB(i-1).  maybe it's overlapped with the CA(i-1)?", "very tough to decide between GSSs 29-24 and 87-51 for sequential assignment", "not sure about order of GSSs 45, 46, 47 -- they seem to be the consecutive Ds of residues 9-11, but every resonance is overlapped"]
 <end attached data>
 <molecule>
 name 
@@ -646,6 +646,16 @@ name
 |34{?}{?}{?}|5{CB(i-1)}| 41.127       13C
 |34{?}{?}{?}|6{CA(i-1)}| 57.649       13C
 |34{?}{?}{?}|7{?}| 45.633       13C
+|35{?}{45}{8}|10{?}| 42.034       13C
+|35{?}{45}{8}|1{N}| 121.411      15N
+|35{?}{45}{8}|2{H}| 8.26355       1H
+|35{?}{45}{8}|3{CO(i-1)}| 176.027      13C
+|35{?}{45}{8}|4{CA(i-1)}| 56.0595      13C
+|35{?}{45}{8}|5{CB}| 41.455       13C
+|35{?}{45}{8}|6{CA}| 54.637       13C
+|35{?}{45}{8}|7{CB(i-1)}| 33.346       13C
+|35{?}{45}{8}|8{?}| 24.505       13C
+|35{?}{45}{8}|9{?}| 28.948       13C
 |35{?}{?}{8}|10{?}| 42.034       13C
 |35{?}{?}{8}|1{N}| 121.411      15N
 |35{?}{?}{8}|2{H}| 8.26355       1H
@@ -839,12 +849,30 @@ name
 |44{A-b}{43}{?}|5{CB(i-1)}| 20.024       13C
 |44{A-b}{43}{?}|6{CA(i-1)}| 52.3085      13C
 |44{A-b}{43}{?}|7{CB}| 46.736       13C
+|45{?}{46}{9}|1{?}| 120.169      15N
+|45{?}{46}{9}|2{?}| 8.216         1H
+|45{?}{46}{?}|1{?}| 120.169      15N
+|45{?}{46}{?}|2{?}| 8.216         1H
 |45{?}{?}{?}|1{?}| 120.169      15N
 |45{?}{?}{?}|2{?}| 8.216         1H
+|46{?}{47}{10}|1{?}| 120.112      15N
+|46{?}{47}{10}|2{?}| 8.22          1H
+|46{?}{?}{10}|1{?}| 0            15N
+|46{?}{?}{10}|2{?}| 0             1H
 |46{?}{?}{?}|1{?}| 120.112      15N
 |46{?}{?}{?}|2{?}| 8.22          1H
 |46{?}{?}{?}|3{?}| 46.394       13C
 |46{?}{?}{?}|4{?}| 45.134       13C
+|47{?}{28}{11}|1{N}| 119.872      15N
+|47{?}{28}{11}|2{H}| 8.25553       1H
+|47{?}{28}{11}|3{CO(i-1)}| 176.09       13C
+|47{?}{28}{11}|4{CA(i/i-1)}| 54.5992      13C
+|47{?}{28}{11}|6{CB(i/i-1)}| 41.233       13C
+|47{?}{?}{11}|1{N}| 0            15N
+|47{?}{?}{11}|2{H}| 0             1H
+|47{?}{?}{11}|3{CO(i-1)}| 0            13C
+|47{?}{?}{11}|4{CA(i/i-1)}| 0            13C
+|47{?}{?}{11}|6{CB(i/i-1)}| 0            13C
 |47{?}{?}{?}|1{N}| 119.872      15N
 |47{?}{?}{?}|2{H}| 8.25553       1H
 |47{?}{?}{?}|3{CO(i-1)}| 176.09       13C

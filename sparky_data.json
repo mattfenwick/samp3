@@ -1661,7 +1661,7 @@
     },
     "35": {
       "aatype": "?",
-      "next": "?",
+      "next": "45",
       "residue": "8",
       "resonances": {
         "1": {
@@ -2183,8 +2183,8 @@
     },
     "45": {
       "aatype": "?",
-      "next": "?",
-      "residue": "?",
+      "next": "46",
+      "residue": "9",
       "resonances": {
         "1": {
           "atomtype": "?",
@@ -2200,8 +2200,8 @@
     },
     "46": {
       "aatype": "?",
-      "next": "?",
-      "residue": "?",
+      "next": "47",
+      "residue": "10",
       "resonances": {
         "1": {
           "atomtype": "?",
@@ -2217,8 +2217,8 @@
     },
     "47": {
       "aatype": "?",
-      "next": "?",
-      "residue": "?",
+      "next": "28",
+      "residue": "11",
       "resonances": {
         "1": {
           "atomtype": "N",
@@ -4678,7 +4678,8 @@
     "missing CB of GSS61",
     "GSS72: resonances 5 and 9 are probably both the CB(i-1)",
     "GSS102: missing the CB(i-1).  maybe it's overlapped with the CA(i-1)?",
-    "very tough to decide between GSSs 29-24 and 87-51 for sequential assignment"
+    "very tough to decide between GSSs 29-24 and 87-51 for sequential assignment",
+    "not sure about order of GSSs 45, 46, 47 -- they seem to be the consecutive Ds of residues 9-11, but every resonance is overlapped"
   ],
   "path": "/Network/Servers/macsent1.uchc.edu/Volumes/raid/mattf/Desktop/matt_samp3/Projects/assign.proj",
   "spectra": {
