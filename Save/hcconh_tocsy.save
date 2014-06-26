@@ -65,32 +65,32 @@ precision_by_units 0 0 0
 viewmode 0
 show 1 label line peak grid peakgroup
 axistype 2
-flags hidden crosshair crosshair2
+flags crosshair crosshair2
 contour.pos 15 1 1.400000 0.000000 red-yellow
 contour.neg 15 -1 1.400000 0.000000 green-blue
 <params>
 orientation 2 0 1
-location 3001 212
-size 214 611
-offset 126.188649 283.443221 59.750382
+location 3001 234
+size 214 585
+offset 107.964275 332.066249 96.707911
 scale 1.000000 2.447400 3.761074
 zoom 1.000000
 flags 0
 <end params>
 <params>
 orientation 2 0 1
-location 3001 212
-size 214 611
-offset 126.188649 283.443221 59.750382
+location 3001 234
+size 214 585
+offset 107.964275 332.066249 96.707911
 scale 1.000000 2.447400 3.761074
 zoom 1.000000
 flags 0
 <end params>
 <params>
 orientation 2 0 1
-location 3001 212
-size 214 611
-offset 126.188649 283.443221 59.750382
+location 3001 234
+size 214 585
+offset 107.964275 332.066249 96.707911
 scale 1.000000 2.447400 3.761074
 zoom 1.000000
 flags 0

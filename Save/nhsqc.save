@@ -67,29 +67,29 @@ contour.pos 15 100 1.400000 0.000000 red-yellow
 contour.neg 15 -100 1.400000 0.000000 green-blue
 <params>
 orientation 1 0
-location 50 224
+location 50 246
 size 689 701
-offset 1416.625796 1131.942459
+offset 523.621595 1088.063405
 scale 1.000000 2.639242
-zoom 0.582864
+zoom 0.291432
 flags 0
 <end params>
 <params>
 orientation 1 0
-location 50 224
+location 50 246
 size 689 701
-offset 1416.625796 1131.942459
+offset 523.621595 1088.063405
 scale 1.000000 2.639242
-zoom 0.582864
+zoom 0.291432
 flags 0
 <end params>
 <params>
 orientation 1 0
-location 50 224
+location 50 246
 size 689 701
-offset 1416.625796 1131.942459
+offset 523.621595 1088.063405
 scale 1.000000 2.639242
-zoom 0.582864
+zoom 0.291432
 flags 0
 <end params>
 <end view>
@@ -316,7 +316,7 @@ flags 0 0 0 1
 mode 2
 pos 124.410 8.630
 label 14{?}{75}{51}1{N}-2{H}
-xy 124.410,8.505 8.630,123.160
+xy 124.410,8.505 8.713,123.573
 ]
 type peak
 color 0 2 0 white
@@ -348,7 +348,7 @@ flags 0 0 0 1
 mode 2
 pos 124.266 7.351
 label 16{b-A}{86}{59}1{N}-2{H}
-xy 124.266,7.226 7.351,123.016
+xy 124.266,7.226 7.230,123.404
 ]
 type peak
 color 0 2 0 white
@@ -380,7 +380,7 @@ flags 0 0 0 1
 mode 2
 pos 123.827 8.401
 label 18{?}{59}{37}1{N}-2{H}
-xy 123.827,8.276 8.401,122.577
+xy 123.827,8.276 8.378,123.352
 ]
 type peak
 color 0 2 0 white
@@ -396,7 +396,7 @@ flags 0 0 0 1
 mode 2
 pos 123.366 7.495
 label 19{?}{105}{84}1{N}-2{H}
-xy 123.366,7.370 7.495,122.116
+xy 123.366,7.370 7.456,122.659
 ]
 type peak
 color 0 2 0 white
@@ -604,7 +604,7 @@ flags 0 0 0 1
 mode 2
 pos 121.443 7.057
 label 32{?}{60}{26}1{N}-2{H}
-xy 121.443,6.932 7.057,120.193
+xy 121.443,6.932 7.047,120.671
 ]
 type peak
 color 0 2 0 white
@@ -1132,7 +1132,7 @@ flags 0 0 0 1
 mode 2
 pos 117.514 7.923
 label 65{A-b}{74}{54}1{N}-2{H}
-xy 117.514,7.798 7.923,116.264
+xy 117.514,7.798 7.729,117.918
 ]
 type peak
 color 0 2 0 white
@@ -1164,7 +1164,7 @@ flags 0 0 0 1
 mode 2
 pos 117.323 8.336
 label 67{b-S/T}{14}{50}1{N}-2{H}
-xy 117.323,8.211 8.336,116.073
+xy 117.323,8.211 8.083,117.120
 ]
 type peak
 color 0 2 0 white
@@ -1260,7 +1260,7 @@ flags 0 0 0 1
 mode 2
 pos 116.850 8.316
 label 73{?}{80}{93}1{N}-2{H}
-xy 116.850,8.191 8.316,115.600
+xy 116.850,8.191 8.569,116.143
 ]
 type peak
 color 0 2 0 white
@@ -1276,7 +1276,7 @@ flags 0 0 0 1
 mode 2
 pos 116.737 7.857
 label 74{?}{9}{55}1{N}-2{H}
-xy 116.737,7.732 7.857,115.487
+xy 116.737,7.732 7.689,117.412
 ]
 type peak
 color 0 2 0 white
@@ -1292,7 +1292,7 @@ flags 0 0 0 1
 mode 2
 pos 116.136 7.784
 label 75{?}{68}{52}1{N}-2{H}
-xy 116.136,7.659 7.784,114.886
+xy 116.136,7.659 7.675,116.811
 ]
 type peak
 color 0 2 0 white
@@ -1308,7 +1308,7 @@ flags 0 0 0 1
 mode 2
 pos 116.119 8.236
 label 76{G-b}{69}{61}1{N}-2{H}
-xy 116.119,8.111 8.236,114.869
+xy 116.119,8.111 8.466,115.605
 ]
 type peak
 color 0 2 0 white
@@ -1340,7 +1340,7 @@ flags 0 0 0 1
 mode 2
 pos 116.109 7.966
 label 78{?}{17}{41}1{N}-2{H}
-xy 116.109,7.841 7.966,114.859
+xy 116.109,7.841 8.082,116.629
 ]
 type peak
 color 0 2 0 white
@@ -1356,7 +1356,7 @@ flags 0 0 0 1
 mode 2
 pos 115.655 8.003
 label 79{G-b}{16}{58}1{N}-2{H}
-xy 115.655,7.878 8.003,114.405
+xy 115.655,7.878 8.233,115.090
 ]
 type peak
 color 0 2 0 white
