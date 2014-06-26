@@ -187,7 +187,7 @@
     "102": {
       "aatype": "?",
       "next": "?",
-      "residue": "?",
+      "residue": "69",
       "resonances": {
         "1": {
           "atomtype": "N",
@@ -1001,7 +1001,7 @@
     },
     "21": {
       "aatype": "?",
-      "next": "?",
+      "next": "102",
       "residue": "68",
       "resonances": {
         "1": {
@@ -1420,7 +1420,7 @@
     "3": {
       "aatype": "sW",
       "next": "?",
-      "residue": "?",
+      "residue": "36",
       "resonances": {
         "1": {
           "atomtype": "?",
@@ -2934,7 +2934,7 @@
     },
     "61": {
       "aatype": "?",
-      "next": "?",
+      "next": "66",
       "residue": "21",
       "resonances": {
         "1": {
@@ -3150,7 +3150,7 @@
     "66": {
       "aatype": "?",
       "next": "?",
-      "residue": "?",
+      "residue": "22",
       "resonances": {
         "1": {
           "atomtype": "N",
@@ -3982,8 +3982,8 @@
     },
     "83": {
       "aatype": "?",
-      "next": "?",
-      "residue": "?",
+      "next": "25",
+      "residue": "71",
       "resonances": {
         "1": {
           "atomtype": "N",
