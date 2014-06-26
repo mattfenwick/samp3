@@ -265,8 +265,8 @@
     },
     "104": {
       "aatype": "G-G",
-      "next": "?",
-      "residue": "?",
+      "next": "39",
+      "residue": "3",
       "resonances": {
         "1": {
           "atomtype": "N",
@@ -3304,7 +3304,7 @@
           "shift": 175.405
         },
         "4": {
-          "atomtype": "CB(i/i-1)",
+          "atomtype": "CB(i-1)",
           "deviation": 0.039500000001582936,
           "shift": 31.648499999999999
         },
@@ -3314,14 +3314,19 @@
           "shift": 56.063500000000005
         },
         "6": {
-          "atomtype": "CB(i/i-1)",
-          "deviation": 0.069999999999334775,
-          "shift": 43.372999999999998
+          "atomtype": "CB",
+          "deviation": 0.0,
+          "shift": 43.302999999999997
         },
         "7": {
-          "atomtype": "?",
+          "atomtype": "CG",
           "deviation": 0.0,
           "shift": 27.504000000000001
+        },
+        "8": {
+          "atomtype": "CD(i-1)",
+          "deviation": 0.0,
+          "shift": 43.442999999999998
         }
       }
     },
@@ -3914,7 +3919,7 @@
     "81": {
       "aatype": "G-G",
       "next": "?",
-      "residue": "?",
+      "residue": "106",
       "resonances": {
         "1": {
           "atomtype": "N",
@@ -4380,7 +4385,7 @@
     },
     "93": {
       "aatype": "A-G",
-      "next": "?",
+      "next": "81",
       "residue": "105",
       "resonances": {
         "1": {
@@ -11186,7 +11191,7 @@
             ],
             [
               "69",
-              "6"
+              "8"
             ]
           ],
           "type": "peak",

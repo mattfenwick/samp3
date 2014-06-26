@@ -69,7 +69,7 @@ contour.neg 15 -100 1.400000 0.000000 green-blue
 orientation 1 0
 location 50 224
 size 689 701
-offset 1411.478798 1113.755809
+offset 1378.881142 667.134354
 scale 1.000000 2.639064
 zoom 0.582864
 flags 0
@@ -78,7 +78,7 @@ flags 0
 orientation 1 0
 location 50 224
 size 689 701
-offset 1411.478798 1113.755809
+offset 1378.881142 667.134354
 scale 1.000000 2.639064
 zoom 0.582864
 flags 0
@@ -87,7 +87,7 @@ flags 0
 orientation 1 0
 location 50 224
 size 689 701
-offset 1411.478798 1113.755809
+offset 1378.881142 667.134354
 scale 1.000000 2.639064
 zoom 0.582864
 flags 0
@@ -1401,14 +1401,14 @@ flags 0 1 0 0
 id 84
 pos 115.060 7.902
 height 0.000 72712.156
-rs |81{G-G}{?}{?}|1{N}| |81{G-G}{?}{?}|2{H}|
+rs |81{G-G}{?}{106}|1{N}| |81{G-G}{?}{106}|2{H}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 115.060 7.902
-label 81{G-G}{?}{?}1{N}-2{H}
+label 81{G-G}{?}{106}1{N}-2{H}
 xy 115.060,7.777 7.902,113.810
 ]
 type peak
@@ -1614,14 +1614,14 @@ flags 0 1 0 0
 id 99
 pos 109.095 8.285
 height 0.000 4303.003
-rs |93{A-G}{?}{105}|1{N}| |93{A-G}{?}{105}|2{H}|
+rs |93{A-G}{81}{105}|1{N}| |93{A-G}{81}{105}|2{H}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 109.095 8.285
-label 93{A-G}{?}{105}1{N}-2{H}
+label 93{A-G}{81}{105}1{N}-2{H}
 xy 109.095,8.160 8.285,107.845
 ]
 type peak
@@ -1790,14 +1790,14 @@ flags 0 1 0 0
 id 110
 pos 109.041 8.443
 height 0.000 1447.971
-rs |104{G-G}{?}{?}|1{N}| |104{G-G}{?}{?}|2{H}|
+rs |104{G-G}{39}{3}|1{N}| |104{G-G}{39}{3}|2{H}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 109.041 8.443
-label 104{G-G}{?}{?}1{N}-2{H}
+label 104{G-G}{39}{3}1{N}-2{H}
 xy 109.041,8.318 8.443,107.791
 ]
 type peak
