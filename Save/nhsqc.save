@@ -69,8 +69,8 @@ contour.neg 15 -100 1.400000 0.000000 green-blue
 orientation 1 0
 location 50 224
 size 689 701
-offset 1378.881142 667.134354
-scale 1.000000 2.639064
+offset 1416.625796 1131.942459
+scale 1.000000 2.639242
 zoom 0.582864
 flags 0
 <end params>
@@ -78,8 +78,8 @@ flags 0
 orientation 1 0
 location 50 224
 size 689 701
-offset 1378.881142 667.134354
-scale 1.000000 2.639064
+offset 1416.625796 1131.942459
+scale 1.000000 2.639242
 zoom 0.582864
 flags 0
 <end params>
@@ -87,8 +87,8 @@ flags 0
 orientation 1 0
 location 50 224
 size 689 701
-offset 1378.881142 667.134354
-scale 1.000000 2.639064
+offset 1416.625796 1131.942459
+scale 1.000000 2.639242
 zoom 0.582864
 flags 0
 <end params>
@@ -2014,14 +2014,14 @@ flags 0 0 0 0
 id 124
 pos 115.222 7.523
 height 0.000 420.931
-rs |109{?}{?}{?}|1{N}| |109{?}{?}{?}|2{H}|
+rs |109{?}{72}{24}|1{N}| |109{?}{72}{24}|2{H}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 115.222 7.523
-label 109{?}{?}{?}1{N}-2{H}
+label 109{?}{72}{24}1{N}-2{H}
 xy 115.222,7.398 7.588,114.244
 ]
 <end ornament>
