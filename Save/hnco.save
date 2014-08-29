@@ -1,7 +1,7 @@
 <sparky save file>
 <version 3.115>
 <user>
-set mode 7
+set mode 0
 set saveprompt 0
 set saveinterval 0
 set resizeViews 0
@@ -72,7 +72,7 @@ contour.neg 15 -0.5 1.400000 0.000000 green-blue
 orientation 2 0 1
 location 329 438
 size 213 511
-offset 98.880995 247.953666 28.755450
+offset 127.552433 270.652084 28.755450
 scale 1.000000 1.223881 0.890390
 zoom 2.807759
 flags 0
@@ -81,7 +81,7 @@ flags 0
 orientation 2 0 1
 location 329 438
 size 213 511
-offset 98.880995 247.953666 28.755450
+offset 127.552433 270.652084 28.755450
 scale 1.000000 1.223881 0.890390
 zoom 2.807759
 flags 0
@@ -90,7 +90,7 @@ flags 0
 orientation 2 0 1
 location 329 438
 size 213 511
-offset 98.880995 247.953666 28.755450
+offset 127.552433 270.652084 28.755450
 scale 1.000000 1.223881 0.890390
 zoom 2.807759
 flags 0

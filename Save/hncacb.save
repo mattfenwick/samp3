@@ -1,7 +1,7 @@
 <sparky save file>
 <version 3.115>
 <user>
-set mode 7
+set mode 0
 set saveprompt 0
 set saveinterval 0
 set resizeViews 0
@@ -72,7 +72,7 @@ contour.neg 15 -0.7 1.400000 0.000000 green-blue
 orientation 2 0 1
 location 1440 42
 size 140 783
-offset 49.384583 543.075314 30.705686
+offset 63.738604 585.786001 30.705686
 scale 1.000000 1.319582 3.240388
 zoom 1.188781
 flags 0
@@ -81,7 +81,7 @@ flags 0
 orientation 2 0 1
 location 1440 42
 size 140 783
-offset 49.384583 543.075314 30.705686
+offset 63.738604 585.786001 30.705686
 scale 1.000000 1.319582 3.240388
 zoom 1.188781
 flags 0
@@ -90,7 +90,7 @@ flags 0
 orientation 2 0 1
 location 1440 42
 size 140 783
-offset 49.384583 543.075314 30.705686
+offset 63.738604 585.786001 30.705686
 scale 1.000000 1.319582 3.240388
 zoom 1.188781
 flags 0
@@ -958,14 +958,14 @@ flags 0 1 0 0
 id 55
 pos 122.090 8.358 32.576
 height 0.000 -21.144
-rs |26{?}{5}{103}|1{N}| |26{?}{5}{103}|2{H}| |26{?}{5}{103}|4{CB(i/i-1)}|
+rs |26{?}{5}{103}|1{N}| |26{?}{5}{103}|2{H}| |26{?}{5}{103}|4{CB}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 122.090 8.358 32.576
-label 26{?}{5}{103}1{N}-2{H}-4{CB(i/i-1)}
+label 26{?}{5}{103}1{N}-2{H}-4{CB}
 xy 122.090,5.858 122.090,22.576 8.358,97.090 8.358,22.576 32.576,97.090 32.576,5.858
 ]
 type peak
