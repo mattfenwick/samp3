@@ -2843,120 +2843,40 @@
           "deviation": 0.023047115939783185,
           "shift": 121.15464705882353
         },
-        "10": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 27.835999999999999
-        },
-        "100": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.7989999999999999
-        },
-        "101": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 44.529000000000003
-        },
-        "102": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.8009999999999999
-        },
-        "103": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.107
-        },
-        "104": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 44.529000000000003
-        },
-        "105": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.1020000000000001
-        },
-        "106": {
-          "atomtype": "HG(i-1)",
-          "deviation": 0.0,
-          "shift": 1.524
-        },
         "107": {
           "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 27.946999999999999
-        },
-        "108": {
-          "atomtype": "HG(i-1)",
-          "deviation": 0.0,
-          "shift": 1.524
+          "deviation": 0.055499999999327927,
+          "shift": 27.891500000000001
         },
         "109": {
-          "atomtype": "HD1(i-1),HD2(i-1)",
-          "deviation": 0.0,
-          "shift": 0.84699999999999998
+          "atomtype": "QD*2(i-1)",
+          "deviation": 0.00099999999995886669,
+          "shift": 0.84799999999999998
         },
         "11": {
-          "atomtype": "?",
-          "deviation": 0.0019999999992515996,
-          "shift": 5.2480000000000002
-        },
-        "110": {
-          "atomtype": "CD1(i-1),CD2(i-1)",
-          "deviation": 0.0,
-          "shift": 25.715
-        },
-        "111": {
-          "atomtype": "HD1(i-1),HD2(i-1)",
-          "deviation": 0.0,
-          "shift": 0.84899999999999998
+          "atomtype": "HA(i-1)",
+          "deviation": 0.0014790199463098938,
+          "shift": 5.2477499999999999
         },
         "112": {
-          "atomtype": "HD1(i-1),HD2(i-1)",
-          "deviation": 0.0,
-          "shift": 0.67600000000000005
-        },
-        "113": {
-          "atomtype": "CD1(i-1),CD2(i-1)",
-          "deviation": 0.0,
-          "shift": 23.978999999999999
-        },
-        "114": {
-          "atomtype": "HD1(i-1),HD2(i-1)",
-          "deviation": 0.0,
-          "shift": 0.67700000000000005
-        },
-        "115": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 5.2469999999999999
-        },
-        "116": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 52.933999999999997
-        },
-        "117": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 5.2480000000000002
+          "atomtype": "QD*1(i-1)",
+          "deviation": 0.00049999999986841104,
+          "shift": 0.6765000000000001
         },
         "12": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 1.788
+          "atomtype": "HB*2(i-1)",
+          "deviation": 0.0057154760665050338,
+          "shift": 1.796
         },
         "13": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 1.0780000000000001
+          "atomtype": "HB*1(i-1)",
+          "deviation": 0.012657891697378411,
+          "shift": 1.0956666666666666
         },
         "14": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 1.5049999999999999
+          "atomtype": "HG(i-1)",
+          "deviation": 0.0089566858949944837,
+          "shift": 1.5176666666666667
         },
         "15": {
           "atomtype": "?",
@@ -2985,23 +2905,23 @@
         },
         "6": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.02550000000068936,
-          "shift": 52.8825
+          "deviation": 0.031982634173186406,
+          "shift": 52.899666666666668
         },
         "7": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.0030000000151606705,
-          "shift": 44.463000000000001
+          "deviation": 0.033068111527943436,
+          "shift": 44.496000000000002
         },
         "8": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 24.006
+          "atomtype": "CD*1(i-1)",
+          "deviation": 0.01350000000295835,
+          "shift": 23.9925
         },
         "9": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 25.736000000000001
+          "atomtype": "CD*2(i-1)",
+          "deviation": 0.010500000001632587,
+          "shift": 25.7255
         }
       }
     },
@@ -3017,73 +2937,28 @@
         },
         "10": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.0780000000000003
+          "deviation": 0.006342099196743228,
+          "shift": 4.0866666666666669
         },
         "100": {
-          "atomtype": "HG1(i-1),HG2(i-1)",
-          "deviation": 0.0,
-          "shift": 1.002
-        },
-        "101": {
-          "atomtype": "CG1(i-1),CG2(i-1)",
-          "deviation": 0.0,
-          "shift": 18.878
-        },
-        "102": {
-          "atomtype": "HG1(i-1),HG2(i-1)",
-          "deviation": 0.0,
-          "shift": 1.0009999999999999
-        },
-        "103": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.093
-        },
-        "104": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 65.078000000000003
-        },
-        "105": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.0890000000000004
-        },
-        "106": {
-          "atomtype": "HB(i-1)",
-          "deviation": 0.0,
-          "shift": 2.4940000000000002
+          "atomtype": "QG*1(i-1)",
+          "deviation": 0.00049999999959085529,
+          "shift": 1.0015000000000001
         },
         "107": {
           "atomtype": "CB(i-1)",
           "deviation": 0.0,
           "shift": 31.038
         },
-        "108": {
-          "atomtype": "HB(i-1)",
-          "deviation": 0.0,
-          "shift": 2.4940000000000002
-        },
         "109": {
-          "atomtype": "HG1(i-1),HG2(i-1)",
-          "deviation": 0.0,
-          "shift": 1.123
+          "atomtype": "QG*2(i-1)",
+          "deviation": 0.0005000000002569891,
+          "shift": 1.1234999999999999
         },
         "11": {
           "atomtype": "QG*(i-1)",
           "deviation": 0.0,
           "shift": 1.0569999999999999
-        },
-        "110": {
-          "atomtype": "CG1(i-1),CG2(i-1)",
-          "deviation": 0.0,
-          "shift": 22.585999999999999
-        },
-        "111": {
-          "atomtype": "HG1(i-1),HG2(i-1)",
-          "deviation": 0.0,
-          "shift": 1.1240000000000001
         },
         "2": {
           "atomtype": "H",
@@ -3107,23 +2982,23 @@
         },
         "6": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.044500000000986917,
-          "shift": 65.131500000000003
+          "deviation": 0.044229201003994557,
+          "shift": 65.113666666666674
         },
         "7": {
           "atomtype": "CG*1(i-1)",
-          "deviation": 0.0,
-          "shift": 22.538
+          "deviation": 0.024000000001677336,
+          "shift": 22.561999999999998
         },
         "8": {
           "atomtype": "CG*2(i-1)",
-          "deviation": 0.0,
-          "shift": 18.753
+          "deviation": 0.0625,
+          "shift": 18.8155
         },
         "9": {
           "atomtype": "HB(i-1)",
-          "deviation": 0.00050000000203334594,
-          "shift": 2.4744999999999999
+          "deviation": 0.0097564081506084609,
+          "shift": 2.4842499999999998
         }
       }
     },
@@ -3232,39 +3107,39 @@
           "shift": 120.54216666666667
         },
         "10": {
-          "atomtype": "?",
+          "atomtype": "CD*2(i-1)",
           "deviation": 0.0,
           "shift": 24.350000000000001
         },
         "11": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.0080000000001150227,
-          "shift": 4.9980000000000002
+          "deviation": 0.010969870509001441,
+          "shift": 5.0042318292787948
         },
         "12": {
           "atomtype": "HB*1(i-1)",
-          "deviation": 0.0,
-          "shift": 1.5129999999999999
+          "deviation": 0.0072876427475817799,
+          "shift": 1.5305227546031785
         },
         "13": {
           "atomtype": "HB*2(i-1)",
-          "deviation": 0.0,
-          "shift": 0.66100000000000003
+          "deviation": 0.0059424293622222842,
+          "shift": 0.66694242936222303
         },
         "14": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 1.234
+          "atomtype": "HG(i-1)",
+          "deviation": 0.014797500217945795,
+          "shift": 1.2487975002179401
         },
         "15": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 0.41099999999999998
+          "atomtype": "HD*2(i-1)",
+          "deviation": 0.012600892865620283,
+          "shift": 0.42360089286562075
         },
         "16": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 0.067000000000000004
+          "atomtype": "HD*1(i-1)",
+          "deviation": 0.012463942880258741,
+          "shift": 0.079463942880258737
         },
         "2": {
           "atomtype": "H",
@@ -3278,8 +3153,8 @@
         },
         "4": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.092000000000019455,
-          "shift": 42.686
+          "deviation": 0.053403519004325453,
+          "shift": 42.730468772294529
         },
         "5": {
           "atomtype": "CA(i-1)",
@@ -3297,12 +3172,12 @@
           "shift": 53.948
         },
         "8": {
-          "atomtype": "?",
+          "atomtype": "CG(i-1)",
           "deviation": 0.0,
           "shift": 27.353000000000002
         },
         "9": {
-          "atomtype": "?",
+          "atomtype": "CD*1(i-1)",
           "deviation": 0.0,
           "shift": 25.542000000000002
         }
@@ -3371,34 +3246,14 @@
           "shift": 120.43975
         },
         "100": {
-          "atomtype": "HA2(i-1),HA3(i-1)",
-          "deviation": 0.0,
-          "shift": 3.8039999999999998
-        },
-        "101": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 48.832000000000001
-        },
-        "102": {
-          "atomtype": "HA2(i-1),HA3(i-1)",
+          "atomtype": "HA*1(i-1)",
           "deviation": 0.0,
           "shift": 3.8039999999999998
         },
         "103": {
-          "atomtype": "HA2(i-1),HA3(i-1)",
-          "deviation": 0.0,
-          "shift": 3.9100000000000001
-        },
-        "104": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 48.832000000000001
-        },
-        "105": {
-          "atomtype": "HA2(i-1),HA3(i-1)",
-          "deviation": 0.0,
-          "shift": 3.9020000000000001
+          "atomtype": "HA*2(i-1)",
+          "deviation": 0.0040000000000575114,
+          "shift": 3.9060000000000001
         },
         "2": {
           "atomtype": "H",
@@ -3422,8 +3277,8 @@
         },
         "6": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.018500000021967101,
-          "shift": 48.722499999999997
+          "deviation": 0.056291096102489994,
+          "shift": 48.777249999999995
         },
         "7": {
           "atomtype": "HA*",
@@ -3443,29 +3298,39 @@
           "shift": 120.31093333333335
         },
         "10": {
-          "atomtype": "?",
-          "deviation": 0.005000000000082991,
-          "shift": 4.6230000000000002
+          "atomtype": "HA(i-1)",
+          "deviation": 0.013178518092166594,
+          "shift": 4.6449328351860313
         },
         "11": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 1.6040000000000001
+          "atomtype": "HB*2(i-1)",
+          "deviation": 0.005377730189365851,
+          "shift": 1.6102181950108647
         },
         "12": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 1.3180000000000001
+          "atomtype": "HB*1(i-1)",
+          "deviation": 0.011748412435862818,
+          "shift": 1.3297484124358598
         },
         "13": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 1.5129999999999999
+          "atomtype": "HG(i-1)",
+          "deviation": 0.0045800874287542162,
+          "shift": 1.5175800874287675
         },
         "14": {
           "atomtype": "?",
           "deviation": 0.0,
           "shift": 0.72999999999999998
+        },
+        "17": {
+          "atomtype": "QD*2(i-1)",
+          "deviation": 0.0,
+          "shift": 0.82378199611951874
+        },
+        "18": {
+          "atomtype": "QD*1(i-1)",
+          "deviation": 0.0,
+          "shift": 0.65351963930561308
         },
         "2": {
           "atomtype": "H",
@@ -3489,21 +3354,21 @@
         },
         "6": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.035500000007625612,
-          "shift": 46.725499999999997
+          "deviation": 0.031818401869243493,
+          "shift": 46.716219805235518
         },
         "7": {
-          "atomtype": "?",
+          "atomtype": "CD*2(i-1)",
           "deviation": 0.0,
           "shift": 23.567
         },
         "8": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 53.563000000000002
+          "deviation": 0.03669316792093482,
+          "shift": 53.485419144088077
         },
         "9": {
-          "atomtype": "?",
+          "atomtype": "CG(i-1)/CD*1(i-1)",
           "deviation": 0.0,
           "shift": 26.773
         }
@@ -3518,36 +3383,6 @@
           "atomtype": "N",
           "deviation": 0.0095424235592927592,
           "shift": 120.27681818181819
-        },
-        "100": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.2549999999999999
-        },
-        "101": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 52.302999999999997
-        },
-        "102": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.2549999999999999
-        },
-        "103": {
-          "atomtype": "HB(i-1)",
-          "deviation": 0.0,
-          "shift": 1.472
-        },
-        "104": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 20.195
-        },
-        "105": {
-          "atomtype": "HB(i-1)",
-          "deviation": 0.0,
-          "shift": 1.4710000000000001
         },
         "2": {
           "atomtype": "H",
@@ -3566,13 +3401,13 @@
         },
         "5": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.069999999999740797,
-          "shift": 20.024000000000001
+          "deviation": 0.098816327935924334,
+          "shift": 20.081
         },
         "6": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.023500000010850154,
-          "shift": 52.308499999999995
+          "deviation": 0.019362047642944982,
+          "shift": 52.306666666666665
         },
         "7": {
           "atomtype": "CB",
@@ -3581,13 +3416,13 @@
         },
         "8": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.2279999999999998
+          "deviation": 0.012727922061479796,
+          "shift": 4.2459999999999996
         },
         "9": {
           "atomtype": "QB(i-1)",
-          "deviation": 0.0005000000002569891,
-          "shift": 1.4495
+          "deviation": 0.011011357772765839,
+          "shift": 1.4605000000000001
         }
       }
     },
@@ -3687,36 +3522,6 @@
           "deviation": 0.0092633690721596641,
           "shift": 119.82269999999998
         },
-        "100": {
-          "atomtype": "HA2(i-1),HA3(i-1)",
-          "deviation": 0.0,
-          "shift": 4.0709999999999997
-        },
-        "101": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 45.874000000000002
-        },
-        "102": {
-          "atomtype": "HA2(i-1),HA3(i-1)",
-          "deviation": 0.0,
-          "shift": 4.0750000000000002
-        },
-        "103": {
-          "atomtype": "HA2(i-1),HA3(i-1)",
-          "deviation": 0.0,
-          "shift": 3.484
-        },
-        "104": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 45.874000000000002
-        },
-        "105": {
-          "atomtype": "HA2(i-1),HA3(i-1)",
-          "deviation": 0.0,
-          "shift": 3.4809999999999999
-        },
         "2": {
           "atomtype": "H",
           "deviation": 0.0042438190337134914,
@@ -3739,18 +3544,18 @@
         },
         "6": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.013499999994537104,
-          "shift": 45.847499999999997
+          "deviation": 0.016330569515421875,
+          "shift": 45.860749999999996
         },
         "7": {
           "atomtype": "HA*1(i-1)",
-          "deviation": 0.0010000000005139782,
-          "shift": 4.056
+          "deviation": 0.0086458082330757788,
+          "shift": 4.0644999999999998
         },
         "8": {
           "atomtype": "HA*2(i-1)",
-          "deviation": 0.0019999999996956888,
-          "shift": 3.4630000000000001
+          "deviation": 0.009908960591343087,
+          "shift": 3.47275
         }
       }
     },
@@ -3860,53 +3665,8 @@
         },
         "10": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.0014999999992906699,
-          "shift": 4.8384999999999998
-        },
-        "100": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.8630000000000004
-        },
-        "101": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 55.710999999999999
-        },
-        "102": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.8609999999999998
-        },
-        "103": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.9710000000000001
-        },
-        "104": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 42.299999999999997
-        },
-        "105": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.9729999999999999
-        },
-        "106": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.2799999999999998
-        },
-        "107": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 42.299999999999997
-        },
-        "108": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.282
+          "deviation": 0.011818946653532269,
+          "shift": 4.85025
         },
         "2": {
           "atomtype": "H",
@@ -3920,8 +3680,8 @@
         },
         "4": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.028500000001419196,
-          "shift": 42.3155
+          "deviation": 0.021591375593597712,
+          "shift": 42.307749999999999
         },
         "5": {
           "atomtype": "CB",
@@ -3935,18 +3695,18 @@
         },
         "7": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.01299999999670679,
-          "shift": 55.731999999999999
+          "deviation": 0.014514360702060971,
+          "shift": 55.725000000000001
         },
         "8": {
           "atomtype": "HB*1(i-1)",
-          "deviation": 0.0,
-          "shift": 2.9729999999999999
+          "deviation": 0.00094280904101991833,
+          "shift": 2.9723333333333333
         },
         "9": {
           "atomtype": "HB*2(i-1)",
-          "deviation": 0.0,
-          "shift": 2.258
+          "deviation": 0.010873004286836994,
+          "shift": 2.2733333333333334
         }
       }
     },
@@ -4014,63 +3774,18 @@
         },
         "10": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.001000000002290335,
-          "shift": 4.9299999999999997
-        },
-        "100": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.9509999999999996
-        },
-        "101": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 59.268000000000001
-        },
-        "102": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.9539999999999997
-        },
-        "103": {
-          "atomtype": "HB(i-1)",
-          "deviation": 0.0,
-          "shift": 4.5060000000000002
-        },
-        "104": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 73.483000000000004
-        },
-        "105": {
-          "atomtype": "HB(i-1)",
-          "deviation": 0.0,
-          "shift": 4.5069999999999997
-        },
-        "106": {
-          "atomtype": "HG2(i-1)",
-          "deviation": 0.0,
-          "shift": 1.2
-        },
-        "107": {
-          "atomtype": "CG2(i-1)",
-          "deviation": 0.0,
-          "shift": 22.035
-        },
-        "108": {
-          "atomtype": "HG2(i-1)",
-          "deviation": 0.0,
-          "shift": 1.2050000000000001
+          "deviation": 0.011321991874052105,
+          "shift": 4.9412500000000001
         },
         "11": {
           "atomtype": "HB(i-1)",
-          "deviation": 0.0,
-          "shift": 4.5110000000000001
+          "deviation": 0.0021602468992091175,
+          "shift": 4.508
         },
         "12": {
           "atomtype": "QG2(i-1)",
-          "deviation": 0.0,
-          "shift": 1.1899999999999999
+          "deviation": 0.0062360956446258593,
+          "shift": 1.1983333333333333
         },
         "2": {
           "atomtype": "H",
@@ -4084,8 +3799,8 @@
         },
         "4": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.29550000000106608,
-          "shift": 73.259500000000003
+          "deviation": 0.26327552107895369,
+          "shift": 73.334000000000003
         },
         "5": {
           "atomtype": "CA",
@@ -4094,8 +3809,8 @@
         },
         "6": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.018999999984990083,
-          "shift": 59.185000000000002
+          "deviation": 0.042089850974123814,
+          "shift": 59.212666666666671
         },
         "7": {
           "atomtype": "CB",
@@ -4104,8 +3819,8 @@
         },
         "9": {
           "atomtype": "CG2(i-1)",
-          "deviation": 0.0,
-          "shift": 22.027000000000001
+          "deviation": 0.0040000000091613402,
+          "shift": 22.030999999999999
         }
       }
     },
@@ -4120,64 +3835,19 @@
           "shift": 118.87964285714284
         },
         "10": {
-          "atomtype": "HA(i-1)/HB(i-1)",
-          "deviation": 0.0030000000003576966,
-          "shift": 5.1289999999999996
-        },
-        "100": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 5.1500000000000004
-        },
-        "101": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 60.173000000000002
-        },
-        "102": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 5.1580000000000004
-        },
-        "103": {
-          "atomtype": "HB(i-1)",
-          "deviation": 0.0,
-          "shift": 4.0579999999999998
-        },
-        "104": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 72.855999999999995
-        },
-        "105": {
-          "atomtype": "HB(i-1)",
-          "deviation": 0.0,
-          "shift": 4.069
-        },
-        "106": {
-          "atomtype": "HG2(i-1)",
-          "deviation": 0.0,
-          "shift": 1.0620000000000001
-        },
-        "107": {
-          "atomtype": "CG2(i-1)",
-          "deviation": 0.0,
-          "shift": 21.645
-        },
-        "108": {
-          "atomtype": "HG2(i-1)",
-          "deviation": 0.0,
-          "shift": 1.0609999999999999
+          "deviation": 0.01299038105705057,
+          "shift": 5.1414999999999997
         },
         "11": {
-          "atomtype": "HA(i-1)/HB(i-1)",
-          "deviation": 0.019500000000070423,
-          "shift": 4.0754999999999999
+          "atomtype": "HB(i-1)",
+          "deviation": 0.015532224567072454,
+          "shift": 4.0694999999999997
         },
         "13": {
           "atomtype": "QG2(i-1)",
-          "deviation": 0.0,
-          "shift": 1.0740000000000001
+          "deviation": 0.0059066817155494838,
+          "shift": 1.0656666666666668
         },
         "2": {
           "atomtype": "H",
@@ -4191,13 +3861,13 @@
         },
         "4": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.11949999999791378,
-          "shift": 72.879500000000007
+          "deviation": 0.098198212245771507,
+          "shift": 72.87166666666667
         },
         "5": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.016499999995534767,
-          "shift": 60.209499999999998
+          "deviation": 0.021853044563615653,
+          "shift": 60.197333333333326
         },
         "6": {
           "atomtype": "CB",
@@ -4210,9 +3880,9 @@
           "shift": 54.270000000000003
         },
         "9": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 21.149000000000001
+          "atomtype": "CG2(i-1)",
+          "deviation": 0.24800000000002731,
+          "shift": 21.396999999999998
         }
       }
     },
@@ -4228,98 +3898,23 @@
         },
         "10": {
           "atomtype": "HB*1(i-1)",
-          "deviation": 0.012999999999986217,
-          "shift": 2.2400000000000002
-        },
-        "100": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 3.9790000000000001
-        },
-        "101": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 57.243000000000002
-        },
-        "102": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 3.9780000000000002
-        },
-        "103": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.2669999999999999
-        },
-        "104": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 33.125
-        },
-        "105": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.2599999999999998
-        },
-        "106": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.0169999999999999
-        },
-        "107": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 33.125
-        },
-        "108": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.0169999999999999
-        },
-        "109": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 3.0550000000000002
+          "deviation": 0.015122417134834481,
+          "shift": 2.2517499999999999
         },
         "11": {
           "atomtype": "HB*2(i-1)",
-          "deviation": 0.018999999999983936,
-          "shift": 1.99
-        },
-        "110": {
-          "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 32.003
-        },
-        "111": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 3.0550000000000002
-        },
-        "112": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.669
-        },
-        "113": {
-          "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 32.003
-        },
-        "114": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.669
+          "deviation": 0.019045996954737136,
+          "shift": 2.0034999999999998
         },
         "12": {
           "atomtype": "HG*1(i-1)",
-          "deviation": 0.0,
-          "shift": 3.0270000000000001
+          "deviation": 0.013199326582151749,
+          "shift": 3.045666666666667
         },
         "13": {
           "atomtype": "HG*2(i-1)",
-          "deviation": 0.0,
-          "shift": 2.6309999999999998
+          "deviation": 0.017913371790112924,
+          "shift": 2.656333333333333
         },
         "2": {
           "atomtype": "H",
@@ -4333,8 +3928,8 @@
         },
         "4": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.035999999998765915,
-          "shift": 33.085000000000001
+          "deviation": 0.032372828106728507,
+          "shift": 33.105000000000004
         },
         "5": {
           "atomtype": "CB",
@@ -4343,8 +3938,8 @@
         },
         "6": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.042500000008876666,
-          "shift": 57.162499999999994
+          "deviation": 0.051422001350569305,
+          "shift": 57.18933333333333
         },
         "7": {
           "atomtype": "CA",
@@ -4353,13 +3948,13 @@
         },
         "8": {
           "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 32.374000000000002
+          "deviation": 0.17489107721327549,
+          "shift": 32.126666666666672
         },
         "9": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.0039999999998354668,
-          "shift": 3.9630000000000001
+          "deviation": 0.0082575722823583792,
+          "shift": 3.9707500000000002
         }
       }
     },
@@ -4375,73 +3970,23 @@
         },
         "10": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.0070000000000451333,
-          "shift": 3.7749999999999999
-        },
-        "100": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 3.7890000000000001
-        },
-        "101": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 66.733000000000004
-        },
-        "102": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 3.7949999999999999
-        },
-        "103": {
-          "atomtype": "HB(i-1)",
-          "deviation": 0.0,
-          "shift": 2.3170000000000002
-        },
-        "104": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 31.512
-        },
-        "105": {
-          "atomtype": "HB(i-1)",
-          "deviation": 0.0,
-          "shift": 2.3300000000000001
+          "deviation": 0.010062305898757189,
+          "shift": 3.7835000000000001
         },
         "106": {
-          "atomtype": "HG1(i-1),HG2(i-1)",
-          "deviation": 0.0,
-          "shift": 0.98899999999999999
-        },
-        "107": {
-          "atomtype": "CG1(i-1),CG2(i-1)",
-          "deviation": 0.0,
-          "shift": 23.361999999999998
-        },
-        "108": {
-          "atomtype": "HG1(i-1),HG2(i-1)",
-          "deviation": 0.0,
-          "shift": 0.999
+          "atomtype": "QG*2(i-1)",
+          "deviation": 0.0050000000000052754,
+          "shift": 0.99399999999999999
         },
         "109": {
-          "atomtype": "HG1(i-1),HG2(i-1)",
-          "deviation": 0.0,
-          "shift": 0.80000000000000004
+          "atomtype": "QG*1(i-1)",
+          "deviation": 0.002500000000019291,
+          "shift": 0.80249999999999999
         },
         "11": {
           "atomtype": "HB(i-1)",
-          "deviation": 0.00050000000114516752,
-          "shift": 2.3014999999999999
-        },
-        "110": {
-          "atomtype": "CG1(i-1),CG2(i-1)",
-          "deviation": 0.0,
-          "shift": 21.419
-        },
-        "111": {
-          "atomtype": "HG1(i-1),HG2(i-1)",
-          "deviation": 0.0,
-          "shift": 0.80500000000000005
+          "deviation": 0.011926860441937505,
+          "shift": 2.3125
         },
         "12": {
           "atomtype": "QG*(i-1)",
@@ -4460,8 +4005,8 @@
         },
         "4": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.032999999977289314,
-          "shift": 66.817000000000007
+          "deviation": 0.047895720058190469,
+          "shift": 66.789000000000001
         },
         "5": {
           "atomtype": "CB",
@@ -4475,18 +4020,18 @@
         },
         "7": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.035499999999619496,
-          "shift": 31.609500000000001
+          "deviation": 0.054338445568758387,
+          "shift": 31.576999999999998
         },
         "8": {
           "atomtype": "CG*2",
-          "deviation": 0.0,
-          "shift": 23.321000000000002
+          "deviation": 0.020499999998383672,
+          "shift": 23.3415
         },
         "9": {
           "atomtype": "CG*1",
-          "deviation": 0.0,
-          "shift": 21.452999999999999
+          "deviation": 0.01700000000027381,
+          "shift": 21.436
         }
       }
     },
@@ -4501,97 +4046,37 @@
           "shift": 118.54931250000001
         },
         "10": {
-          "atomtype": "?",
-          "deviation": 0.0060000000002713039,
-          "shift": 3.992
-        },
-        "100": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.016
-        },
-        "101": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 58.575000000000003
-        },
-        "102": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.016
-        },
-        "103": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.925
-        },
-        "104": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 40.997
-        },
-        "105": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.9259999999999999
-        },
-        "106": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.306
-        },
-        "107": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 40.997
-        },
-        "108": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.3069999999999999
+          "deviation": 0.01272792206161936,
+          "shift": 4.0039999999999996
         },
         "109": {
-          "atomtype": "HG(i-1),HD1(i-1),HD2(i-1)",
+          "atomtype": "QG*2(i-1)",
           "deviation": 0.0,
           "shift": 0.86799999999999999
         },
         "11": {
-          "atomtype": "?",
-          "deviation": 0.00900000000001221,
-          "shift": 1.9119999999999999
-        },
-        "110": {
-          "atomtype": "CG(i-1),CD1(i-1),CD2(i-1)",
-          "deviation": 0.0,
-          "shift": 26.571999999999999
-        },
-        "111": {
-          "atomtype": "HG(i-1),HD1(i-1),HD2(i-1)",
-          "deviation": 0.0,
-          "shift": 0.86799999999999999
+          "atomtype": "HB*2(i-1)",
+          "deviation": 0.0092837223138136343,
+          "shift": 1.91875
         },
         "112": {
-          "atomtype": "HG(i-1),HD1(i-1),HD2(i-1)",
-          "deviation": 0.0,
-          "shift": 0.755
+          "atomtype": "QG*1(i-1)",
+          "deviation": 0.0030000000000061262,
+          "shift": 0.75800000000000001
         },
         "113": {
-          "atomtype": "CG(i-1),CD1(i-1),CD2(i-1)",
-          "deviation": 0.0,
-          "shift": 21.503
-        },
-        "114": {
-          "atomtype": "HG(i-1),HD1(i-1),HD2(i-1)",
-          "deviation": 0.0,
-          "shift": 0.76100000000000001
+          "atomtype": "HG(i-1)",
+          "deviation": 0.0044617664361162298,
+          "shift": 2.0889273505931003
         },
         "12": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 1.2729999999999999
+          "atomtype": "HB*1(i-1)",
+          "deviation": 0.015797327481435742,
+          "shift": 1.2953333333333332
         },
         "13": {
-          "atomtype": "?",
+          "atomtype": "QD*(i-1)",
           "deviation": 0.0,
           "shift": 0.77000000000000002
         },
@@ -4599,6 +4084,11 @@
           "atomtype": "H",
           "deviation": 0.0024803918586010576,
           "shift": 8.3458124999999992
+        },
+        "20": {
+          "atomtype": "CG(i-1)",
+          "deviation": 0.0,
+          "shift": 26.474979602385439
         },
         "3": {
           "atomtype": "CO(i-1)",
@@ -4612,13 +4102,13 @@
         },
         "5": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.03649999999246769,
-          "shift": 58.441500000000005
+          "deviation": 0.069632367944557724,
+          "shift": 58.486000000000011
         },
         "6": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.058500000002670839,
-          "shift": 40.898499999999999
+          "deviation": 0.064317085601335644,
+          "shift": 40.947749999999999
         },
         "7": {
           "atomtype": "CB",
@@ -4626,14 +4116,14 @@
           "shift": 30.789000000000001
         },
         "8": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 21.559000000000001
+          "atomtype": "CD*1(i-1)",
+          "deviation": 0.028000000001195596,
+          "shift": 21.530999999999999
         },
         "9": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 26.614999999999998
+          "atomtype": "CD*2(i-1)",
+          "deviation": 0.02149999999863669,
+          "shift": 26.593499999999999
         }
       }
     },
@@ -4648,119 +4138,34 @@
           "shift": 118.51884210526316
         },
         "10": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 26.5
-        },
-        "100": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.71
-        },
-        "101": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 56.177999999999997
-        },
-        "102": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.7080000000000002
-        },
-        "103": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.3090000000000002
-        },
-        "104": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 43.363
-        },
-        "105": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.3140000000000001
-        },
-        "106": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.306
-        },
-        "107": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 43.374000000000002
-        },
-        "108": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.3160000000000001
-        },
-        "109": {
-          "atomtype": "HG(i-1)",
-          "deviation": 0.0,
-          "shift": 1.7070000000000001
+          "atomtype": "CG(i-1)",
+          "deviation": 0.0075000000037956241,
+          "shift": 26.5075
         },
         "11": {
-          "atomtype": "?",
-          "deviation": 0.0040000000007236452,
-          "shift": 4.702
-        },
-        "110": {
-          "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 26.515000000000001
-        },
-        "111": {
-          "atomtype": "HG(i-1)",
-          "deviation": 0.0,
-          "shift": 1.702
+          "atomtype": "HA(i-1)",
+          "deviation": 0.0045552167896711557,
+          "shift": 4.7055000000000007
         },
         "112": {
-          "atomtype": "HD1(i-1),HD2(i-1)",
-          "deviation": 0.0,
-          "shift": 0.92700000000000005
-        },
-        "113": {
-          "atomtype": "CD1(i-1),CD2(i-1)",
-          "deviation": 0.0,
-          "shift": 27.484000000000002
-        },
-        "114": {
-          "atomtype": "HD1(i-1),HD2(i-1)",
-          "deviation": 0.0,
-          "shift": 0.92900000000000005
-        },
-        "115": {
-          "atomtype": "HD1(i-1),HD2(i-1)",
-          "deviation": 0.0,
-          "shift": 0.436
-        },
-        "116": {
-          "atomtype": "CD1(i-1),CD2(i-1)",
-          "deviation": 0.0,
-          "shift": 24.369
-        },
-        "117": {
-          "atomtype": "HD1(i-1),HD2(i-1)",
-          "deviation": 0.0,
-          "shift": 0.435
+          "atomtype": "QD*2(i-1)",
+          "deviation": 0.0010000000000143778,
+          "shift": 0.92800000000000005
         },
         "12": {
-          "atomtype": "?",
-          "deviation": 0.024999999999988632,
-          "shift": 2.2770000000000001
+          "atomtype": "HB*2(i-1)",
+          "deviation": 0.024762623043628345,
+          "shift": 2.2942499999999999
         },
         "13": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 1.296
+          "atomtype": "HB*1(i-1)",
+          "deviation": 0.0081649658092632135,
+          "shift": 1.306
         },
         "15": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 1.6850000000000001
+          "atomtype": "HG(i-1)",
+          "deviation": 0.0094162979278815204,
+          "shift": 1.6980000000000002
         },
         "16": {
           "atomtype": "?",
@@ -4768,9 +4173,9 @@
           "shift": 0.89400000000000002
         },
         "17": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 0.39100000000000001
+          "atomtype": "QD*1(i-1)",
+          "deviation": 0.020981473309140502,
+          "shift": 0.42066666666666669
         },
         "2": {
           "atomtype": "H",
@@ -4789,8 +4194,8 @@
         },
         "5": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.046499999998448421,
-          "shift": 43.277500000000003
+          "deviation": 0.056271662496624041,
+          "shift": 43.323
         },
         "6": {
           "atomtype": "CB",
@@ -4799,18 +4204,18 @@
         },
         "7": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.0080000000183226803,
-          "shift": 56.067
+          "deviation": 0.052732026949852732,
+          "shift": 56.104000000000006
         },
         "8": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 24.367999999999999
+          "atomtype": "CD*1(i-1)",
+          "deviation": 0.00050000008463393182,
+          "shift": 24.368499999999997
         },
         "9": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 27.489000000000001
+          "atomtype": "CD*2(i-1)",
+          "deviation": 0.0025000000138970789,
+          "shift": 27.486499999999999
         }
       }
     },
@@ -4824,50 +4229,10 @@
           "deviation": 0.023707933529771606,
           "shift": 118.50345454545457
         },
-        "100": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.7169999999999996
-        },
         "101": {
           "atomtype": "CA(i-1)",
           "deviation": 0.0,
           "shift": 55.258000000000003
-        },
-        "102": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.7210000000000001
-        },
-        "103": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.8380000000000001
-        },
-        "104": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 41.957000000000001
-        },
-        "105": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.8399999999999999
-        },
-        "106": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.6269999999999998
-        },
-        "107": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 41.957000000000001
-        },
-        "108": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.629
         },
         "2": {
           "atomtype": "H",
@@ -4886,8 +4251,8 @@
         },
         "5": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.0075000000113747472,
-          "shift": 41.945500000000003
+          "deviation": 0.0078222439395946846,
+          "shift": 41.951250000000002
         },
         "6": {
           "atomtype": "CB",
@@ -4896,18 +4261,18 @@
         },
         "7": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.0035000000001494495,
-          "shift": 4.6985000000000001
+          "deviation": 0.010638961415403578,
+          "shift": 4.7087500000000002
         },
         "8": {
           "atomtype": "HB*1(i-1)",
-          "deviation": 0.0,
-          "shift": 2.8290000000000002
+          "deviation": 0.0047842333648273946,
+          "shift": 2.8356666666666666
         },
         "9": {
           "atomtype": "HB*2(i-1)",
-          "deviation": 0.0,
-          "shift": 2.5960000000000001
+          "deviation": 0.0151070255914873,
+          "shift": 2.6173333333333333
         }
       }
     },
@@ -4923,118 +4288,43 @@
         },
         "10": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.013500000000195128,
-          "shift": 5.4124999999999996
-        },
-        "100": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 5.4269999999999996
-        },
-        "101": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 55.226999999999997
-        },
-        "102": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 5.4240000000000004
+          "deviation": 0.011597413504807037,
+          "shift": 5.4189999999999996
         },
         "103": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.706
-        },
-        "104": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 31.010999999999999
-        },
-        "105": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.7070000000000001
+          "atomtype": "HB*2(i-1)",
+          "deviation": 0.00049999999936881068,
+          "shift": 1.7065000000000001
         },
         "106": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.631
-        },
-        "107": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 31.010999999999999
-        },
-        "108": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
+          "atomtype": "HB*1(i-1)",
           "deviation": 0.0,
           "shift": 1.631
         },
         "109": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.623
+          "atomtype": "HG*2(i-1)",
+          "deviation": 0.0005000000002569891,
+          "shift": 1.6234999999999999
         },
         "11": {
           "atomtype": "HB*(i-1)/HG*(i-1)",
           "deviation": 0.0014999999998827889,
           "shift": 1.6505000000000001
         },
-        "110": {
-          "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 27.643999999999998
-        },
-        "111": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.6240000000000001
-        },
         "112": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.3819999999999999
-        },
-        "113": {
-          "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 27.643999999999998
-        },
-        "114": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.383
+          "atomtype": "HG*1(i-1)",
+          "deviation": 0.0005000000002569891,
+          "shift": 1.3824999999999998
         },
         "115": {
-          "atomtype": "HD2(i-1),HD3(i-1)",
-          "deviation": 0.0,
-          "shift": 3.1850000000000001
-        },
-        "116": {
-          "atomtype": "CD(i-1)",
-          "deviation": 0.0,
-          "shift": 43.002000000000002
-        },
-        "117": {
-          "atomtype": "HD2(i-1),HD3(i-1)",
-          "deviation": 0.0,
-          "shift": 3.1890000000000001
+          "atomtype": "HD*2(i-1)",
+          "deviation": 0.0019999999996956888,
+          "shift": 3.1870000000000003
         },
         "118": {
-          "atomtype": "HD2(i-1),HD3(i-1)",
-          "deviation": 0.0,
-          "shift": 3.1019999999999999
-        },
-        "119": {
-          "atomtype": "CD(i-1)",
-          "deviation": 0.0,
-          "shift": 43.002000000000002
-        },
-        "120": {
-          "atomtype": "HD2(i-1),HD3(i-1)",
-          "deviation": 0.0,
-          "shift": 3.0990000000000002
+          "atomtype": "HD*1(i-1)",
+          "deviation": 0.0014999999992906699,
+          "shift": 3.1005000000000003
         },
         "13": {
           "atomtype": "HD*(i-1)",
@@ -5053,8 +4343,8 @@
         },
         "4": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.013499999998747727,
-          "shift": 30.8535
+          "deviation": 0.07932646153662766,
+          "shift": 30.93225
         },
         "5": {
           "atomtype": "CA",
@@ -5063,8 +4353,8 @@
         },
         "6": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.046499999993558666,
-          "shift": 55.283500000000004
+          "deviation": 0.04637767661366491,
+          "shift": 55.26466666666667
         },
         "7": {
           "atomtype": "CB",
@@ -5073,13 +4363,13 @@
         },
         "8": {
           "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 27.550999999999998
+          "deviation": 0.043840620432679368,
+          "shift": 27.613
         },
         "9": {
           "atomtype": "CD(i-1)",
-          "deviation": 0.0,
-          "shift": 42.957999999999998
+          "deviation": 0.020741798906891557,
+          "shift": 42.987333333333339
         }
       }
     },
@@ -5191,109 +4481,44 @@
           "shift": 118.24486666666665
         },
         "10": {
-          "atomtype": "?",
-          "deviation": 0.0040000000000020002,
-          "shift": 1.2869999999999999
-        },
-        "100": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 3.6549999999999998
+          "atomtype": "HG*1(i-1)",
+          "deviation": 0.0047169905660049173,
+          "shift": 1.2845
         },
         "101": {
           "atomtype": "CA(i-1)",
           "deviation": 0.0,
           "shift": 58.734000000000002
         },
-        "102": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 3.6589999999999998
-        },
         "103": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.9350000000000001
+          "atomtype": "HB*2(i-1)",
+          "deviation": 0.018208667045017505,
+          "shift": 1.9263333333333332
         },
         "104": {
           "atomtype": "CB(i-1)",
           "deviation": 0.0,
           "shift": 29.411999999999999
         },
-        "105": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.9430000000000001
-        },
         "106": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.3009999999999999
-        },
-        "107": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 29.411999999999999
-        },
-        "108": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
+          "atomtype": "HB*1(i-1)",
           "deviation": 0.0,
           "shift": 1.3009999999999999
         },
         "109": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.3839999999999999
+          "atomtype": "HG*2(i-1)",
+          "deviation": 0.0069999999999816927,
+          "shift": 1.391
         },
         "11": {
           "atomtype": "?",
           "deviation": 0.0,
           "shift": 1.962
         },
-        "110": {
-          "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 25.814
-        },
-        "111": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.3979999999999999
-        },
-        "112": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.286
-        },
-        "113": {
-          "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 25.814
-        },
-        "114": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.278
-        },
-        "115": {
-          "atomtype": "HD2(i-1),HD3(i-1)",
-          "deviation": 0.0,
-          "shift": 3.0289999999999999
-        },
-        "116": {
-          "atomtype": "CD(i-1)",
-          "deviation": 0.0,
-          "shift": 43.802999999999997
-        },
-        "117": {
-          "atomtype": "HD2(i-1),HD3(i-1)",
-          "deviation": 0.0,
-          "shift": 3.0289999999999999
-        },
         "12": {
           "atomtype": "HD*(i-1)",
-          "deviation": 0.0,
-          "shift": 3.0059999999999998
+          "deviation": 0.010842303978159613,
+          "shift": 3.0213333333333332
         },
         "2": {
           "atomtype": "H",
@@ -5317,23 +4542,18 @@
         },
         "6": {
           "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 25.754000000000001
+          "deviation": 0.028284271245921654,
+          "shift": 25.794
         },
         "7": {
           "atomtype": "CD(i-1)",
-          "deviation": 0.0,
-          "shift": 43.701999999999998
+          "deviation": 0.050499999997877153,
+          "shift": 43.752499999999998
         },
         "8": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.0070000000000451333,
-          "shift": 3.6269999999999998
-        },
-        "9": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 1.901
+          "deviation": 0.015858751527295961,
+          "shift": 3.6419999999999995
         }
       }
     },
@@ -5348,129 +4568,39 @@
           "shift": 118.16430769230767
         },
         "10": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 27.317
-        },
-        "100": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.931
-        },
-        "101": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 53.954999999999998
-        },
-        "102": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.9359999999999999
+          "atomtype": "CG(i-1)",
+          "deviation": 0.0032998316356295325,
+          "shift": 27.321666666666669
         },
         "103": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.663
-        },
-        "104": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 33.015000000000001
-        },
-        "105": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.6739999999999999
+          "atomtype": "HB*2(i-1)",
+          "deviation": 0.0055000000000412297,
+          "shift": 1.6684999999999999
         },
         "106": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.5569999999999999
-        },
-        "107": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 33.015000000000001
-        },
-        "108": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.5600000000000001
+          "atomtype": "HB*1(i-1)",
+          "deviation": 0.015443445211481483,
+          "shift": 1.5720000000000001
         },
         "109": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.3839999999999999
+          "atomtype": "HG*2(i-1)",
+          "deviation": 0.0065000000000443496,
+          "shift": 1.3904999999999998
         },
         "11": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 4.915
-        },
-        "110": {
-          "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 27.324000000000002
-        },
-        "111": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.397
+          "atomtype": "HA(i-1)",
+          "deviation": 0.0089566858950936475,
+          "shift": 4.9273333333333333
         },
         "112": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.24
-        },
-        "113": {
-          "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 27.324000000000002
-        },
-        "114": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.238
-        },
-        "115": {
-          "atomtype": "HD2(i-1),HD3(i-1)",
-          "deviation": 0.0,
-          "shift": 3.0139999999999998
-        },
-        "116": {
-          "atomtype": "CD(i-1)",
-          "deviation": 0.0,
-          "shift": 43.889000000000003
-        },
-        "117": {
-          "atomtype": "HD2(i-1),HD3(i-1)",
-          "deviation": 0.0,
-          "shift": 3.0289999999999999
-        },
-        "118": {
-          "atomtype": "HD2(i-1),HD3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.9609999999999999
-        },
-        "119": {
-          "atomtype": "CD(i-1)",
-          "deviation": 0.0,
-          "shift": 43.889000000000003
-        },
-        "12": {
-          "atomtype": "?",
-          "deviation": 0.010499999999983111,
-          "shift": 1.5855000000000001
-        },
-        "120": {
-          "atomtype": "HD2(i-1),HD3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.9609999999999999
+          "atomtype": "HG*1(i-1)",
+          "deviation": 0.001000000000069889,
+          "shift": 1.2389999999999999
         },
         "14": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 2.9569999999999999
+          "atomtype": "HD*(i-1)",
+          "deviation": 0.030695928068699304,
+          "shift": 2.9843999999999999
         },
         "2": {
           "atomtype": "H",
@@ -5484,13 +4614,13 @@
         },
         "5": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.01299999999670679,
-          "shift": 33.096000000000004
+          "deviation": 0.041530109559137288,
+          "shift": 33.055500000000002
         },
         "6": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.011999999984851456,
-          "shift": 53.951000000000001
+          "deviation": 0.0099777530112054539,
+          "shift": 53.952333333333335
         },
         "7": {
           "atomtype": "CA",
@@ -5498,9 +4628,9 @@
           "shift": 57.183
         },
         "9": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 43.875
+          "atomtype": "CD(i-1)",
+          "deviation": 0.0065996632712590651,
+          "shift": 43.884333333333338
         }
       }
     },
@@ -5519,63 +4649,28 @@
           "deviation": 0.0,
           "shift": 0.73699999999999999
         },
-        "100": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.0250000000000004
-        },
-        "101": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 64.183000000000007
-        },
-        "102": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.0229999999999997
-        },
-        "103": {
-          "atomtype": "HB(i-1)",
-          "deviation": 0.0,
-          "shift": 2.1230000000000002
-        },
         "104": {
           "atomtype": "CB(i-1)",
           "deviation": 0.0,
           "shift": 30.864999999999998
         },
-        "105": {
-          "atomtype": "HB(i-1)",
-          "deviation": 0.0,
-          "shift": 2.1269999999999998
-        },
         "106": {
-          "atomtype": "HG1(i-1),HG2(i-1)",
-          "deviation": 0.0,
-          "shift": 0.78200000000000003
+          "atomtype": "QG*2(i-1)",
+          "deviation": 0.00049999999992392219,
+          "shift": 0.78150000000000008
         },
         "107": {
-          "atomtype": "CG1(i-1),CG2(i-1)",
+          "atomtype": "CG*2(i-1)",
           "deviation": 0.0,
           "shift": 20.420999999999999
         },
-        "108": {
-          "atomtype": "HG1(i-1),HG2(i-1)",
-          "deviation": 0.0,
-          "shift": 0.78100000000000003
-        },
-        "109": {
-          "atomtype": "HG1(i-1),HG2(i-1)",
-          "deviation": 0.0,
-          "shift": 0.59299999999999997
-        },
         "110": {
-          "atomtype": "CG1(i-1),CG2(i-1)",
+          "atomtype": "CG*1(i-1)",
           "deviation": 0.0,
           "shift": 19.513000000000002
         },
         "111": {
-          "atomtype": "HG1(i-1),HG2(i-1)",
+          "atomtype": "QG*1(i-1)",
           "deviation": 0.0,
           "shift": 0.59299999999999997
         },
@@ -5601,8 +4696,8 @@
         },
         "6": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.030500000018806799,
-          "shift": 64.197499999999991
+          "deviation": 0.025824191970300375,
+          "shift": 64.192666666666653
         },
         "7": {
           "atomtype": "CG*(i-1)",
@@ -5611,13 +4706,13 @@
         },
         "8": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.0045000000002404852,
-          "shift": 4.0045000000000002
+          "deviation": 0.010280442597284688,
+          "shift": 4.0142500000000005
         },
         "9": {
           "atomtype": "HB(i-1)",
-          "deviation": 0.001000000000069889,
-          "shift": 2.0979999999999999
+          "deviation": 0.013592277219095148,
+          "shift": 2.1114999999999999
         }
       }
     },
@@ -5631,80 +4726,25 @@
           "deviation": 0.037143253868409547,
           "shift": 117.7533846153846
         },
-        "100": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.5449999999999999
-        },
-        "101": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 53.878
-        },
-        "102": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.5510000000000002
-        },
         "103": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.3109999999999999
+          "atomtype": "HB*2(i-1)",
+          "deviation": 0.001000000000069889,
+          "shift": 2.3100000000000001
         },
         "104": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 33.036000000000001
-        },
-        "105": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.3090000000000002
-        },
-        "106": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.601
-        },
-        "107": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 32.886000000000003
-        },
-        "108": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.603
+          "deviation": 0.075000000003092288,
+          "shift": 32.960999999999999
         },
         "109": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.2349999999999999
+          "atomtype": "HG*(i-1)",
+          "deviation": 0.034003676271841428,
+          "shift": 2.2004999999999999
         },
         "110": {
           "atomtype": "CG(i-1)",
           "deviation": 0.0,
           "shift": 33.036000000000001
-        },
-        "111": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.234
-        },
-        "112": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.1669999999999998
-        },
-        "113": {
-          "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 33.036000000000001
-        },
-        "114": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.1659999999999999
         },
         "2": {
           "atomtype": "H",
@@ -5728,13 +4768,13 @@
         },
         "6": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.0094999999805280063,
-          "shift": 53.878500000000003
+          "deviation": 0.0077602978715679239,
+          "shift": 53.87833333333333
         },
         "7": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.0024999999989756814,
-          "shift": 4.5335000000000001
+          "deviation": 0.0077580603246435158,
+          "shift": 4.5407500000000001
         },
         "8": {
           "atomtype": "?",
@@ -5742,9 +4782,9 @@
           "shift": 2.2395
         },
         "9": {
-          "atomtype": "?",
-          "deviation": 0.013000000000020379,
-          "shift": 1.5859999999999999
+          "atomtype": "HB*1(i-1)",
+          "deviation": 0.012206555615750039,
+          "shift": 1.5939999999999999
         }
       }
     },
@@ -5760,78 +4800,18 @@
         },
         "10": {
           "atomtype": "HB*1(i-1)",
-          "deviation": 0.0,
-          "shift": 2.1509999999999998
-        },
-        "100": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.4340000000000002
-        },
-        "101": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 58.109999999999999
-        },
-        "102": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.4340000000000002
-        },
-        "103": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.169
-        },
-        "104": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 30.088000000000001
-        },
-        "105": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.1669999999999998
-        },
-        "106": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.0169999999999999
-        },
-        "107": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 30.088000000000001
-        },
-        "108": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.016
-        },
-        "109": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.411
+          "deviation": 0.0080553639823896898,
+          "shift": 2.1623333333333332
         },
         "11": {
           "atomtype": "HB*2(i-1)",
-          "deviation": 0.0,
-          "shift": 1.978
-        },
-        "110": {
-          "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 36.902000000000001
-        },
-        "111": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.411
+          "deviation": 0.018153665072241993,
+          "shift": 2.0036666666666667
         },
         "12": {
           "atomtype": "HG*(i-1)",
-          "deviation": 0.0,
-          "shift": 2.3860000000000001
+          "deviation": 0.011785113019757872,
+          "shift": 2.4026666666666667
         },
         "2": {
           "atomtype": "H",
@@ -5850,8 +4830,8 @@
         },
         "5": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.022499999998755002,
-          "shift": 29.994500000000002
+          "deviation": 0.049383068963122112,
+          "shift": 30.041249999999998
         },
         "6": {
           "atomtype": "CB",
@@ -5860,18 +4840,18 @@
         },
         "7": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.077499999998066005,
-          "shift": 57.962499999999999
+          "deviation": 0.094015365177113466,
+          "shift": 58.011666666666663
         },
         "8": {
           "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 36.810000000000002
+          "deviation": 0.045999999998774001,
+          "shift": 36.856000000000002
         },
         "9": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.0059999999998272147,
-          "shift": 4.399
+          "deviation": 0.018006943105326668,
+          "shift": 4.4165000000000001
         }
       }
     },
@@ -5884,36 +4864,6 @@
           "atomtype": "N",
           "deviation": 0.012092617558349381,
           "shift": 117.50463636363638
-        },
-        "100": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.2270000000000003
-        },
-        "101": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 53.588000000000001
-        },
-        "102": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.2320000000000002
-        },
-        "103": {
-          "atomtype": "HB(i-1)",
-          "deviation": 0.0,
-          "shift": 1.536
-        },
-        "104": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 19.042999999999999
-        },
-        "105": {
-          "atomtype": "HB(i-1)",
-          "deviation": 0.0,
-          "shift": 1.5409999999999999
         },
         "2": {
           "atomtype": "H",
@@ -5932,13 +4882,13 @@
         },
         "5": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.090500000000226705,
-          "shift": 18.9175
+          "deviation": 0.094658450348076725,
+          "shift": 18.959333333333333
         },
         "6": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.012000000003799263,
-          "shift": 53.582999999999998
+          "deviation": 0.010077477652155374,
+          "shift": 53.584666666666664
         },
         "7": {
           "atomtype": "CB",
@@ -5947,13 +4897,13 @@
         },
         "8": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.2110000000000003
+          "deviation": 0.0089566858950936475,
+          "shift": 4.2233333333333336
         },
         "9": {
           "atomtype": "QB(i-1)",
-          "deviation": 0.0014999999998827889,
-          "shift": 1.5215000000000001
+          "deviation": 0.0087464278422191705,
+          "shift": 1.5300000000000002
         }
       }
     },
@@ -5967,48 +4917,18 @@
           "deviation": 0.01482793878003986,
           "shift": 117.41263636363637
         },
-        "100": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.9459999999999997
-        },
         "101": {
           "atomtype": "CA(i-1)",
           "deviation": 0.0,
           "shift": 57.192
         },
-        "102": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.944
-        },
         "103": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
+          "atomtype": "HB*2(i-1)",
           "deviation": 0.0,
           "shift": 2.5760000000000001
-        },
-        "104": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 42.430999999999997
-        },
-        "105": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.5760000000000001
-        },
-        "106": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.4780000000000002
-        },
-        "107": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 42.430999999999997
         },
         "108": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
+          "atomtype": "HB*1(i-1)",
           "deviation": 0.0,
           "shift": 2.4780000000000002
         },
@@ -6029,8 +4949,8 @@
         },
         "5": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.0074999999962165019,
-          "shift": 42.439500000000002
+          "deviation": 0.0067961386223877379,
+          "shift": 42.435249999999996
         },
         "6": {
           "atomtype": "CB",
@@ -6039,8 +4959,8 @@
         },
         "7": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.00099999999873762136,
-          "shift": 4.9250000000000007
+          "deviation": 0.01004987562080693,
+          "shift": 4.9350000000000005
         },
         "8": {
           "atomtype": "HB*(i-1)",
@@ -6061,133 +4981,38 @@
         },
         "10": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 3.8610000000000002
+          "deviation": 0.0080415587212196524,
+          "shift": 3.8719999999999999
         },
         "100": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.804
-        },
-        "101": {
-          "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 29.359999999999999
-        },
-        "102": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.8100000000000001
+          "atomtype": "HG*2(i-1)",
+          "deviation": 0.0030000000000616374,
+          "shift": 1.8069999999999999
         },
         "103": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.5629999999999999
-        },
-        "104": {
-          "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 29.359999999999999
-        },
-        "105": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.5680000000000001
-        },
-        "106": {
-          "atomtype": "HD2(i-1),HD3(i-1)",
-          "deviation": 0.0,
-          "shift": 3.351
-        },
-        "107": {
-          "atomtype": "CD(i-1)",
-          "deviation": 0.0,
-          "shift": 43.301000000000002
-        },
-        "108": {
-          "atomtype": "HD2(i-1),HD3(i-1)",
-          "deviation": 0.0,
-          "shift": 3.3559999999999999
-        },
-        "109": {
-          "atomtype": "HD2(i-1),HD3(i-1)",
-          "deviation": 0.0,
-          "shift": 3.1019999999999999
-        },
-        "11": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 2.0449999999999999
-        },
-        "110": {
-          "atomtype": "CD(i-1)",
-          "deviation": 0.0,
-          "shift": 43.301000000000002
-        },
-        "111": {
-          "atomtype": "HD2(i-1),HD3(i-1)",
-          "deviation": 0.0,
-          "shift": 3.1070000000000002
-        },
-        "112": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 3.8799999999999999
-        },
-        "113": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 60.432000000000002
-        },
-        "114": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 3.875
+          "atomtype": "HG*1(i-1)",
+          "deviation": 0.0024999999999526777,
+          "shift": 1.5655000000000001
         },
         "115": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
+          "atomtype": "HB*2(i-1)",
           "deviation": 0.0,
           "shift": 2.0529999999999999
-        },
-        "116": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 30.782
-        },
-        "117": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.0529999999999999
-        },
-        "118": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.8340000000000001
-        },
-        "119": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 30.782
         },
         "12": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 1.8049999999999999
-        },
-        "120": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.8420000000000001
+          "atomtype": "HB*1(i-1)",
+          "deviation": 0.095395230488742808,
+          "shift": 1.8815
         },
         "13": {
           "atomtype": "HD*1(i-1)",
-          "deviation": 0.0,
-          "shift": 3.3260000000000001
+          "deviation": 0.01312334645667858,
+          "shift": 3.3443333333333332
         },
         "14": {
           "atomtype": "HD*2(i-1)",
-          "deviation": 0.0,
-          "shift": 3.0819999999999999
+          "deviation": 0.010801234497361256,
+          "shift": 3.097
         },
         "2": {
           "atomtype": "H",
@@ -6201,8 +5026,8 @@
         },
         "4": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.030999999997539437,
-          "shift": 30.743000000000002
+          "deviation": 0.029338541204621725,
+          "shift": 30.762499999999999
         },
         "5": {
           "atomtype": "CA",
@@ -6211,18 +5036,18 @@
         },
         "6": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.01749999998684091,
-          "shift": 60.369500000000002
+          "deviation": 0.032744804508797985,
+          "shift": 60.390333333333331
         },
         "7": {
           "atomtype": "CD(i-1)",
-          "deviation": 0.0,
-          "shift": 43.316000000000003
+          "deviation": 0.0070710678029391105,
+          "shift": 43.306000000000004
         },
         "8": {
           "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 29.231999999999999
+          "deviation": 0.060339778661072881,
+          "shift": 29.317333333333334
         },
         "9": {
           "atomtype": "CB",
@@ -6242,89 +5067,24 @@
           "shift": 117.18664285714286
         },
         "100": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.202
-        },
-        "101": {
-          "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 37.978000000000002
-        },
-        "102": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.2000000000000002
-        },
-        "103": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 3.7400000000000002
-        },
-        "104": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 61.228999999999999
-        },
-        "105": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 3.746
+          "atomtype": "HG*1(i-1)",
+          "deviation": 0.001000000000069889,
+          "shift": 2.2010000000000001
         },
         "106": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.2170000000000001
-        },
-        "107": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 29.867999999999999
-        },
-        "108": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.2160000000000002
-        },
-        "109": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.0819999999999999
+          "atomtype": "HB*2(i-1)",
+          "deviation": 0.00050000000114516752,
+          "shift": 2.2164999999999999
         },
         "11": {
-          "atomtype": "HB*(i-1)",
-          "deviation": 0.014500000000010361,
-          "shift": 2.1684999999999999
-        },
-        "110": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 29.867999999999999
-        },
-        "111": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.081
-        },
-        "112": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.8180000000000001
-        },
-        "113": {
-          "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 37.978000000000002
-        },
-        "114": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.8220000000000001
+          "atomtype": "HB*1(i-1)",
+          "deviation": 0.044693399960171687,
+          "shift": 2.125
         },
         "12": {
-          "atomtype": "HG*(i-1)",
-          "deviation": 0.0,
-          "shift": 2.8029999999999999
+          "atomtype": "HG*2(i-1)",
+          "deviation": 0.0081785627641587661,
+          "shift": 2.8143333333333338
         },
         "2": {
           "atomtype": "H",
@@ -6348,23 +5108,23 @@
         },
         "6": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.025499999991772746,
-          "shift": 61.164500000000004
+          "deviation": 0.036851051545132123,
+          "shift": 61.186
         },
         "7": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.021500000001280568,
-          "shift": 29.766500000000001
+          "deviation": 0.052978179472277627,
+          "shift": 29.817249999999998
         },
         "8": {
           "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 37.950000000000003
+          "deviation": 0.013199326576970444,
+          "shift": 37.968666666666671
         },
         "9": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.0035000000001494495,
-          "shift": 3.7164999999999999
+          "deviation": 0.013645054048954147,
+          "shift": 3.7297500000000001
         }
       }
     },
@@ -6379,109 +5139,34 @@
           "shift": 117.00956250000002
         },
         "10": {
-          "atomtype": "?",
-          "deviation": 0.0020000000003618226,
-          "shift": 2.1399999999999997
-        },
-        "100": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.4870000000000001
+          "atomtype": "HB*2(i-1)",
+          "deviation": 0.006204836823035435,
+          "shift": 2.1459999999999999
         },
         "101": {
           "atomtype": "CA(i-1)",
           "deviation": 0.0,
           "shift": 56.098999999999997
         },
-        "102": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.4870000000000001
-        },
-        "103": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.153
-        },
-        "104": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 31.582999999999998
-        },
-        "105": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.1509999999999998
-        },
-        "106": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.7290000000000001
-        },
-        "107": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 31.582999999999998
-        },
-        "108": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.7270000000000001
-        },
         "109": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.7150000000000001
+          "atomtype": "HG*2(i-1)",
+          "deviation": 0.00099999999984784439,
+          "shift": 1.7160000000000002
         },
         "11": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 1.7130000000000001
-        },
-        "110": {
-          "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 27.501999999999999
-        },
-        "111": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.7170000000000001
+          "atomtype": "HB*1(i-1)",
+          "deviation": 0.0071180521680192345,
+          "shift": 1.7230000000000001
         },
         "112": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.544
-        },
-        "113": {
-          "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 27.501999999999999
-        },
-        "114": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.5389999999999999
-        },
-        "115": {
-          "atomtype": "HD2(i-1),HD3(i-1)",
-          "deviation": 0.0,
-          "shift": 3.298
-        },
-        "116": {
-          "atomtype": "CD(i-1)",
-          "deviation": 0.0,
-          "shift": 43.469999999999999
-        },
-        "117": {
-          "atomtype": "HD2(i-1),HD3(i-1)",
-          "deviation": 0.0,
-          "shift": 3.2989999999999999
+          "atomtype": "HG*1(i-1)",
+          "deviation": 0.0024999999999526777,
+          "shift": 1.5415000000000001
         },
         "12": {
-          "atomtype": "?",
-          "deviation": 0.0,
-          "shift": 3.278
+          "atomtype": "HD*(i-1)",
+          "deviation": 0.0096724120857617606,
+          "shift": 3.2916666666666665
         },
         "13": {
           "atomtype": "?",
@@ -6500,8 +5185,8 @@
         },
         "4": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.039500000001582936,
-          "shift": 31.648499999999999
+          "deviation": 0.043042856551399632,
+          "shift": 31.615749999999998
         },
         "5": {
           "atomtype": "CA(i/i-1)",
@@ -6514,19 +5199,19 @@
           "shift": 43.302999999999997
         },
         "7": {
-          "atomtype": "CG",
-          "deviation": 0.0,
-          "shift": 27.504000000000001
+          "atomtype": "CG(i-1)",
+          "deviation": 0.00094280896000314399,
+          "shift": 27.502666666666666
         },
         "8": {
           "atomtype": "CD(i-1)",
-          "deviation": 0.0,
-          "shift": 43.442999999999998
+          "deviation": 0.01350000000295835,
+          "shift": 43.456499999999998
         },
         "9": {
-          "atomtype": "?",
-          "deviation": 0.002000000000139778,
-          "shift": 4.4660000000000002
+          "atomtype": "HA(i-1)",
+          "deviation": 0.01059481005041458,
+          "shift": 4.4764999999999997
         }
       }
     },
@@ -6629,78 +5314,23 @@
         },
         "10": {
           "atomtype": "HB(i-1)",
-          "deviation": 0.0005000000002569891,
-          "shift": 1.9424999999999999
-        },
-        "100": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 3.6859999999999999
-        },
-        "101": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 65.480000000000004
-        },
-        "102": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 3.6850000000000001
-        },
-        "103": {
-          "atomtype": "HB(i-1)",
-          "deviation": 0.0,
-          "shift": 1.9650000000000001
+          "deviation": 0.012051970793197961,
+          "shift": 1.9544999999999999
         },
         "104": {
           "atomtype": "CB(i-1)",
           "deviation": 0.0,
           "shift": 32.136000000000003
         },
-        "105": {
-          "atomtype": "HB(i-1)",
-          "deviation": 0.0,
-          "shift": 1.968
-        },
-        "106": {
-          "atomtype": "HG1(i-1),HG2(i-1)",
-          "deviation": 0.0,
-          "shift": 1.089
-        },
-        "107": {
-          "atomtype": "CG1(i-1),CG2(i-1)",
-          "deviation": 0.0,
-          "shift": 21.495999999999999
-        },
-        "108": {
-          "atomtype": "HG1(i-1),HG2(i-1)",
-          "deviation": 0.0,
-          "shift": 1.099
-        },
-        "109": {
-          "atomtype": "HG1(i-1),HG2(i-1)",
-          "deviation": 0.0,
-          "shift": 0.75
-        },
         "11": {
           "atomtype": "QG*1",
-          "deviation": 0.0,
-          "shift": 1.075
-        },
-        "110": {
-          "atomtype": "CG1(i-1),CG2(i-1)",
-          "deviation": 0.0,
-          "shift": 21.495999999999999
-        },
-        "111": {
-          "atomtype": "HG1(i-1),HG2(i-1)",
-          "deviation": 0.0,
-          "shift": 0.74399999999999999
+          "deviation": 0.009843215373496363,
+          "shift": 1.0876666666666666
         },
         "12": {
           "atomtype": "QG*2",
-          "deviation": 0.0,
-          "shift": 0.72899999999999998
+          "deviation": 0.0088317608663291206,
+          "shift": 0.74099999999999999
         },
         "2": {
           "atomtype": "H",
@@ -6719,8 +5349,8 @@
         },
         "5": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.010000000055588315,
-          "shift": 65.48599999999999
+          "deviation": 0.0086409876922225078,
+          "shift": 65.483999999999995
         },
         "6": {
           "atomtype": "CA",
@@ -6728,14 +5358,14 @@
           "shift": 64.390000000000001
         },
         "8": {
-          "atomtype": "CG1/CG2",
-          "deviation": 0.0,
-          "shift": 21.523
+          "atomtype": "CG*(i-1)",
+          "deviation": 0.012727922060921541,
+          "shift": 21.504999999999999
         },
         "9": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.00050000000114516752,
-          "shift": 3.6654999999999998
+          "deviation": 0.010012492197207234,
+          "shift": 3.6755
         }
       }
     },
@@ -6755,79 +5385,24 @@
           "shift": 2.1619999999999999
         },
         "100": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.1909999999999998
-        },
-        "101": {
-          "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 36.338000000000001
-        },
-        "102": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.1819999999999999
-        },
-        "103": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 3.9199999999999999
-        },
-        "104": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 58.787999999999997
-        },
-        "105": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 3.9239999999999999
+          "atomtype": "HG*1(i-1)",
+          "deviation": 0.0045000000001417994,
+          "shift": 2.1864999999999997
         },
         "106": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.1909999999999998
-        },
-        "107": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 29.213999999999999
-        },
-        "108": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.202
+          "atomtype": "HB*2(i-1)",
+          "deviation": 0.0055000000000008575,
+          "shift": 2.1964999999999999
         },
         "109": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.101
-        },
-        "110": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 29.213999999999999
-        },
-        "111": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.1040000000000001
+          "atomtype": "HB*1(i-1)",
+          "deviation": 0.0015000000001788483,
+          "shift": 2.1025
         },
         "112": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.282
-        },
-        "113": {
-          "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 36.338000000000001
-        },
-        "114": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.2869999999999999
+          "atomtype": "HG*2(i-1)",
+          "deviation": 0.0024999999998638598,
+          "shift": 2.2845
         },
         "2": {
           "atomtype": "H",
@@ -6851,23 +5426,23 @@
         },
         "6": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.032999999997959648,
-          "shift": 58.786999999999999
+          "deviation": 0.026948510580565334,
+          "shift": 58.787333333333329
         },
         "7": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.010999999996449001,
-          "shift": 29.158000000000001
+          "deviation": 0.029060282170986607,
+          "shift": 29.186
         },
         "8": {
-          "atomtype": "CG2(i-1)",
-          "deviation": 0.0,
-          "shift": 36.293999999999997
+          "atomtype": "CG(i-1)",
+          "deviation": 0.020741798923334706,
+          "shift": 36.323333333333331
         },
         "9": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.0024999999996862241,
-          "shift": 3.9035000000000002
+          "deviation": 0.0095229984773802269,
+          "shift": 3.91275
         }
       }
     },
@@ -6883,53 +5458,18 @@
         },
         "10": {
           "atomtype": "QG2(i-1)",
-          "deviation": 0.0,
-          "shift": 1.3160000000000001
+          "deviation": 0.0056568542494952086,
+          "shift": 1.3200000000000001
         },
         "100": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.0549999999999997
-        },
-        "101": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 65.478999999999999
-        },
-        "102": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.0469999999999997
+          "deviation": 0.0039999999998354668,
+          "shift": 4.0510000000000002
         },
         "103": {
           "atomtype": "HB(i-1)",
-          "deviation": 0.0,
-          "shift": 4.0549999999999997
-        },
-        "104": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 68.727000000000004
-        },
-        "105": {
-          "atomtype": "HB(i-1)",
-          "deviation": 0.0,
-          "shift": 4.077
-        },
-        "106": {
-          "atomtype": "HG2(i-1)",
-          "deviation": 0.0,
-          "shift": 1.3160000000000001
-        },
-        "107": {
-          "atomtype": "CG2(i-1)",
-          "deviation": 0.0,
-          "shift": 22.306000000000001
-        },
-        "108": {
-          "atomtype": "HG2(i-1)",
-          "deviation": 0.0,
-          "shift": 1.3280000000000001
+          "deviation": 0.011000000000001715,
+          "shift": 4.0659999999999998
         },
         "2": {
           "atomtype": "H",
@@ -6943,13 +5483,13 @@
         },
         "4": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.0069999999505609076,
-          "shift": 65.412000000000006
+          "deviation": 0.032097075000104058,
+          "shift": 65.434333333333328
         },
         "5": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.11350000000033104,
-          "shift": 68.704499999999996
+          "deviation": 0.093277364168913426,
+          "shift": 68.712000000000003
         },
         "6": {
           "atomtype": "CA",
@@ -6962,9 +5502,9 @@
           "shift": 36.768000000000001
         },
         "8": {
-          "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 22.373000000000001
+          "atomtype": "CG2(i-1)",
+          "deviation": 0.033500000000554982,
+          "shift": 22.339500000000001
         },
         "9": {
           "atomtype": "HA(i-1)/HB(i-1)",
@@ -6985,53 +5525,8 @@
         },
         "10": {
           "atomtype": "HB*2(i-1)",
-          "deviation": 0.01499999999998252,
-          "shift": 2.339
-        },
-        "100": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 5.0650000000000004
-        },
-        "101": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 53.058
-        },
-        "102": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 5.0709999999999997
-        },
-        "103": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.6219999999999999
-        },
-        "104": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 45.542000000000002
-        },
-        "105": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.6240000000000001
-        },
-        "106": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.3700000000000001
-        },
-        "107": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 45.542000000000002
-        },
-        "108": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.3719999999999999
+          "deviation": 0.019209372712277087,
+          "shift": 2.355
         },
         "2": {
           "atomtype": "H",
@@ -7055,23 +5550,23 @@
         },
         "6": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.0074999999962165019,
-          "shift": 52.950499999999998
+          "deviation": 0.051044642764590559,
+          "shift": 52.986333333333334
         },
         "7": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.034999999993170994,
-          "shift": 45.524000000000001
+          "deviation": 0.026334388166899068,
+          "shift": 45.533000000000001
         },
         "8": {
           "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 5.0439999999999996
+          "deviation": 0.01218605760716787,
+          "shift": 5.0559999999999992
         },
         "9": {
           "atomtype": "HB*1(i-1)",
-          "deviation": 0.0035000000001494495,
-          "shift": 2.6094999999999997
+          "deviation": 0.0072240916384399374,
+          "shift": 2.61625
         }
       }
     },
@@ -7086,89 +5581,29 @@
           "shift": 116.72426666666667
         },
         "10": {
-          "atomtype": "?",
-          "deviation": 0.018500000000014689,
-          "shift": 1.7974999999999999
-        },
-        "100": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.1449999999999996
-        },
-        "101": {
-          "atomtype": "CA(i-1)",
-          "deviation": 0.0,
-          "shift": 57.408999999999999
-        },
-        "102": {
-          "atomtype": "HA(i-1)",
-          "deviation": 0.0,
-          "shift": 4.1420000000000003
-        },
-        "103": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.101
-        },
-        "104": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 30.983000000000001
+          "atomtype": "HG*1(i-1)",
+          "deviation": 0.013160072188275243,
+          "shift": 1.79775
         },
         "105": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.097
+          "atomtype": "HB*2(i-1)",
+          "deviation": 0.0019999999996956888,
+          "shift": 2.0990000000000002
         },
         "106": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.8480000000000001
-        },
-        "107": {
-          "atomtype": "CB(i-1)",
-          "deviation": 0.0,
-          "shift": 30.983000000000001
-        },
-        "108": {
-          "atomtype": "HB2(i-1),HB3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.8520000000000001
+          "atomtype": "HB*1(i-1)",
+          "deviation": 0.0020000000000287557,
+          "shift": 1.8500000000000001
         },
         "109": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.101
+          "atomtype": "HG*2(i-1)",
+          "deviation": 0.0055000000000008575,
+          "shift": 2.1065
         },
         "11": {
           "atomtype": "?",
           "deviation": 0.0089999999999875388,
           "shift": 2.0800000000000001
-        },
-        "110": {
-          "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 35.442999999999998
-        },
-        "111": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 2.1120000000000001
-        },
-        "112": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.796
-        },
-        "113": {
-          "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 35.442999999999998
-        },
-        "114": {
-          "atomtype": "HG2(i-1),HG3(i-1)",
-          "deviation": 0.0,
-          "shift": 1.8
         },
         "2": {
           "atomtype": "H",
@@ -7182,8 +5617,8 @@
         },
         "4": {
           "atomtype": "CA(i-1)",
-          "deviation": 0.05150000000645568,
-          "shift": 57.484499999999997
+          "deviation": 0.055089825648140529,
+          "shift": 57.459333333333326
         },
         "5": {
           "atomtype": "CB",
@@ -7197,18 +5632,18 @@
         },
         "7": {
           "atomtype": "CB(i-1)",
-          "deviation": 0.012499999996725819,
-          "shift": 30.979500000000002
+          "deviation": 0.0090104106376441093,
+          "shift": 30.981250000000003
         },
         "8": {
           "atomtype": "CG(i-1)",
-          "deviation": 0.0,
-          "shift": 35.357999999999997
+          "deviation": 0.040069384268671196,
+          "shift": 35.414666666666662
         },
         "9": {
-          "atomtype": "?",
-          "deviation": 0.0044999999998457394,
-          "shift": 4.1295000000000002
+          "atomtype": "HA(i-1)",
+          "deviation": 0.0077620873481718863,
+          "shift": 4.1364999999999998
         }
       }
     },
@@ -19781,7 +18216,7 @@
             ],
             [
               "37",
-              "10"
+              "107"
             ]
           ],
           "type": "peak",
@@ -23466,7 +21901,7 @@
             ],
             [
               "61",
-              "12"
+              "106"
             ]
           ],
           "type": "peak",
@@ -23826,7 +22261,7 @@
             ],
             [
               "60",
-              "9"
+              "103"
             ]
           ],
           "type": "peak",
@@ -25946,7 +24381,7 @@
             ],
             [
               "67",
-              "11"
+              "12"
             ]
           ],
           "type": "peak",
@@ -32823,15 +31258,15 @@
           "resonances": [
             [
               "59",
-              "100"
+              "10"
             ],
             [
               "59",
-              "102"
+              "10"
             ],
             [
               "59",
-              "101"
+              "6"
             ]
           ],
           "type": "peak",
@@ -32867,11 +31302,11 @@
             ],
             [
               "59",
-              "105"
+              "103"
             ],
             [
               "59",
-              "104"
+              "4"
             ]
           ],
           "type": "peak",
@@ -32907,11 +31342,11 @@
             ],
             [
               "59",
-              "108"
+              "106"
             ],
             [
               "59",
-              "107"
+              "4"
             ]
           ],
           "type": "peak",
@@ -32947,11 +31382,11 @@
             ],
             [
               "59",
-              "111"
+              "109"
             ],
             [
               "59",
-              "110"
+              "8"
             ]
           ],
           "type": "peak",
@@ -32987,11 +31422,11 @@
             ],
             [
               "59",
-              "114"
+              "112"
             ],
             [
               "59",
-              "113"
+              "8"
             ]
           ],
           "type": "peak",
@@ -33027,11 +31462,11 @@
             ],
             [
               "59",
-              "117"
+              "115"
             ],
             [
               "59",
-              "116"
+              "9"
             ]
           ],
           "type": "peak",
@@ -33067,11 +31502,11 @@
             ],
             [
               "59",
-              "120"
+              "118"
             ],
             [
               "59",
-              "119"
+              "9"
             ]
           ],
           "type": "peak",
@@ -33103,11 +31538,11 @@
           "resonances": [
             [
               "58",
-              "100"
+              "7"
             ],
             [
               "58",
-              "102"
+              "7"
             ],
             [
               "58",
@@ -33143,15 +31578,15 @@
           "resonances": [
             [
               "58",
-              "103"
+              "8"
             ],
             [
               "58",
-              "105"
+              "8"
             ],
             [
               "58",
-              "104"
+              "5"
             ]
           ],
           "type": "peak",
@@ -33183,15 +31618,15 @@
           "resonances": [
             [
               "58",
-              "106"
+              "9"
             ],
             [
               "58",
-              "108"
+              "9"
             ],
             [
               "58",
-              "107"
+              "5"
             ]
           ],
           "type": "peak",
@@ -33223,15 +31658,15 @@
           "resonances": [
             [
               "55",
-              "100"
+              "10"
             ],
             [
               "55",
-              "102"
+              "10"
             ],
             [
               "55",
-              "101"
+              "4"
             ]
           ],
           "type": "peak",
@@ -33263,15 +31698,15 @@
           "resonances": [
             [
               "55",
-              "103"
+              "11"
             ],
             [
               "55",
-              "105"
+              "11"
             ],
             [
               "55",
-              "104"
+              "7"
             ]
           ],
           "type": "peak",
@@ -33307,11 +31742,11 @@
             ],
             [
               "55",
-              "108"
+              "106"
             ],
             [
               "55",
-              "107"
+              "8"
             ]
           ],
           "type": "peak",
@@ -33347,11 +31782,11 @@
             ],
             [
               "55",
-              "111"
+              "109"
             ],
             [
               "55",
-              "110"
+              "9"
             ]
           ],
           "type": "peak",
@@ -33383,15 +31818,15 @@
           "resonances": [
             [
               "54",
-              "100"
+              "9"
             ],
             [
               "54",
-              "102"
+              "9"
             ],
             [
               "54",
-              "101"
+              "6"
             ]
           ],
           "type": "peak",
@@ -33423,15 +31858,15 @@
           "resonances": [
             [
               "54",
-              "103"
+              "10"
             ],
             [
               "54",
-              "105"
+              "10"
             ],
             [
               "54",
-              "104"
+              "4"
             ]
           ],
           "type": "peak",
@@ -33463,15 +31898,15 @@
           "resonances": [
             [
               "54",
-              "106"
+              "11"
             ],
             [
               "54",
-              "108"
+              "11"
             ],
             [
               "54",
-              "107"
+              "4"
             ]
           ],
           "type": "peak",
@@ -33503,15 +31938,15 @@
           "resonances": [
             [
               "54",
-              "109"
+              "12"
             ],
             [
               "54",
-              "111"
+              "12"
             ],
             [
               "54",
-              "110"
+              "8"
             ]
           ],
           "type": "peak",
@@ -33543,15 +31978,15 @@
           "resonances": [
             [
               "54",
-              "112"
+              "13"
             ],
             [
               "54",
-              "114"
+              "13"
             ],
             [
               "54",
-              "113"
+              "8"
             ]
           ],
           "type": "peak",
@@ -33583,15 +32018,15 @@
           "resonances": [
             [
               "57",
-              "100"
+              "11"
             ],
             [
               "57",
-              "102"
+              "11"
             ],
             [
               "57",
-              "101"
+              "7"
             ]
           ],
           "type": "peak",
@@ -33623,15 +32058,15 @@
           "resonances": [
             [
               "57",
-              "103"
+              "12"
             ],
             [
               "57",
-              "105"
+              "12"
             ],
             [
               "57",
-              "104"
+              "5"
             ]
           ],
           "type": "peak",
@@ -33663,15 +32098,15 @@
           "resonances": [
             [
               "57",
-              "106"
+              "13"
             ],
             [
               "57",
-              "108"
+              "13"
             ],
             [
               "57",
-              "107"
+              "5"
             ]
           ],
           "type": "peak",
@@ -33703,15 +32138,15 @@
           "resonances": [
             [
               "57",
-              "109"
+              "15"
             ],
             [
               "57",
-              "111"
+              "15"
             ],
             [
               "57",
-              "110"
+              "10"
             ]
           ],
           "type": "peak",
@@ -33747,11 +32182,11 @@
             ],
             [
               "57",
-              "114"
+              "112"
             ],
             [
               "57",
-              "113"
+              "9"
             ]
           ],
           "type": "peak",
@@ -33783,15 +32218,15 @@
           "resonances": [
             [
               "57",
-              "115"
+              "17"
             ],
             [
               "57",
-              "117"
+              "17"
             ],
             [
               "57",
-              "116"
+              "8"
             ]
           ],
           "type": "peak",
@@ -33823,15 +32258,15 @@
           "resonances": [
             [
               "56",
-              "100"
+              "10"
             ],
             [
               "56",
-              "102"
+              "10"
             ],
             [
               "56",
-              "101"
+              "5"
             ]
           ],
           "type": "peak",
@@ -33863,15 +32298,15 @@
           "resonances": [
             [
               "56",
-              "103"
+              "11"
             ],
             [
               "56",
-              "105"
+              "11"
             ],
             [
               "56",
-              "104"
+              "6"
             ]
           ],
           "type": "peak",
@@ -33903,15 +32338,15 @@
           "resonances": [
             [
               "56",
-              "106"
+              "12"
             ],
             [
               "56",
-              "108"
+              "12"
             ],
             [
               "56",
-              "107"
+              "6"
             ]
           ],
           "type": "peak",
@@ -33947,11 +32382,11 @@
             ],
             [
               "56",
-              "111"
+              "109"
             ],
             [
               "56",
-              "110"
+              "9"
             ]
           ],
           "type": "peak",
@@ -33987,11 +32422,11 @@
             ],
             [
               "56",
-              "114"
+              "112"
             ],
             [
               "56",
-              "113"
+              "8"
             ]
           ],
           "type": "peak",
@@ -34023,15 +32458,15 @@
           "resonances": [
             [
               "50",
-              "100"
+              "10"
             ],
             [
               "50",
-              "102"
+              "10"
             ],
             [
               "50",
-              "101"
+              "7"
             ]
           ],
           "type": "peak",
@@ -34063,15 +32498,15 @@
           "resonances": [
             [
               "50",
-              "103"
+              "8"
             ],
             [
               "50",
-              "105"
+              "8"
             ],
             [
               "50",
-              "104"
+              "4"
             ]
           ],
           "type": "peak",
@@ -34103,15 +32538,15 @@
           "resonances": [
             [
               "50",
-              "106"
+              "9"
             ],
             [
               "50",
-              "108"
+              "9"
             ],
             [
               "50",
-              "107"
+              "4"
             ]
           ],
           "type": "peak",
@@ -34143,15 +32578,15 @@
           "resonances": [
             [
               "53",
-              "100"
+              "10"
             ],
             [
               "53",
-              "102"
+              "10"
             ],
             [
               "53",
-              "101"
+              "5"
             ]
           ],
           "type": "peak",
@@ -34183,15 +32618,15 @@
           "resonances": [
             [
               "53",
-              "103"
+              "11"
             ],
             [
               "53",
-              "105"
+              "11"
             ],
             [
               "53",
-              "104"
+              "4"
             ]
           ],
           "type": "peak",
@@ -34223,15 +32658,15 @@
           "resonances": [
             [
               "53",
-              "106"
+              "13"
             ],
             [
               "53",
-              "108"
+              "13"
             ],
             [
               "53",
-              "107"
+              "9"
             ]
           ],
           "type": "peak",
@@ -34263,15 +32698,15 @@
           "resonances": [
             [
               "52",
-              "100"
+              "10"
             ],
             [
               "52",
-              "102"
+              "10"
             ],
             [
               "52",
-              "101"
+              "6"
             ]
           ],
           "type": "peak",
@@ -34303,15 +32738,15 @@
           "resonances": [
             [
               "52",
-              "103"
+              "11"
             ],
             [
               "52",
-              "105"
+              "11"
             ],
             [
               "52",
-              "104"
+              "4"
             ]
           ],
           "type": "peak",
@@ -34343,15 +32778,15 @@
           "resonances": [
             [
               "52",
-              "106"
+              "12"
             ],
             [
               "52",
-              "108"
+              "12"
             ],
             [
               "52",
-              "107"
+              "9"
             ]
           ],
           "type": "peak",
@@ -36307,11 +34742,11 @@
             ],
             [
               "38",
-              "102"
+              "100"
             ],
             [
               "38",
-              "101"
+              "8"
             ]
           ],
           "type": "peak",
@@ -36343,15 +34778,15 @@
           "resonances": [
             [
               "38",
-              "103"
+              "10"
             ],
             [
               "38",
-              "105"
+              "10"
             ],
             [
               "38",
-              "104"
+              "6"
             ]
           ],
           "type": "peak",
@@ -36383,11 +34818,11 @@
           "resonances": [
             [
               "38",
-              "106"
+              "9"
             ],
             [
               "38",
-              "108"
+              "9"
             ],
             [
               "38",
@@ -36427,11 +34862,11 @@
             ],
             [
               "38",
-              "111"
+              "109"
             ],
             [
               "38",
-              "110"
+              "7"
             ]
           ],
           "type": "peak",
@@ -37023,15 +35458,15 @@
           "resonances": [
             [
               "37",
-              "100"
+              "12"
             ],
             [
               "37",
-              "102"
+              "12"
             ],
             [
               "37",
-              "101"
+              "7"
             ]
           ],
           "type": "peak",
@@ -37063,15 +35498,15 @@
           "resonances": [
             [
               "37",
-              "103"
+              "13"
             ],
             [
               "37",
-              "105"
+              "13"
             ],
             [
               "37",
-              "104"
+              "7"
             ]
           ],
           "type": "peak",
@@ -37103,11 +35538,11 @@
           "resonances": [
             [
               "37",
-              "106"
+              "14"
             ],
             [
               "37",
-              "108"
+              "14"
             ],
             [
               "37",
@@ -37147,11 +35582,11 @@
             ],
             [
               "37",
-              "111"
+              "109"
             ],
             [
               "37",
-              "110"
+              "9"
             ]
           ],
           "type": "peak",
@@ -37187,11 +35622,11 @@
             ],
             [
               "37",
-              "114"
+              "112"
             ],
             [
               "37",
-              "113"
+              "8"
             ]
           ],
           "type": "peak",
@@ -37223,15 +35658,15 @@
           "resonances": [
             [
               "37",
-              "115"
+              "11"
             ],
             [
               "37",
-              "117"
+              "11"
             ],
             [
               "37",
-              "116"
+              "6"
             ]
           ],
           "type": "peak",
@@ -37783,11 +36218,11 @@
           "resonances": [
             [
               "60",
-              "100"
+              "8"
             ],
             [
               "60",
-              "102"
+              "8"
             ],
             [
               "60",
@@ -37827,7 +36262,7 @@
             ],
             [
               "60",
-              "105"
+              "103"
             ],
             [
               "60",
@@ -37867,11 +36302,11 @@
             ],
             [
               "60",
-              "108"
+              "106"
             ],
             [
               "60",
-              "107"
+              "104"
             ]
           ],
           "type": "peak",
@@ -37907,11 +36342,11 @@
             ],
             [
               "60",
-              "111"
+              "109"
             ],
             [
               "60",
-              "110"
+              "6"
             ]
           ],
           "type": "peak",
@@ -37943,15 +36378,15 @@
           "resonances": [
             [
               "60",
-              "112"
+              "10"
             ],
             [
               "60",
-              "114"
+              "10"
             ],
             [
               "60",
-              "113"
+              "6"
             ]
           ],
           "type": "peak",
@@ -37983,15 +36418,15 @@
           "resonances": [
             [
               "60",
-              "115"
+              "12"
             ],
             [
               "60",
-              "117"
+              "12"
             ],
             [
               "60",
-              "116"
+              "7"
             ]
           ],
           "type": "peak",
@@ -38023,15 +36458,15 @@
           "resonances": [
             [
               "61",
-              "100"
+              "11"
             ],
             [
               "61",
-              "102"
+              "11"
             ],
             [
               "61",
-              "101"
+              "6"
             ]
           ],
           "type": "peak",
@@ -38067,11 +36502,11 @@
             ],
             [
               "61",
-              "105"
+              "103"
             ],
             [
               "61",
-              "104"
+              "5"
             ]
           ],
           "type": "peak",
@@ -38107,11 +36542,11 @@
             ],
             [
               "61",
-              "108"
+              "106"
             ],
             [
               "61",
-              "107"
+              "5"
             ]
           ],
           "type": "peak",
@@ -38147,11 +36582,11 @@
             ],
             [
               "61",
-              "111"
+              "109"
             ],
             [
               "61",
-              "110"
+              "10"
             ]
           ],
           "type": "peak",
@@ -38187,11 +36622,11 @@
             ],
             [
               "61",
-              "114"
+              "112"
             ],
             [
               "61",
-              "113"
+              "10"
             ]
           ],
           "type": "peak",
@@ -38223,15 +36658,15 @@
           "resonances": [
             [
               "61",
-              "115"
+              "14"
             ],
             [
               "61",
-              "117"
+              "14"
             ],
             [
               "61",
-              "116"
+              "9"
             ]
           ],
           "type": "peak",
@@ -38263,15 +36698,15 @@
           "resonances": [
             [
               "61",
-              "118"
+              "14"
             ],
             [
               "61",
-              "120"
+              "14"
             ],
             [
               "61",
-              "119"
+              "9"
             ]
           ],
           "type": "peak",
@@ -38303,15 +36738,15 @@
           "resonances": [
             [
               "62",
-              "100"
+              "8"
             ],
             [
               "62",
-              "102"
+              "8"
             ],
             [
               "62",
-              "101"
+              "6"
             ]
           ],
           "type": "peak",
@@ -38343,11 +36778,11 @@
           "resonances": [
             [
               "62",
-              "103"
+              "9"
             ],
             [
               "62",
-              "105"
+              "9"
             ],
             [
               "62",
@@ -38387,7 +36822,7 @@
             ],
             [
               "62",
-              "108"
+              "106"
             ],
             [
               "62",
@@ -38423,7 +36858,7 @@
           "resonances": [
             [
               "62",
-              "109"
+              "111"
             ],
             [
               "62",
@@ -38463,15 +36898,15 @@
           "resonances": [
             [
               "63",
-              "100"
+              "7"
             ],
             [
               "63",
-              "102"
+              "7"
             ],
             [
               "63",
-              "101"
+              "6"
             ]
           ],
           "type": "peak",
@@ -38507,7 +36942,7 @@
             ],
             [
               "63",
-              "105"
+              "103"
             ],
             [
               "63",
@@ -38543,15 +36978,15 @@
           "resonances": [
             [
               "63",
-              "106"
+              "9"
             ],
             [
               "63",
-              "108"
+              "9"
             ],
             [
               "63",
-              "107"
+              "104"
             ]
           ],
           "type": "peak",
@@ -38587,7 +37022,7 @@
             ],
             [
               "63",
-              "111"
+              "109"
             ],
             [
               "63",
@@ -38623,15 +37058,15 @@
           "resonances": [
             [
               "63",
-              "112"
+              "109"
             ],
             [
               "63",
-              "114"
+              "109"
             ],
             [
               "63",
-              "113"
+              "110"
             ]
           ],
           "type": "peak",
@@ -38663,15 +37098,15 @@
           "resonances": [
             [
               "64",
-              "100"
+              "9"
             ],
             [
               "64",
-              "102"
+              "9"
             ],
             [
               "64",
-              "101"
+              "7"
             ]
           ],
           "type": "peak",
@@ -38703,15 +37138,15 @@
           "resonances": [
             [
               "64",
-              "103"
+              "10"
             ],
             [
               "64",
-              "105"
+              "10"
             ],
             [
               "64",
-              "104"
+              "5"
             ]
           ],
           "type": "peak",
@@ -38743,15 +37178,15 @@
           "resonances": [
             [
               "64",
-              "106"
+              "11"
             ],
             [
               "64",
-              "108"
+              "11"
             ],
             [
               "64",
-              "107"
+              "5"
             ]
           ],
           "type": "peak",
@@ -38783,15 +37218,15 @@
           "resonances": [
             [
               "64",
-              "109"
+              "12"
             ],
             [
               "64",
-              "111"
+              "12"
             ],
             [
               "64",
-              "110"
+              "8"
             ]
           ],
           "type": "peak",
@@ -38823,15 +37258,15 @@
           "resonances": [
             [
               "65",
-              "100"
+              "8"
             ],
             [
               "65",
-              "102"
+              "8"
             ],
             [
               "65",
-              "101"
+              "6"
             ]
           ],
           "type": "peak",
@@ -38863,15 +37298,15 @@
           "resonances": [
             [
               "65",
-              "103"
+              "9"
             ],
             [
               "65",
-              "105"
+              "9"
             ],
             [
               "65",
-              "104"
+              "5"
             ]
           ],
           "type": "peak",
@@ -38903,11 +37338,11 @@
           "resonances": [
             [
               "66",
-              "100"
+              "7"
             ],
             [
               "66",
-              "102"
+              "7"
             ],
             [
               "66",
@@ -38947,11 +37382,11 @@
             ],
             [
               "66",
-              "105"
+              "103"
             ],
             [
               "66",
-              "104"
+              "5"
             ]
           ],
           "type": "peak",
@@ -38983,7 +37418,7 @@
           "resonances": [
             [
               "66",
-              "106"
+              "108"
             ],
             [
               "66",
@@ -38991,7 +37426,7 @@
             ],
             [
               "66",
-              "107"
+              "5"
             ]
           ],
           "type": "peak",
@@ -39027,11 +37462,11 @@
             ],
             [
               "67",
-              "102"
+              "100"
             ],
             [
               "67",
-              "101"
+              "8"
             ]
           ],
           "type": "peak",
@@ -39067,11 +37502,11 @@
             ],
             [
               "67",
-              "105"
+              "103"
             ],
             [
               "67",
-              "104"
+              "8"
             ]
           ],
           "type": "peak",
@@ -39103,15 +37538,15 @@
           "resonances": [
             [
               "67",
-              "106"
+              "13"
             ],
             [
               "67",
-              "108"
+              "13"
             ],
             [
               "67",
-              "107"
+              "7"
             ]
           ],
           "type": "peak",
@@ -39143,15 +37578,15 @@
           "resonances": [
             [
               "67",
-              "109"
+              "14"
             ],
             [
               "67",
-              "111"
+              "14"
             ],
             [
               "67",
-              "110"
+              "7"
             ]
           ],
           "type": "peak",
@@ -39183,15 +37618,15 @@
           "resonances": [
             [
               "67",
-              "112"
+              "10"
             ],
             [
               "67",
-              "114"
+              "10"
             ],
             [
               "67",
-              "113"
+              "6"
             ]
           ],
           "type": "peak",
@@ -39227,11 +37662,11 @@
             ],
             [
               "67",
-              "117"
+              "115"
             ],
             [
               "67",
-              "116"
+              "4"
             ]
           ],
           "type": "peak",
@@ -39263,15 +37698,15 @@
           "resonances": [
             [
               "67",
-              "118"
+              "12"
             ],
             [
               "67",
-              "120"
+              "12"
             ],
             [
               "67",
-              "119"
+              "4"
             ]
           ],
           "type": "peak",
@@ -39307,11 +37742,11 @@
             ],
             [
               "68",
-              "102"
+              "100"
             ],
             [
               "68",
-              "101"
+              "8"
             ]
           ],
           "type": "peak",
@@ -39343,15 +37778,15 @@
           "resonances": [
             [
               "68",
-              "103"
+              "9"
             ],
             [
               "68",
-              "105"
+              "9"
             ],
             [
               "68",
-              "104"
+              "6"
             ]
           ],
           "type": "peak",
@@ -39387,11 +37822,11 @@
             ],
             [
               "68",
-              "108"
+              "106"
             ],
             [
               "68",
-              "107"
+              "7"
             ]
           ],
           "type": "peak",
@@ -39423,15 +37858,15 @@
           "resonances": [
             [
               "68",
-              "109"
+              "11"
             ],
             [
               "68",
-              "111"
+              "11"
             ],
             [
               "68",
-              "110"
+              "7"
             ]
           ],
           "type": "peak",
@@ -39463,15 +37898,15 @@
           "resonances": [
             [
               "68",
-              "112"
+              "12"
             ],
             [
               "68",
-              "114"
+              "12"
             ],
             [
               "68",
-              "113"
+              "8"
             ]
           ],
           "type": "peak",
@@ -39503,11 +37938,11 @@
           "resonances": [
             [
               "69",
-              "100"
+              "9"
             ],
             [
               "69",
-              "102"
+              "9"
             ],
             [
               "69",
@@ -39543,15 +37978,15 @@
           "resonances": [
             [
               "69",
-              "103"
+              "10"
             ],
             [
               "69",
-              "105"
+              "10"
             ],
             [
               "69",
-              "104"
+              "4"
             ]
           ],
           "type": "peak",
@@ -39583,15 +38018,15 @@
           "resonances": [
             [
               "69",
-              "106"
+              "11"
             ],
             [
               "69",
-              "108"
+              "11"
             ],
             [
               "69",
-              "107"
+              "4"
             ]
           ],
           "type": "peak",
@@ -39627,11 +38062,11 @@
             ],
             [
               "69",
-              "111"
+              "109"
             ],
             [
               "69",
-              "110"
+              "7"
             ]
           ],
           "type": "peak",
@@ -39667,11 +38102,11 @@
             ],
             [
               "69",
-              "114"
+              "112"
             ],
             [
               "69",
-              "113"
+              "7"
             ]
           ],
           "type": "peak",
@@ -39703,15 +38138,15 @@
           "resonances": [
             [
               "69",
-              "115"
+              "12"
             ],
             [
               "69",
-              "117"
+              "12"
             ],
             [
               "69",
-              "116"
+              "8"
             ]
           ],
           "type": "peak",
@@ -42383,15 +40818,15 @@
           "resonances": [
             [
               "48",
-              "100"
+              "7"
             ],
             [
               "48",
-              "102"
+              "7"
             ],
             [
               "48",
-              "101"
+              "6"
             ]
           ],
           "type": "peak",
@@ -42423,15 +40858,15 @@
           "resonances": [
             [
               "48",
-              "103"
+              "8"
             ],
             [
               "48",
-              "105"
+              "8"
             ],
             [
               "48",
-              "104"
+              "6"
             ]
           ],
           "type": "peak",
@@ -42463,15 +40898,15 @@
           "resonances": [
             [
               "44",
-              "100"
+              "8"
             ],
             [
               "44",
-              "102"
+              "8"
             ],
             [
               "44",
-              "101"
+              "6"
             ]
           ],
           "type": "peak",
@@ -42503,15 +40938,15 @@
           "resonances": [
             [
               "44",
-              "103"
+              "9"
             ],
             [
               "44",
-              "105"
+              "9"
             ],
             [
               "44",
-              "104"
+              "5"
             ]
           ],
           "type": "peak",
@@ -42547,11 +40982,11 @@
             ],
             [
               "42",
-              "102"
+              "100"
             ],
             [
               "42",
-              "101"
+              "6"
             ]
           ],
           "type": "peak",
@@ -42587,11 +41022,11 @@
             ],
             [
               "42",
-              "105"
+              "103"
             ],
             [
               "42",
-              "104"
+              "6"
             ]
           ],
           "type": "peak",
@@ -43543,15 +41978,15 @@
           "resonances": [
             [
               "74",
-              "100"
+              "9"
             ],
             [
               "74",
-              "102"
+              "9"
             ],
             [
               "74",
-              "101"
+              "4"
             ]
           ],
           "type": "peak",
@@ -43583,7 +42018,7 @@
           "resonances": [
             [
               "74",
-              "103"
+              "105"
             ],
             [
               "74",
@@ -43591,7 +42026,7 @@
             ],
             [
               "74",
-              "104"
+              "7"
             ]
           ],
           "type": "peak",
@@ -43627,11 +42062,11 @@
             ],
             [
               "74",
-              "108"
+              "106"
             ],
             [
               "74",
-              "107"
+              "7"
             ]
           ],
           "type": "peak",
@@ -43667,11 +42102,11 @@
             ],
             [
               "74",
-              "111"
+              "109"
             ],
             [
               "74",
-              "110"
+              "8"
             ]
           ],
           "type": "peak",
@@ -43703,15 +42138,15 @@
           "resonances": [
             [
               "74",
-              "112"
+              "10"
             ],
             [
               "74",
-              "114"
+              "10"
             ],
             [
               "74",
-              "113"
+              "8"
             ]
           ],
           "type": "peak",
@@ -43743,15 +42178,15 @@
           "resonances": [
             [
               "73",
-              "100"
+              "8"
             ],
             [
               "73",
-              "102"
+              "8"
             ],
             [
               "73",
-              "101"
+              "6"
             ]
           ],
           "type": "peak",
@@ -43783,15 +42218,15 @@
           "resonances": [
             [
               "73",
-              "103"
+              "9"
             ],
             [
               "73",
-              "105"
+              "9"
             ],
             [
               "73",
-              "104"
+              "7"
             ]
           ],
           "type": "peak",
@@ -43823,15 +42258,15 @@
           "resonances": [
             [
               "73",
-              "106"
+              "10"
             ],
             [
               "73",
-              "108"
+              "10"
             ],
             [
               "73",
-              "107"
+              "7"
             ]
           ],
           "type": "peak",
@@ -43867,11 +42302,11 @@
             ],
             [
               "72",
-              "102"
+              "100"
             ],
             [
               "72",
-              "101"
+              "4"
             ]
           ],
           "type": "peak",
@@ -43907,11 +42342,11 @@
             ],
             [
               "72",
-              "105"
+              "103"
             ],
             [
               "72",
-              "104"
+              "5"
             ]
           ],
           "type": "peak",
@@ -43943,15 +42378,15 @@
           "resonances": [
             [
               "72",
-              "106"
+              "10"
             ],
             [
               "72",
-              "108"
+              "10"
             ],
             [
               "72",
-              "107"
+              "8"
             ]
           ],
           "type": "peak",
@@ -43987,11 +42422,11 @@
             ],
             [
               "71",
-              "102"
+              "100"
             ],
             [
               "71",
-              "101"
+              "8"
             ]
           ],
           "type": "peak",
@@ -44023,15 +42458,15 @@
           "resonances": [
             [
               "71",
-              "103"
+              "9"
             ],
             [
               "71",
-              "105"
+              "9"
             ],
             [
               "71",
-              "104"
+              "6"
             ]
           ],
           "type": "peak",
@@ -44067,11 +42502,11 @@
             ],
             [
               "71",
-              "108"
+              "106"
             ],
             [
               "71",
-              "107"
+              "7"
             ]
           ],
           "type": "peak",
@@ -44107,11 +42542,11 @@
             ],
             [
               "71",
-              "111"
+              "109"
             ],
             [
               "71",
-              "110"
+              "7"
             ]
           ],
           "type": "peak",
@@ -44147,11 +42582,11 @@
             ],
             [
               "71",
-              "114"
+              "112"
             ],
             [
               "71",
-              "113"
+              "8"
             ]
           ],
           "type": "peak",
@@ -44183,15 +42618,15 @@
           "resonances": [
             [
               "70",
-              "100"
+              "9"
             ],
             [
               "70",
-              "102"
+              "9"
             ],
             [
               "70",
-              "101"
+              "5"
             ]
           ],
           "type": "peak",
@@ -44223,11 +42658,11 @@
           "resonances": [
             [
               "70",
-              "103"
+              "10"
             ],
             [
               "70",
-              "105"
+              "10"
             ],
             [
               "70",
@@ -44263,15 +42698,15 @@
           "resonances": [
             [
               "70",
-              "106"
+              "11"
             ],
             [
               "70",
-              "108"
+              "11"
             ],
             [
               "70",
-              "107"
+              "8"
             ]
           ],
           "type": "peak",
@@ -44303,15 +42738,15 @@
           "resonances": [
             [
               "70",
-              "109"
+              "12"
             ],
             [
               "70",
-              "111"
+              "12"
             ],
             [
               "70",
-              "110"
+              "8"
             ]
           ],
           "type": "peak",
@@ -44392,6 +42827,526 @@
             [
               "79",
               "104"
+            ]
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            1.5348573160313315,
+            5.0166954878363832,
+            42.731926879677701
+          ],
+          "height": {
+            "closest": 2.5929160118103027,
+            "fit": null
+          },
+          "id": 336,
+          "note": "",
+          "position": [
+            1.5348573160313315,
+            5.0166954878363832,
+            42.731926879677701
+          ],
+          "resonances": [
+            [
+              "40",
+              "12"
+            ],
+            [
+              "40",
+              "11"
+            ],
+            [
+              "40",
+              "4"
+            ]
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            1.535000949908202,
+            1.5254819709521259,
+            42.747224152661893
+          ],
+          "height": {
+            "closest": 0.58367937803268433,
+            "fit": null
+          },
+          "id": 337,
+          "note": "",
+          "position": [
+            1.535000949908202,
+            1.5254819709521259,
+            42.747224152661893
+          ],
+          "resonances": [
+            [
+              "40",
+              "12"
+            ],
+            [
+              "40",
+              "12"
+            ],
+            [
+              "40",
+              "4"
+            ]
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            1.5339066098645393,
+            1.2635950004358802,
+            42.747846737359296
+          ],
+          "height": {
+            "closest": 0.82806742191314697,
+            "fit": null
+          },
+          "id": 338,
+          "note": "",
+          "position": [
+            1.5339066098645393,
+            1.2635950004358802,
+            42.747846737359296
+          ],
+          "resonances": [
+            [
+              "40",
+              "12"
+            ],
+            [
+              "40",
+              "14"
+            ],
+            [
+              "40",
+              "4"
+            ]
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            1.5319362095884301,
+            0.67288485872444603,
+            42.752133326128579
+          ],
+          "height": {
+            "closest": 0.58780848979949951,
+            "fit": null
+          },
+          "id": 339,
+          "note": "",
+          "position": [
+            1.5319362095884301,
+            0.67288485872444603,
+            42.752133326128579
+          ],
+          "resonances": [
+            [
+              "40",
+              "12"
+            ],
+            [
+              "40",
+              "13"
+            ],
+            [
+              "40",
+              "4"
+            ]
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            1.5348443217712848,
+            0.43620178573124146,
+            42.760029380612664
+          ],
+          "height": {
+            "closest": 1.0511182546615601,
+            "fit": null
+          },
+          "id": 340,
+          "note": "",
+          "position": [
+            1.5348443217712848,
+            0.43620178573124146,
+            42.760029380612664
+          ],
+          "resonances": [
+            [
+              "40",
+              "12"
+            ],
+            [
+              "40",
+              "15"
+            ],
+            [
+              "40",
+              "4"
+            ]
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            1.5351546587095157,
+            0.091927885760517469,
+            42.732589701916112
+          ],
+          "height": {
+            "closest": 0.95379716157913208,
+            "fit": null
+          },
+          "id": 341,
+          "note": "",
+          "position": [
+            1.5351546587095157,
+            0.091927885760517469,
+            42.732589701916112
+          ],
+          "resonances": [
+            [
+              "40",
+              "12"
+            ],
+            [
+              "40",
+              "16"
+            ],
+            [
+              "40",
+              "4"
+            ]
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            4.652559792611644,
+            4.6463627044553828,
+            53.454856018187627
+          ],
+          "height": {
+            "closest": 4.8721094131469727,
+            "fit": null
+          },
+          "id": 342,
+          "note": "",
+          "position": [
+            4.652559792611644,
+            4.6463627044553828,
+            53.454856018187627
+          ],
+          "resonances": [
+            [
+              "43",
+              "10"
+            ],
+            [
+              "43",
+              "10"
+            ],
+            [
+              "43",
+              "8"
+            ]
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            4.6551040414296727,
+            1.6095351280829346,
+            53.45874437218896
+          ],
+          "height": {
+            "closest": 1.013114333152771,
+            "fit": null
+          },
+          "id": 343,
+          "note": "",
+          "position": [
+            4.6551040414296727,
+            1.6095351280829346,
+            53.45874437218896
+          ],
+          "resonances": [
+            [
+              "43",
+              "10"
+            ],
+            [
+              "43",
+              "11"
+            ],
+            [
+              "43",
+              "8"
+            ]
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            4.6507533794723166,
+            1.3414968248717196,
+            53.491248260402514
+          ],
+          "height": {
+            "closest": 0.93181222677230835,
+            "fit": null
+          },
+          "id": 344,
+          "note": "",
+          "position": [
+            4.6507533794723166,
+            1.3414968248717196,
+            53.491248260402514
+          ],
+          "resonances": [
+            [
+              "43",
+              "10"
+            ],
+            [
+              "43",
+              "12"
+            ],
+            [
+              "43",
+              "8"
+            ]
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            4.6555031732959691,
+            0.82378199611951874,
+            53.476659003535644
+          ],
+          "height": {
+            "closest": 2.3584072589874268,
+            "fit": null
+          },
+          "id": 345,
+          "note": "",
+          "position": [
+            4.6555031732959691,
+            0.82378199611951874,
+            53.476659003535644
+          ],
+          "resonances": [
+            [
+              "43",
+              "10"
+            ],
+            [
+              "43",
+              "17"
+            ],
+            [
+              "43",
+              "8"
+            ]
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            4.6531795902232567,
+            0.65351963930561308,
+            53.468007210213756
+          ],
+          "height": {
+            "closest": 3.1298713684082031,
+            "fit": null
+          },
+          "id": 346,
+          "note": "",
+          "position": [
+            4.6531795902232567,
+            0.65351963930561308,
+            53.468007210213756
+          ],
+          "resonances": [
+            [
+              "43",
+              "10"
+            ],
+            [
+              "43",
+              "18"
+            ],
+            [
+              "43",
+              "8"
+            ]
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            1.6171194569496592,
+            1.5221601748575351,
+            46.697659415706582
+          ],
+          "height": {
+            "closest": 0.28328970074653625,
+            "fit": null
+          },
+          "id": 347,
+          "note": "",
+          "position": [
+            1.6171194569496592,
+            1.5221601748575351,
+            46.697659415706582
+          ],
+          "resonances": [
+            [
+              "43",
+              "11"
+            ],
+            [
+              "43",
+              "13"
+            ],
+            [
+              "43",
+              "6"
+            ]
+          ],
+          "type": "peak",
+          "volume": null,
+          "volume_method": ""
+        },
+        {
+          "alias": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "frequency": [
+            2.0933891170291439,
+            2.0844655841570567,
+            26.474979602385439
+          ],
+          "height": {
+            "closest": 9.718327522277832,
+            "fit": null
+          },
+          "id": 348,
+          "note": "",
+          "position": [
+            2.0933891170291439,
+            2.0844655841570567,
+            26.474979602385439
+          ],
+          "resonances": [
+            [
+              "56",
+              "113"
+            ],
+            [
+              "56",
+              "113"
+            ],
+            [
+              "56",
+              "20"
             ]
           ],
           "type": "peak",
@@ -46196,7 +45151,7 @@
             ],
             [
               "61",
-              "12"
+              "106"
             ]
           ],
           "type": "peak",
