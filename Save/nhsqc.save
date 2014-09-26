@@ -69,7 +69,7 @@ contour.neg 15 -100 1.400000 0.000000 green-blue
 orientation 1 0
 location 680 561
 size 457 422
-offset 1601.059899 1361.576219
+offset 1082.928740 1213.037472
 scale 1.000000 2.639242
 zoom 1.165728
 flags 0
@@ -78,7 +78,7 @@ flags 0
 orientation 1 0
 location 680 561
 size 457 422
-offset 1601.059899 1361.576219
+offset 1082.928740 1213.037472
 scale 1.000000 2.639242
 zoom 1.165728
 flags 0
@@ -87,7 +87,7 @@ flags 0
 orientation 1 0
 location 680 561
 size 457 422
-offset 1601.059899 1361.576219
+offset 1082.928740 1213.037472
 scale 1.000000 2.639242
 zoom 1.165728
 flags 0
@@ -1200,7 +1200,7 @@ xy 117.039,8.874 8.999,115.789
 ]
 type peak
 color 0 2 0 white
-flags 1 1 0 0
+flags 0 1 0 0
 id 70
 pos 117.005 7.205
 height 0.000 3604.761
@@ -1582,14 +1582,14 @@ flags 0 1 0 0
 id 97
 pos 110.149 6.944
 height 0.000 9624.469
-rs |91{sN}{?}{73}|1{ND}| |91{sN}{?}{73}|2{HD*}|
+rs |91{sN}{?}{73}|1{ND}| |91{sN}{?}{73}|2{HD*2}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 110.149 6.944
-label 91{sN}{?}{73}1{ND}-2{HD*}
+label 91{sN}{?}{73}1{ND}-2{HD*2}
 xy 110.149,6.819 7.133,109.319
 ]
 type peak
@@ -1598,14 +1598,14 @@ flags 0 1 0 0
 id 98
 pos 110.148 6.666
 height 0.000 6919.812
-rs |91{sN}{?}{73}|1{ND}| |91{sN}{?}{73}|6{HD*}|
+rs |91{sN}{?}{73}|1{ND}| |91{sN}{?}{73}|6{HD*1}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 110.148 6.666
-label 91{sN}{?}{73}1{ND}-6{HD*}
+label 91{sN}{?}{73}1{ND}-6{HD*1}
 xy 110.148,6.541 6.530,109.085
 ]
 type peak
@@ -1802,7 +1802,7 @@ xy 109.041,8.318 8.443,107.791
 ]
 type peak
 color 0 2 0 white
-flags 0 1 0 0
+flags 1 1 0 0
 id 111
 pos 120.903 7.796
 height 0.000 1993.265
@@ -1902,14 +1902,14 @@ flags 0 1 0 0
 id 117
 pos 109.631 6.947
 height 0.000 437.920
-rs |91{sN}{?}{73}|4{N*}| |91{sN}{?}{73}|2{HD*}|
+rs |91{sN}{?}{73}|4{N*}| |91{sN}{?}{73}|2{HD*2}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 109.631 6.947
-label 91{sN}{?}{73}4{N*}-2{HD*}
+label 91{sN}{?}{73}4{N*}-2{HD*2}
 xy 109.631,6.822 6.947,108.381
 ]
 type peak
@@ -1918,14 +1918,14 @@ flags 0 1 0 0
 id 118
 pos 109.605 6.671
 height 0.000 206.076
-rs |91{sN}{?}{73}|4{N*}| |91{sN}{?}{73}|6{HD*}|
+rs |91{sN}{?}{73}|4{N*}| |91{sN}{?}{73}|6{HD*1}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 109.605 6.671
-label 91{sN}{?}{73}4{N*}-6{HD*}
+label 91{sN}{?}{73}4{N*}-6{HD*1}
 xy 109.605,6.546 6.671,108.355
 ]
 type peak
