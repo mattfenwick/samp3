@@ -70,141 +70,27 @@ contour.pos 15 0.0843 1.400000 0.000000 red-yellow
 contour.neg 15 -0.0843 1.400000 0.000000 green-blue
 <params>
 orientation 0 1 2
-location 822 91
-size 183 546
-offset 391.437772 -11.499993 421.554016
+location 822 113
+size 183 520
+offset 391.437772 1.500013 421.554016
 scale 1.000000 0.589621 1.532586
 zoom 1.696004
 flags 0
 <end params>
 <params>
 orientation 0 1 2
-location 822 91
-size 183 546
-offset 391.437772 -11.499993 421.554016
+location 822 113
+size 183 520
+offset 391.437772 1.500013 421.554016
 scale 1.000000 0.589621 1.532586
 zoom 1.696004
 flags 0
 <end params>
 <params>
 orientation 0 1 2
-location 822 91
-size 183 546
-offset 391.437772 -11.499993 421.554016
-scale 1.000000 0.589621 1.532586
-zoom 1.696004
-flags 0
-<end params>
-<end view>
-<view>
-name hcchtocsy/1
-precision 0
-precision_by_units 0 0 0
-viewmode 0
-show 1 label line peak grid peakgroup
-axistype 2
-flags crosshair crosshair2
-contour.pos 15 0.0843 1.400000 0.000000 red-yellow
-contour.neg 15 -0.0843 1.400000 0.000000 green-blue
-<params>
-orientation 0 1 2
-location 54 91
-size 185 544
-offset 204.302085 -9.938963 176.508628
-scale 1.000000 0.589621 1.532586
-zoom 1.696004
-flags 0
-<end params>
-<params>
-orientation 0 1 2
-location 54 91
-size 185 544
-offset 204.302085 -9.938963 176.508628
-scale 1.000000 0.589621 1.532586
-zoom 1.696004
-flags 0
-<end params>
-<params>
-orientation 0 1 2
-location 54 91
-size 185 544
-offset 204.302085 -9.938963 176.508628
-scale 1.000000 0.589621 1.532586
-zoom 1.696004
-flags 0
-<end params>
-<end view>
-<view>
-name hcchtocsy/2
-precision 0
-precision_by_units 0 0 0
-viewmode 0
-show 1 label line peak grid peakgroup
-axistype 2
-flags crosshair crosshair2
-contour.pos 15 0.0843 1.400000 0.000000 red-yellow
-contour.neg 15 -0.0843 1.400000 0.000000 green-blue
-<params>
-orientation 0 1 2
-location 315 91
-size 170 538
-offset 350.230288 -3.081014 284.166956
-scale 1.000000 0.589621 1.532586
-zoom 1.696004
-flags 0
-<end params>
-<params>
-orientation 0 1 2
-location 315 91
-size 170 538
-offset 350.230288 -3.081014 284.166956
-scale 1.000000 0.589621 1.532586
-zoom 1.696004
-flags 0
-<end params>
-<params>
-orientation 0 1 2
-location 315 91
-size 170 538
-offset 350.230288 -3.081014 284.166956
-scale 1.000000 0.589621 1.532586
-zoom 1.696004
-flags 0
-<end params>
-<end view>
-<view>
-name hcchtocsy/3
-precision 0
-precision_by_units 0 0 0
-viewmode 0
-show 1 label line peak grid peakgroup
-axistype 2
-flags crosshair crosshair2
-contour.pos 15 0.0843 1.400000 0.000000 red-yellow
-contour.neg 15 -0.0843 1.400000 0.000000 green-blue
-<params>
-orientation 0 1 2
-location 562 91
-size 177 545
-offset 375.881869 -10.438963 386.207264
-scale 1.000000 0.589621 1.532586
-zoom 1.696004
-flags 0
-<end params>
-<params>
-orientation 0 1 2
-location 562 91
-size 177 545
-offset 375.881869 -10.438963 386.207264
-scale 1.000000 0.589621 1.532586
-zoom 1.696004
-flags 0
-<end params>
-<params>
-orientation 0 1 2
-location 562 91
-size 177 545
-offset 375.881869 -10.438963 386.207264
+location 822 113
+size 183 520
+offset 391.437772 1.500013 421.554016
 scale 1.000000 0.589621 1.532586
 zoom 1.696004
 flags 0
