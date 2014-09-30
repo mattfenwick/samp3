@@ -432,7 +432,7 @@ xy 122.961,8.731 9.027,122.351
 ]
 type peak
 color 0 2 0 white
-flags 1 1 0 0
+flags 0 1 0 0
 id 22
 pos 122.711 8.461
 height 0.000 3767.268

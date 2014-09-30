@@ -70,27 +70,141 @@ contour.pos 15 0.0843 1.400000 0.000000 red-yellow
 contour.neg 15 -0.0843 1.400000 0.000000 green-blue
 <params>
 orientation 0 1 2
-location 822 113
-size 183 520
-offset 391.437772 1.500013 421.554016
+location 905 113
+size 183 525
+offset 391.437772 -9.999992 401.855480
 scale 1.000000 0.589621 1.532586
 zoom 1.696004
 flags 0
 <end params>
 <params>
 orientation 0 1 2
-location 822 113
-size 183 520
-offset 391.437772 1.500013 421.554016
+location 905 113
+size 183 525
+offset 391.437772 -9.999992 401.855480
 scale 1.000000 0.589621 1.532586
 zoom 1.696004
 flags 0
 <end params>
 <params>
 orientation 0 1 2
-location 822 113
-size 183 520
-offset 391.437772 1.500013 421.554016
+location 905 113
+size 183 525
+offset 391.437772 -9.999992 401.855480
+scale 1.000000 0.589621 1.532586
+zoom 1.696004
+flags 0
+<end params>
+<end view>
+<view>
+name hcchtocsy/1
+precision 0
+precision_by_units 0 0 0
+viewmode 0
+show 1 label line peak grid peakgroup
+axistype 2
+flags crosshair crosshair2
+contour.pos 15 0.0843 1.400000 0.000000 red-yellow
+contour.neg 15 -0.0843 1.400000 0.000000 green-blue
+<params>
+orientation 0 1 2
+location 631 113
+size 184 530
+offset 382.298643 -11.499993 421.614154
+scale 1.000000 0.589621 1.532586
+zoom 1.696004
+flags 0
+<end params>
+<params>
+orientation 0 1 2
+location 631 113
+size 184 530
+offset 382.298643 -11.499993 421.614154
+scale 1.000000 0.589621 1.532586
+zoom 1.696004
+flags 0
+<end params>
+<params>
+orientation 0 1 2
+location 631 113
+size 184 530
+offset 382.298643 -11.499993 421.614154
+scale 1.000000 0.589621 1.532586
+zoom 1.696004
+flags 0
+<end params>
+<end view>
+<view>
+name hcchtocsy/2
+precision 0
+precision_by_units 0 0 0
+viewmode 0
+show 1 label line peak grid peakgroup
+axistype 2
+flags crosshair crosshair2
+contour.pos 15 0.0843 1.400000 0.000000 red-yellow
+contour.neg 15 -0.0843 1.400000 0.000000 green-blue
+<params>
+orientation 0 1 2
+location 361 114
+size 181 526
+offset 392.027393 -10.499993 386.840512
+scale 1.000000 0.589621 1.532586
+zoom 1.696004
+flags 0
+<end params>
+<params>
+orientation 0 1 2
+location 361 114
+size 181 526
+offset 392.027393 -10.499993 386.840512
+scale 1.000000 0.589621 1.532586
+zoom 1.696004
+flags 0
+<end params>
+<params>
+orientation 0 1 2
+location 361 114
+size 181 526
+offset 392.027393 -10.499993 386.840512
+scale 1.000000 0.589621 1.532586
+zoom 1.696004
+flags 0
+<end params>
+<end view>
+<view>
+name hcchtocsy/3
+precision 0
+precision_by_units 0 0 0
+viewmode 0
+show 1 label line peak grid peakgroup
+axistype 2
+flags crosshair crosshair2
+contour.pos 15 0.0843 1.400000 0.000000 red-yellow
+contour.neg 15 -0.0843 1.400000 0.000000 green-blue
+<params>
+orientation 0 1 2
+location 87 112
+size 182 529
+offset 343.973261 -10.999993 284.934358
+scale 1.000000 0.589621 1.532586
+zoom 1.696004
+flags 0
+<end params>
+<params>
+orientation 0 1 2
+location 87 112
+size 182 529
+offset 343.973261 -10.999993 284.934358
+scale 1.000000 0.589621 1.532586
+zoom 1.696004
+flags 0
+<end params>
+<params>
+orientation 0 1 2
+location 87 112
+size 182 529
+offset 343.973261 -10.999993 284.934358
 scale 1.000000 0.589621 1.532586
 zoom 1.696004
 flags 0
@@ -519,14 +633,14 @@ flags 0 0 0 0
 id 27
 pos 1.684 1.698 27.433
 height 0.000 3.741
-rs |22{?}{2}{18}|12{HB*1(i-1)}| |22{?}{2}{18}|12{HB*1(i-1)}| |22{?}{2}{18}|8{CG(i-1)/CD*(i-1)}|
+rs |22{?}{2}{18}|12{HB*1(i-1)}| |22{?}{2}{18}|12{HB*1(i-1)}| |22{?}{2}{18}|8{CG(i-1)}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 1.684 1.698 27.433
-label 22{?}{2}{18}12{HB*1(i-1)}-12{HB*1(i-1)}-8{CG(i-1)/CD*(i-1)}
+label 22{?}{2}{18}12{HB*1(i-1)}-12{HB*1(i-1)}-8{CG(i-1)}
 xy 1.684,0.698 1.684,17.433 1.698,0.684 1.698,17.433 27.433,0.684 27.433,0.698
 ]
 type peak
@@ -535,14 +649,14 @@ flags 0 0 0 0
 id 28
 pos 0.898 0.904 28.962
 height 0.000 46.390
-rs |22{?}{2}{18}|15{HG(i-1)/HD*(i-1)}| |22{?}{2}{18}|15{HG(i-1)/HD*(i-1)}| |22{?}{2}{18}|10{CG(i-1)/CD*(i-1)}|
+rs |22{?}{2}{18}|15{HD*1(i-1)}| |22{?}{2}{18}|15{HD*1(i-1)}| |22{?}{2}{18}|10{CD*1(i-1)}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 0.898 0.904 28.962
-label 22{?}{2}{18}15{HG(i-1)/HD*(i-1)}-15{HG(i-1)/HD*(i-1)}-10{CG(i-1)/CD*(i-1)}
+label 22{?}{2}{18}15{HD*1(i-1)}-15{HD*1(i-1)}-10{CD*1(i-1)}
 xy 0.898,-0.096 0.898,18.962 0.904,-0.102 0.904,18.962 28.962,-0.102 28.962,-0.096
 ]
 type peak
@@ -551,14 +665,14 @@ flags 0 0 0 0
 id 29
 pos 0.963 0.971 24.914
 height 0.000 38.740
-rs |22{?}{2}{18}|115{HG(i-1)/HD*(i-1)}| |22{?}{2}{18}|115{HG(i-1)/HD*(i-1)}| |22{?}{2}{18}|9{CG(i-1)/CD*(i-1)}|
+rs |22{?}{2}{18}|115{HD*2(i-1)}| |22{?}{2}{18}|115{HD*2(i-1)}| |22{?}{2}{18}|9{CD*2(i-1)}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 0.963 0.971 24.914
-label 22{?}{2}{18}115{HG(i-1)/HD*(i-1)}-115{HG(i-1)/HD*(i-1)}-9{CG(i-1)/CD*(i-1)}
+label 22{?}{2}{18}115{HD*2(i-1)}-115{HD*2(i-1)}-9{CD*2(i-1)}
 xy 0.963,-0.029 0.963,14.914 0.971,-0.037 0.971,14.914 24.914,-0.037 24.914,-0.029
 ]
 type peak
@@ -2183,14 +2297,14 @@ flags 0 0 0 0
 id 131
 pos 1.055 1.050 26.932
 height 0.000 1.987
-rs |105{?}{94}{85}|109{HX*(i-1)}| |105{?}{94}{85}|109{HX*(i-1)}| |105{?}{94}{85}|7{CX*(i-1)}|
+rs |105{?}{94}{85}|109{HG(i-1)}| |105{?}{94}{85}|109{HG(i-1)}| |105{?}{94}{85}|7{CG(i-1)}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 1.055 1.050 26.932
-label 105{?}{94}{85}109{HX*(i-1)}-109{HX*(i-1)}-7{CX*(i-1)}
+label 105{?}{94}{85}109{HG(i-1)}-109{HG(i-1)}-7{CG(i-1)}
 xy 0.151,0.355 1.055,16.932 1.050,0.055 1.050,16.932 26.932,0.055 26.932,0.050
 ]
 type peak
@@ -2199,14 +2313,14 @@ flags 0 0 0 0
 id 132
 pos 0.957 0.962 22.557
 height 0.000 77.560
-rs |105{?}{94}{85}|112{HY*(i-1)}| |105{?}{94}{85}|112{HY*(i-1)}| |105{?}{94}{85}|8{CY*(i-1)}|
+rs |105{?}{94}{85}|112{QQG(i-1)}| |105{?}{94}{85}|112{QQG(i-1)}| |105{?}{94}{85}|8{CD1(i-1)/CD2(i-1)}|
 [
 type label
 color 2 0 0 white
 flags 0 0 0 1
 mode 2
 pos 0.957 0.962 22.557
-label 105{?}{94}{85}112{HY*(i-1)}-112{HY*(i-1)}-8{CY*(i-1)}
+label 105{?}{94}{85}112{QQG(i-1)}-112{QQG(i-1)}-8{CD1(i-1)/CD2(i-1)}
 xy 0.957,-0.038 0.957,12.557 0.962,-0.043 0.962,12.557 22.557,-0.043 22.557,-0.038
 ]
 type peak
@@ -5680,6 +5794,22 @@ mode 2
 pos 1.719 4.248 26.301
 label 75{?}{68}{52}110{HG(i-1)}-10{HA(i-1)}-111{CG(i-1)}
 xy 1.719,3.003 1.719,21.321 4.248,0.474 4.248,21.321 26.301,0.474 26.301,3.003
+]
+type peak
+color 0 2 0 white
+flags 1 0 0 0
+id 350
+pos 1.693 5.137 27.331
+height 0.000 0.390
+rs |22{?}{2}{18}|116{HG(i-1)}| |22{?}{2}{18}|11{HA(i-1)}| |22{?}{2}{18}|8{CG(i-1)}|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 1.693 5.137 27.331
+label 22{?}{2}{18}116{HG(i-1)}-11{HA(i-1)}-8{CG(i-1)}
+xy 1.693,3.892 1.693,22.351 5.137,0.448 5.137,22.351 27.331,0.448 27.331,3.892
 ]
 <end ornament>
 <end spectrum>
