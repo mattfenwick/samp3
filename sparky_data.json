@@ -310,17 +310,17 @@
           "shift": 101.34776923076923
         },
         "10": {
-          "atomtype": "HB3(i-1)",
+          "atomtype": "HB(i-1)",
           "deviation": 0.014771171246715682,
           "shift": 1.8362500000000002
         },
         "103": {
-          "atomtype": "HB2(i-1)",
+          "atomtype": "QG2(i-1)",
           "deviation": 0.0,
           "shift": 1.075
         },
         "106": {
-          "atomtype": "QQG(i-1)",
+          "atomtype": "QG1(i-1)",
           "deviation": 0.00081649658098479011,
           "shift": 0.875
         },
@@ -753,17 +753,17 @@
       "residue": "77",
       "resonances": {
         "1": {
-          "atomtype": "ND",
+          "atomtype": "ND2",
           "deviation": 0.15803955200245787,
           "shift": 115.30100000000002
         },
         "2": {
-          "atomtype": "HD2",
+          "atomtype": "HD22",
           "deviation": 0.015500000000374169,
           "shift": 7.7174999999999994
         },
         "3": {
-          "atomtype": "HD1",
+          "atomtype": "HD21",
           "deviation": 0.0025000000025283951,
           "shift": 7.5184999999999995
         },
@@ -1356,7 +1356,7 @@
           "shift": 52.494999999999997
         },
         "8": {
-          "atomtype": "CG2(i-1)",
+          "atomtype": "CG(i-1)",
           "deviation": 0.012500000005820766,
           "shift": 36.055499999999995
         },
@@ -1517,7 +1517,7 @@
           "shift": 5.1314000000000011
         },
         "115": {
-          "atomtype": "QD3(i-1)",
+          "atomtype": "QD2(i-1)",
           "deviation": 0.0039999999999881224,
           "shift": 0.96699999999999997
         },
@@ -1537,7 +1537,7 @@
           "shift": 1.39825
         },
         "15": {
-          "atomtype": "QD2(i-1)",
+          "atomtype": "QD1(i-1)",
           "deviation": 0.0024944382578085062,
           "shift": 0.90133333333333343
         },
@@ -2892,12 +2892,12 @@
           "shift": 1.2490000000000001
         },
         "15": {
-          "atomtype": "HD3(i-1)",
+          "atomtype": "QD2(i-1)",
           "deviation": 0.012499999999999867,
           "shift": 0.42349999999999999
         },
         "16": {
-          "atomtype": "HD2(i-1)",
+          "atomtype": "QD1(i-1)",
           "deviation": 0.012499999999999971,
           "shift": 0.079500000000000001
         },
@@ -3367,7 +3367,7 @@
           "shift": 2.0582500000000001
         },
         "11": {
-          "atomtype": "QG(i-1)",
+          "atomtype": "QQG(i-1)",
           "deviation": 0.0075865377844852198,
           "shift": 0.96066666666666667
         },
@@ -3811,7 +3811,7 @@
           "shift": 4.0039999999999996
         },
         "109": {
-          "atomtype": "QG2(i-1)",
+          "atomtype": "QD2(i-1)",
           "deviation": 0.0,
           "shift": 0.86799999999999999
         },
@@ -3821,7 +3821,7 @@
           "shift": 1.91875
         },
         "112": {
-          "atomtype": "QG1(i-1)",
+          "atomtype": "QD1(i-1)",
           "deviation": 0.0030000000000061262,
           "shift": 0.75800000000000001
         },
@@ -5423,12 +5423,12 @@
           "shift": 4.2406000000000006
         },
         "106": {
-          "atomtype": "QG2(i-1)",
+          "atomtype": "QD2(i-1)",
           "deviation": 0.0010000000000143778,
           "shift": 0.69299999999999995
         },
         "109": {
-          "atomtype": "QG1(i-1)",
+          "atomtype": "QD1(i-1)",
           "deviation": 0.0034999999999908464,
           "shift": 0.51750000000000007
         },
@@ -6008,12 +6008,12 @@
       "residue": "31",
       "resonances": {
         "1": {
-          "atomtype": "NE",
+          "atomtype": "NE2",
           "deviation": 0.0,
           "shift": 112.336
         },
         "2": {
-          "atomtype": "HE2",
+          "atomtype": "HE22",
           "deviation": 0.0053748384984701868,
           "shift": 7.6866666666666665
         },
@@ -6028,7 +6028,7 @@
           "shift": 180.44999999999999
         },
         "6": {
-          "atomtype": "HE1",
+          "atomtype": "HE21",
           "deviation": 0.0089582364337767745,
           "shift": 6.9695
         },
@@ -6432,12 +6432,12 @@
       "residue": "73",
       "resonances": {
         "1": {
-          "atomtype": "ND",
+          "atomtype": "ND2",
           "deviation": 0.00049999826564152742,
           "shift": 110.1485
         },
         "2": {
-          "atomtype": "HD3",
+          "atomtype": "HD22",
           "deviation": 0.001490711982323606,
           "shift": 6.9446666666666665
         },
@@ -6452,7 +6452,7 @@
           "shift": 175.6345
         },
         "6": {
-          "atomtype": "HD2",
+          "atomtype": "HD21",
           "deviation": 0.0093229108477233032,
           "shift": 6.6744999999999992
         },
