@@ -3789,12 +3789,12 @@
           "shift": 31.576999999999998
         },
         "8": {
-          "atomtype": "CG*2",
+          "atomtype": "CG*2(i-1)",
           "deviation": 0.020499999998383672,
           "shift": 23.3415
         },
         "9": {
-          "atomtype": "CG*1",
+          "atomtype": "CG*1(i-1)",
           "deviation": 0.01700000000027381,
           "shift": 21.436
         }
