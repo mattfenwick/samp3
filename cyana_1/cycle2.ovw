@@ -1,0 +1,360 @@
+ 
+    Structural statistics:
+ 
+    str   target     upper limits    van der Waals   torsion angles
+        function   #    rms   max   #    sum   max   #    rms   max
+      1   240.31  41 0.1186  1.88 155  100.6  0.83  43 10.027 48.31
+      2   243.13  40 0.1183  1.61 154   99.1  0.90  51 10.709 60.37
+      3   243.71  49 0.1212  1.78 142   95.2  0.77  49 10.048 42.01
+      4   243.74  38 0.1182  1.57 164  102.2  0.83  48 10.555 53.45
+      5   243.76  41 0.1205  2.02 156   99.1  0.86  46  9.677 48.53
+      6   244.40  48 0.1202  1.91 131   94.4  0.93  53 10.689 47.83
+      7   245.64  45 0.1205  2.41 156   98.7  0.92  46 10.018 47.33
+      8   245.81  44 0.1196  1.84 155  100.6  0.79  52 10.892 61.19
+      9   245.96  46 0.1203  1.79 167  102.0  0.90  48  9.652 46.39
+     10   246.12  43 0.1196  1.92 164  105.0  0.89  49  9.972 49.38
+     11   246.16  43 0.1194  1.79 176  106.8  0.76  58 10.171 50.47
+     12   246.49  39 0.1194  2.25 150  100.2  0.89  47 11.081 55.65
+     13   246.71  46 0.1218  2.01 151   95.9  0.72  48 10.388 47.97
+     14   247.57  45 0.1193  1.57 151  103.0  0.91  50 11.405 63.20
+     15   247.66  43 0.1207  1.78 146  100.3  0.89  44 10.651 56.85
+     16   247.92  45 0.1207  1.82 162  100.0  0.81  53 10.323 49.83
+     17   248.58  46 0.1222  1.68 143   95.2  0.89  41  9.777 52.83
+     18   248.70  46 0.1196  2.01 175  109.4  0.85  46  9.992 50.86
+     19   249.88  40 0.1184  1.81 189  112.6  0.83  54 10.863 57.86
+     20   249.93  39 0.1195  1.72 184  108.0  0.91  48 10.360 49.72
+ 
+    Ave   246.11  43 0.1199  1.86 159  101.4  0.85  49 10.363 52.00
+    +/-     2.37   3 0.0011  0.21  14    4.8  0.06   4  0.472  5.42
+    Min   240.31  38 0.1182  1.57 131   94.4  0.72  41  9.652 42.01
+    Max   249.93  49 0.1222  2.41 189  112.6  0.93  58 11.405 63.20
+    Cut                      0.90             0.20             5.00
+ 
+    Constraints violated in 6 or more structures:
+                                                   #   mean   max.  1   5   10   15   20
+    Upper HB    THR   14 - QG2   VAL   38   3.50   8   0.51   1.14   + +*  +++      ++    peak 2366
+          HD21  ASN   73 - HB    VAL   99
+    Upper H     MET   15 - HB3   ASP   39   3.27  13   0.95   1.29  +* +++ +++    + ++++  peak 581
+          H     MET   15 - HB3   ASP   93
+          HB    THR   43 - H     ASP   46
+    Upper QB    MET   15 - HB2   ASP   40   3.76   8   0.83   1.05    +  * +  + +++   +   peak 1988
+          HB3   GLU   64 - HB2   ASP   65
+    Upper QB    MET   15 - QD1   LEU   91   3.79  11   0.71   1.15  + + *++ ++     +++ +  peak 1300
+          QD1   LEU   91 - HB    VAL   97
+          HB2   ASP   85 - H     ALA   90
+    Upper QD2   LEU   17 - HA    GLU   18   4.53  12   0.91   1.24   * + +++ + + ++++ +   peak 3292
+    Upper HA    GLU   18 - QD1   LEU   19   4.49   6   0.45   1.12  ++    * +   +   +     peak 1039
+    Upper HA    LEU   19 - QD1   ILE   34   3.77   6   0.58   1.25  +   + *  +  +    +    peak 1302
+          QG1   VAL   81 - H     ALA   90
+    Upper QD1   LEU   19 - H     ARG   20   4.12   7   0.76   1.02     +     ++   *+ + +  peak 556
+    Upper QB    ALA   23 - QG2   THR   24   3.29  20   1.08   1.24  +++++++*++++++++++++  peak 4086
+    Upper HA    THR   24 - HA    VAL   28   3.84  18   1.13   1.56  +++++++++++*++++ ++   peak 3037
+          HA    LEU   75 - HG    LEU   84
+    Upper HB3   PHE   25 - H     LEU   62   4.39   7   0.78   1.13    +  ++    *++  +     peak 901
+          QD    ARG   61 - H     LEU   62
+    Upper HB3   ARG   26 - QG1   VAL   29   3.55  12   0.91   1.45    +++*+ +   ++ +++ +  peak 3863
+          HB    VAL   28 - QG1   VAL   29
+    Upper HG3   GLU   27 - H     GLY   30   4.12   8   0.76   1.18  ++ +  + ++  * +       peak 1256
+          H     GLY   30 - HB3   GLN   31
+    Upper H     VAL   28 - HA    VAL   29   4.20  15   0.93   0.99  ++++ ++ ++*+++ ++  +  peak 936
+    Upper HB    VAL   28 - HA    VAL   29   4.22  14   0.86   1.28  ++ ++ ++ +++ +*  +++  peak 387
+    Upper QG1   VAL   28 - HA    VAL   29   4.07   6   0.68   1.34    +  *  +   +  ++     peak 389
+    Upper QG1   VAL   28 - HB    VAL   29   4.11  10   0.68   1.37  +++  + ++ + +  +*     peak 3718
+    Upper QG2   VAL   28 - HB    VAL   29   3.28   8   0.51   1.17   ++  + ++   +  +*     peak 3676
+    Upper QG2   VAL   28 - H     TYR   55   3.42   6   0.80   1.00  ++  *  ++       +     peak 3860
+          QG1   VAL   29 - HB3   TYR   55
+    Upper H     GLY   30 - HA    GLN   31   4.19  17   1.03   1.18  *+++ ++++++ +++++++   peak 1247
+    Upper QB    SER   33 - HG13  ILE   34   3.64   7   0.79   1.01    + *+   + + +   +    peak 337
+          QB    SER   33 - QB    ALA   96
+    Upper HA    ASP   41 - QB    ALA   42   3.76  20   0.99   1.05  *+++++++++++++++++++  peak 1203
+    Upper H     ALA   42 - HB    THR   43   4.32  20   1.62   2.41  ++++++*+++++++++++++  peak 286
+    Upper QG2   THR   43 - H     ALA   88   3.00  19   1.17   1.38  +++++*++++++++++++ +  peak 495
+          QG1   VAL   74 - HA    VAL   99
+    Upper H     VAL   44 - HA    ALA   90   3.61   6   0.83   1.05  + ++  +   *        +  peak 1279
+          HB2   GLU   64 - H     GLY   66
+    Upper HA    ASP   46 - HB    VAL   47   4.33  20   1.21   1.42  +++++++++++++*++++++  peak 2573
+    Upper HA    ASP   46 - QD1   ILE   63   2.83  12   0.99   1.69  ++++  ++  *++++   +   peak 615
+          HA    SER   50 - QD1   ILE   63
+          HA    THR   43 - HA    ALA   90
+    Upper HB2   ASP   46 - H     SER   50   4.08   8   0.87   1.10   +     +++     * +++  peak 857
+          HD3   ARG   49 - H     SER   50
+    Upper HG3   ARG   49 - H     SER   50   3.45  12   0.89   1.51  +   + *+++ ++  +++ +  peak 875
+    Upper HG3   ARG   49 - QG2   ILE   63   2.78   9   0.86   1.31    +* +    + ++++  +   peak 4138
+          QG2   ILE   63 - HB2   GLU   64
+    Upper HD2   ARG   49 - HA    SER   50   5.48   7   0.75   1.12    ++ +    +  +*   +   peak 486
+    Upper HA    GLU   52 - HG3   ARG   61   2.80  10   0.88   1.22  ++ +++  + + +*   +    peak 3848
+          HA    GLU   52 - HG    LEU   62
+          QD2   LEU   75 - QG2   VAL   99
+    Upper HA    GLU   52 - HG3   ARG   61   2.96  10   0.84   1.29    + *  + +++ +   +++  peak 3257
+          HA    GLU   52 - HG    LEU   62
+          QD1   LEU   19 - HD21  ASN   73
+    Upper H     ALA   53 - HA    ALA   59   3.82   9   0.89   1.43  *++    + +  +   + ++  peak 2993
+          HA    THR   14 - HG2   ARG   37
+    Upper HA    TYR   55 - HB2   LEU   58   3.25  13   0.92   1.08   ++  + ++++  +*++++   peak 723
+          HB    THR   43 - H     ALA   88
+    Upper H     ALA   59 - QA    GLY   60   4.24  18   0.96   1.03  ++++++++ ++*++++++ +  peak 260
+    Upper HA    ARG   61 - HG3   ARG   61   3.18   8   0.75   1.05   *     ++++    + ++   peak 2967
+    Upper HB2   ASP   65 - HA2   GLY   66   4.47  10   0.72   1.19    +  +++ *+ +++   +   peak 1468
+    Upper HB3   ASP   65 - H     GLU   67   3.27   9   0.94   1.37     +++     +  ++*+ +  peak 1151
+          HG2   ARG   26 - H     SER   33
+    Upper HG2   PRO   70 - HA    HIS   71   3.70  20   1.36   1.70  +++++++++++++++*++++  peak 707
+    Upper HB2   HIS   71 - QG2   VAL   72   3.10  19   1.46   2.00  ++++++++++ +*+++++++  peak 3396
+    Upper HB3   HIS   71 - QG2   VAL   72   4.16  19   1.09   1.27  ++++++++++ +++++*+++  peak 3397
+    Upper QG1   VAL   74 - HG    LEU   75   3.99   9   0.92   1.57    +   +++ +  *   +++  peak 3590
+    Upper QD2   LEU   75 - HA3   GLY   78   3.09   8   0.80   1.08    + +++++      *+     peak 205
+          HA    ILE   34 - H     TRP   36
+    Upper HA    ARG   79 - QG    GLU   80   4.05   7   0.76   1.15    +    *  +  ++   ++  peak 1070
+    Upper HA    VAL   81 - HA    LEU   84   3.50  20   1.14   1.29  ++++++++++++*+++++++  peak 492
+          QG2   THR   43 - H     VAL   47
+    Upper QG1   VAL   81 - QG1   VAL   82   3.34   8   0.91   1.73   + +    +    ++*+  +  peak 3938
+    Upper HB    VAL   82 - HA    HIS   83   4.22  18   1.29   1.46  ++*++++++ +++++++++   peak 927
+    Upper HG    LEU   84 - HB3   ASP   85   4.10  19   1.20   1.52  ++++++++++*+ +++++++  peak 3045
+    Upper HA    ASP   85 - H     THR   89   4.07  20   1.18   1.40  ++++++*+++++++++++++  peak 3925
+          QD1   LEU   19 - QG2   VAL   38
+    Upper HB2   ASP   85 - QB    ALA   88   2.77   9   0.76   1.31      +++ ++     +*+ +  peak 427
+          HB3   SER   50 - HG3   GLU   54
+    Upper HA    MET   87 - HA    ALA   88   3.68   9   0.88   0.97  + + +*  ++  +  + +    peak 763
+    Upper QB    ALA   88 - QB    ALA   90   3.74  13   1.06   1.53  + * +++ ++++   +++ +  peak 3830
+          QB    ALA   90 - HG    LEU   91
+    Upper HA    THR   89 - HA    ALA   90   3.95  12   0.92   1.02  ++ +   +  +++*++ ++   peak 1214
+    Upper HA    ALA   90 - QD2   LEU   91   3.74  20   1.60   2.02  ++++*+++++++++++++++  peak 1219
+    Upper H     ASP   95 - QB    ALA   96   4.03  20   1.22   1.39  ++*+++++++++++++++++  peak 424
+    Upper HA    ALA   96 - QG2   VAL   97   4.25   8   0.66   1.16      ++ +  ++ +  + *   peak 1340
+    VdW   N     ASP   10 - H     ASP   11   2.40   9   0.12   0.23      +   +* + +++  ++
+    VdW   HB2   LYS   12 - H     GLY   13   1.95   9   0.17   0.30   ++    ++   + +*+ +
+    VdW   HB    THR   14 - HG2   ARG   37   2.00   7   0.13   0.41     ++*+    + + +
+    VdW   HB    THR   14 - HD2   ARG   37   2.00   6   0.10   0.41  ++       +  +     *+
+    VdW   N     MET   15 - O     VAL   38   2.75  20   0.48   0.69  ++++++++*+++++++++++
+    VdW   HB3   MET   15 - N     ASP   93   2.45  20   0.45   0.62  +++++++++++++++*++++
+    VdW   HB3   MET   15 - CA    ASP   93   2.60  18   0.33   0.47  +*++++ ++++ ++++++++
+    VdW   O     MET   15 - N     VAL   38   2.75  14   0.26   0.46  +++ ++ + + ++* + +++
+    VdW   HA    GLU   16 - HA    ARG   37   2.00  20   0.38   0.54  ++++++++++*+++++++++
+    VdW   N     LEU   17 - O     TRP   36   2.75  16   0.28   0.44  *+++ ++ ++ ++++++ ++
+    VdW   CA    LEU   17 - CD1   LEU   17   3.00   7   0.13   0.27  +   *     ++++   +
+    VdW   HA    LEU   17 - CD1   LEU   17   2.60   9   0.17   0.45  +   *   +++ ++ + +
+    VdW   O     LEU   17 - HA    TYR   35   2.30  15   0.26   0.47    ++++ +++ ++++++ *+
+    VdW   H     GLU   18 - HA    ALA   96   1.95  14   0.23   0.35  +  ++++ ++++++*+  +
+    VdW   N     LEU   19 - CD1   LEU   19   3.05  12   0.22   0.41    +*+  + ++  +++ +++
+    VdW   N     LEU   19 - O     ILE   34   2.75   8   0.14   0.30  ++    + ++  + +*
+    VdW   CA    LEU   19 - CD1   LEU   19   3.00  12   0.15   0.27    +++  + ++  +*+ +++
+    VdW   HA    LEU   19 - O     VAL   97   2.30  20   0.48   0.69  ++*+++++++++++++++++
+    VdW   CB    LEU   19 - HG12  ILE   34   2.60   7   0.13   0.39  +    +   * ++  + +
+    VdW   HB2   LEU   19 - CG1   ILE   34   2.60   8   0.18   0.38  + +  +++  *       ++
+    VdW   HB2   LEU   19 - HG12  ILE   34   2.00  19   0.39   0.60  +++++*++++++++ +++++
+    VdW   HB3   PHE   21 - C     LYS   32   2.50   6   0.14   0.31      *    +   + +++
+    VdW   HB3   PHE   21 - O     LYS   32   2.30   6   0.13   0.23     *+    +  ++   +
+    VdW   H     PHE   22 - HB3   ARG   26   1.95   7   0.12   0.42      + +  *   ++  ++
+    VdW   C     PHE   22 - O     ALA   23   2.80  20   0.27   0.33  ++++++++++++++++++*+
+    VdW   O     PHE   22 - O     ALA   23   2.60  20   0.68   0.89  +++++++++++*++++++++
+    VdW   C     ALA   23 - N     PHE   25   2.95  17   0.23   0.32  +++++++ +++ *++++++
+    VdW   O     ALA   23 - C     THR   24   2.80  20   0.31   0.34  +*++++++++++++++++++
+    VdW   O     ALA   23 - N     PHE   25   2.75  20   0.40   0.49  ++++++++++++*+++++++
+    VdW   O     ALA   23 - N     ARG   26   2.75   8   0.19   0.26    + +++ +     +  + *
+    VdW   CG2   THR   24 - C     THR   24   2.90   7   0.18   0.27    + + +   +      +*+
+    VdW   O     THR   24 - HG2   GLU   27   2.30  11   0.21   0.39      * + + + ++++++ +
+    VdW   O     THR   24 - CG1   VAL   28   2.90  10   0.17   0.37  *+ ++ ++  +  ++  +
+    VdW   O     THR   24 - HG13  VAL   28   2.30   6   0.10   0.44  ++    +   *  ++
+    VdW   HA    ARG   26 - CG1   VAL   29   2.60  12   0.31   0.60     +* +  + ++++ ++++
+    VdW   O     ARG   26 - N     GLY   30   2.75   6   0.15   0.29    +  +  +     +*+
+    VdW   N     VAL   28 - CG1   VAL   28   2.85  14   0.16   0.24  ++ ++ *+ +++ ++  +++
+    VdW   H     VAL   28 - CG1   VAL   28   2.55  14   0.28   0.41  ++ ++ ++ +*+ ++  +++
+    VdW   HB    VAL   28 - CD2   LEU   58   2.60   6   0.09   0.36    +  +  +   *  ++
+    VdW   CG2   VAL   28 - C     VAL   28   2.90  14   0.22   0.33  ++ ++ *+ +++ ++  +++
+    VdW   CG2   VAL   28 - HB3   TYR   55   2.60  10   0.21   0.49  *+  +  + ++  +   +++
+    VdW   H     VAL   29 - CG1   VAL   29   2.55   6   0.12   0.34      +    + *  +   ++
+    VdW   N     LYS   32 - H     SER   33   2.40  17   0.20   0.23  +* +++++++ ++++++++
+    VdW   CG2   ILE   34 - CD1   ILE   34   3.00  12   0.20   0.25   +++  +   +  ++++++*
+    VdW   CD1   TRP   36 - HA    VAL   47   2.60  11   0.18   0.42  ++ + ++ ++  +*  + +
+    VdW   HB    VAL   38 - CB    ALA   42   2.60  18   0.33   0.45  ++++ +*++++++ ++++++
+    VdW   CB    ASP   39 - H     ASP   40   2.55   7   0.14   0.36  ++  +    + *++
+    VdW   N     ASP   40 - H     ASP   41   2.40  14   0.21   0.23  +  ++++ *+++  +++++
+    VdW   N     ASP   41 - H     ALA   42   2.40   7   0.18   0.23  * + +   +++     +
+    VdW   N     THR   43 - CG2   THR   43   2.85  15   0.19   0.23  ++++++ ++++    *++++
+    VdW   HB    THR   43 - H     LEU   91   1.95   7   0.15   0.35  + + ++  ++*
+    VdW   OG1   THR   43 - N     VAL   44   2.75  17   0.45   0.57  ++*+++ ++++  +++++++
+    VdW   OG1   THR   43 - N     THR   89   2.75   6   0.12   0.40  *+ ++    +         +
+    VdW   HG1   THR   43 - H     GLY   45   1.95   6   0.10   0.31  +  + +         +  *+
+    VdW   HG1   THR   43 - HA    ALA   88   2.00   8   0.15   0.51  *+ + +        ++  ++
+    VdW   N     VAL   44 - CD1   LEU   91   3.05   6   0.10   0.38   + *   +     ++   +
+    VdW   H     VAL   44 - CD2   LEU   91   2.55   9   0.17   0.44  + +   + * ++   ++  +
+    VdW   CG2   VAL   44 - CG2   VAL   97   3.20   8   0.13   0.40  ++++    ++     +   *
+    VdW   HA3   GLY   45 - O     MET   87   2.30  14   0.22   0.33  *+ +++ +++  +++ +++
+    VdW   O     GLY   45 - CD1   LEU   48   2.90  15   0.21   0.34  ++++ ++++*  ++  ++++
+    VdW   O     GLY   45 - CG    ARG   49   2.90  11   0.21   0.45   + * +  ++++ + +  ++
+    VdW   O     GLY   45 - HG2   ARG   49   2.30  10   0.22   0.45  +  + +  ++ +  +* + +
+    VdW   CG1   VAL   47 - C     VAL   47   2.90  18   0.28   0.33  ++++++++++ *+ ++++++
+    VdW   CG1   VAL   47 - N     LEU   48   3.05  17   0.30   0.42  ++++++ +++ +*+ +++++
+    VdW   H     LEU   48 - CG    LEU   48   2.55  16   0.22   0.28  +++++ *+++ + ++ ++++
+    VdW   HB2   LEU   48 - CD1   ILE   63   2.60   6   0.10   0.32  *   + +    ++   +
+    VdW   CD1   LEU   48 - H     ARG   49   2.55  12   0.20   0.41  ++ +   ++++ +   +*++
+    VdW   C     LEU   48 - CD1   ILE   63   3.10   7   0.16   0.29  ++     +    *   ++ +
+    VdW   O     LEU   48 - CD1   ILE   63   2.90   8   0.13   0.30   + +   + ++      ++*
+    VdW   HD3   ARG   49 - HG12  ILE   63   2.00   6   0.14   0.26   +     ++*       + +
+    VdW   CA    LEU   51 - CD1   LEU   51   3.00  16   0.21   0.26  *+ +++++++++++ +++
+    VdW   HA    LEU   51 - CD1   LEU   51   2.60  18   0.38   0.48  ++++++++++++++ +*+ +
+    VdW   HB3   LEU   51 - CD1   LEU   62   2.60   6   0.15   0.36   + +    + *    + +
+    VdW   N     GLU   52 - HG3   GLU   52   2.45   8   0.14   0.24  +    +++ +  *   + +
+    VdW   H     GLU   52 - CG    GLU   52   2.55   6   0.17   0.35         +++  + * +
+    VdW   H     GLU   52 - HG3   GLU   52   1.95  15   0.30   0.47  ++ +++++ ++++  +*++
+    VdW   CB    GLU   52 - HA    ALA   59   2.60  15   0.33   0.58  ++++   ++++ ++ +++*+
+    VdW   HB3   GLU   52 - HA    ALA   59   2.00  16   0.27   0.44  +++  ++++++ ++*++ ++
+    VdW   HB2   TYR   55 - HB2   LEU   58   2.00  10   0.20   0.37  ++++ +    +  + +  *+
+    VdW   C     ASP   56 - H     LEU   58   2.45   7   0.16   0.36   +     +++*      ++
+    VdW   HA    LEU   58 - CD2   LEU   58   2.60   9   0.18   0.41   +     +* + +  ++++
+    VdW   HB3   LEU   58 - CD1   LEU   62   2.60   7   0.14   0.36   + +     ++    + * +
+    VdW   O     LEU   58 - HG2   ARG   61   2.30  11   0.26   0.68   + +   +++++   + *++
+    VdW   O     LEU   58 - HG3   ARG   61   2.30   9   0.21   0.60  + + ++*     +++ +
+    VdW   O     LEU   58 - CD2   LEU   62   2.90  17   0.32   0.47  +++ *+++++++++++++
+    VdW   N     LEU   62 - CD2   LEU   62   3.05  20   0.67   0.77  +++++++++++++++++++*
+    VdW   N     LEU   62 - HD21  LEU   62   2.45   9   0.24   0.64   + + ++++ +      *+
+    VdW   N     LEU   62 - HD22  LEU   62   2.45  11   0.26   0.68  +++*    ++ ++  +  ++
+    VdW   N     LEU   62 - HD23  LEU   62   2.45  11   0.25   0.70  +   + ++ ++  + +++ *
+    VdW   H     LEU   62 - CD2   LEU   62   2.55  19   0.36   0.53   ++++++++++++++*++++
+    VdW   H     LEU   62 - H     ILE   63   1.90  17   0.31   0.41   +*++++++++ ++ +++++
+    VdW   CA    LEU   62 - CD2   LEU   62   3.00  10   0.20   0.26   + +   +++*    + +++
+    VdW   HA    LEU   62 - HB    VAL   72   2.00   9   0.18   0.43   +   +++++   + *  +
+    VdW   HG    LEU   62 - CD1   ILE   63   2.60   8   0.19   0.49   +    ++*+  +    + +
+    VdW   HD21  LEU   62 - H     ILE   63   1.95   6   0.11   0.47   + *    +  ++     +
+    VdW   HD22  LEU   62 - H     ILE   63   1.95   6   0.13   0.51  +   +    +     ++  *
+    VdW   O     LEU   62 - HG13  ILE   63   2.30  16   0.30   0.46  ++ ++++*+++  ++ ++++
+    VdW   O     LEU   62 - CG2   VAL   72   2.90   6   0.14   0.46      +  +     +* + +
+    VdW   CB    GLU   64 - HG3   PRO   70   2.60  12   0.20   0.40  ++ +*  ++  ++ + ++ +
+    VdW   N     VAL   68 - H     LYS   69   2.40  13   0.20   0.23  ++ *+  +++++   +++ +
+    VdW   CA    VAL   68 - HD2   PRO   70   2.60  17   0.37   0.49  ++ +++++++ + ++++++*
+    VdW   CG1   VAL   68 - O     VAL   68   2.90  12   0.21   0.41    ++ ++ ++ + + + *++
+    VdW   C     VAL   68 - CD    PRO   70   3.10  20   0.50   0.56  +++++*++++++++++++++
+    VdW   C     VAL   68 - HD2   PRO   70   2.50  20   0.83   0.93  +++++*++++++++++++++
+    VdW   N     LYS   69 - CD    PRO   70   3.05  20   0.72   0.81  +++*++++++++++++++++
+    VdW   N     LYS   69 - HD2   PRO   70   2.45  20   0.63   0.70  ++++++++*+++++++++++
+    VdW   C     LYS   69 - H     HIS   71   2.45  12   0.22   0.33   + ++   +++++ +* ++
+    VdW   HG2   PRO   70 - CG1   VAL   72   2.60  16   0.30   0.54   + *+++++++  +++++++
+    VdW   HG2   PRO   70 - HG13  VAL   72   2.00   7   0.12   0.33   + *+  +       ++  +
+    VdW   O     PRO   70 - HB2   HIS   71   2.30  16   0.28   0.49   ++++++ ++*  +++++++
+    VdW   N     HIS   71 - H     VAL   72   2.40   6   0.13   0.23    ++     +*    +  +
+    VdW   CB    HIS   71 - CB    PRO  102   3.20  10   0.19   0.32   + *   ++++  +++  +
+    VdW   CB    HIS   71 - HB3   PRO  102   2.60   7   0.17   0.39  * +     +++    + +
+    VdW   HB3   HIS   71 - HA    PRO  102   2.00  11   0.21   0.37  ++  + +++  +++   * +
+    VdW   C     HIS   71 - HB3   PRO  102   2.50   6   0.15   0.36      +++   +  *  +
+    VdW   O     HIS   71 - HB3   PRO  102   2.30  11   0.20   0.32   + ++  +++ ++ *   ++
+    VdW   HB2   ASN   73 - HA    VAL   99   2.00   6   0.15   0.39   * +   +     ++ +
+    VdW   HB2   ASN   73 - CG2   VAL   99   2.60   7   0.12   0.40  + +  ++    +      *+
+    VdW   CG    ASN   73 - O     ASN   73   2.80  17   0.30   0.43  +++++++++++* + ++ ++
+    VdW   N     VAL   74 - CG2   VAL   74   2.85   9   0.13   0.24  +  ++++  +    +*+
+    VdW   HB    VAL   74 - CG2   VAL   81   2.60   9   0.17   0.48  + + +++   +++    *
+    VdW   HA    LEU   75 - HA    GLU   80   2.00  10   0.20   0.34  +   ++  ++ ++   +* +
+    VdW   CD2   LEU   75 - N     GLU   80   3.05  17   0.28   0.39  +++++++ + +++*+++ ++
+    VdW   O     LEU   75 - HA    VAL   97   2.30  20   0.38   0.57  ++++++++++++++++*+++
+    VdW   O     LEU   75 - CG2   VAL   97   2.90   9   0.15   0.38  ++++  + +   * +    +
+    VdW   HG3   LYS   76 - C     LYS   76   2.50  12   0.23   0.43     ++  ++  ++++*+++
+    VdW   HG3   LYS   76 - O     LYS   76   2.30  14   0.22   0.39  +  + +++ ++ ++++* ++
+    VdW   CA    ARG   79 - CD    ARG   79   3.00   7   0.10   0.24         ++  *+ ++  +
+    VdW   O     ARG   79 - C     GLU   80   2.80   6   0.18   0.26      +  *    ++  + +
+    VdW   HA    VAL   81 - HG    LEU   84   2.00  10   0.20   0.33  + *+++ ++   +   ++
+    VdW   O     VAL   81 - N     ASP   85   2.75  10   0.14   0.32    + +++ +*  +  + + +
+    VdW   N     LEU   84 - CD2   LEU   84   3.05  15   0.27   0.41  ++++*+++ ++   +++ ++
+    VdW   HB2   LEU   84 - HB    THR   89   2.00   7   0.17   0.39    * ++     +  ++   +
+    VdW   CB    ASP   85 - C     ALA   88   3.10   6   0.14   0.33   +     +  +  ++   *
+    VdW   CB    ASP   85 - O     ALA   88   2.90   9   0.17   0.39   + +   +  ++ +*   ++
+    VdW   CB    ASP   85 - CA    THR   89   3.20  15   0.31   0.48  + +++++ +++++  +*+ +
+    VdW   CB    ASP   85 - HA    THR   89   2.60  20   0.52   0.84  ++++++++++++++++*+++
+    VdW   HB2   ASP   85 - CA    THR   89   2.60  20   0.58   0.64  ++++++++++++*+++++++
+    VdW   HB2   ASP   85 - HA    THR   89   2.00  20   0.68   0.83  ++++++++++++++*+++++
+    VdW   HB3   ASP   85 - C     ALA   88   2.50   7   0.17   0.31    ++      ++ ++   *
+    VdW   CG    ASP   85 - HA    THR   89   2.50  10   0.17   0.39  +  ++ + ++  +  + + *
+    VdW   N     MET   87 - H     ALA   88   2.40  20   0.22   0.23  ++++++++++++*+++++++
+    VdW   O     MET   87 - CB    ALA   88   2.90  14   0.26   0.42  + ++*++ ++  ++++ + +
+    VdW   H     THR   89 - CG2   THR   89   2.55  11   0.21   0.34  + +++++  +     ++* +
+    VdW   OG1   THR   89 - N     ALA   90   2.75   6   0.16   0.32   +  +  * +       ++
+    VdW   CG2   THR   89 - H     ALA   90   2.55  12   0.24   0.44   + +  + *  ++++++ ++
+    VdW   N     LEU   91 - CD2   LEU   91   3.05  12   0.30   0.61  + + +++ ++ +   +*+ +
+    VdW   N     LEU   91 - HD21  LEU   91   2.45   7   0.12   0.34  + + +   +*     ++
+    VdW   CG1   VAL   97 - C     VAL   97   2.90  11   0.17   0.33  ++++  + ++  + ++   *
+    VdW   HA    PHE  100 - CD    PRO  101   2.60  15   0.22   0.31  +++ +++ +++*   +++++
+    VdW   HA    PRO  101 - CD    PRO  102   2.60  16   0.25   0.30   ++ ++++++++ ++ +*++
+    Angle PHI   THR   14         -167.90  -89.10   6   1.95   7.80       +  ++  * ++
+    Angle PSI   MET   15          113.20  171.70   7   3.76  14.68     +  + + +  *++
+    Angle PHI   GLU   16         -146.50  -94.30  20  20.62  33.50  ++++++++++++++++*+++
+    Angle PSI   GLU   18          101.10  129.80  16  10.17  15.54  +++++ + ++ ++++* +++
+    Angle PHI   LEU   19         -133.90  -97.70  20  16.31  21.17  +++++++++++++++*++++
+    Angle PSI   ARG   20          128.60  178.50  16   6.49  10.63   + +++++++* +++++++
+    Angle PSI   PHE   21          133.40  156.60  11   5.89  15.89  + ++ ++   +*+  ++  +
+    Angle PSI   PHE   22          134.80  163.60  20  40.18  49.72  +++++++++++++++++++*
+    Angle PHI   ALA   23          -91.20  -61.70  20  22.78  32.07  +++++++++++*++++++++
+    Angle PSI   ALA   23          110.50  166.80  20  34.29  47.29  +++++++++++*++++++++
+    Angle PHI   THR   24          -75.50  -42.20  20  13.11  16.43  +*++++++++++++++++++
+    Angle PHI   PHE   25          -92.00  -56.20  20  13.84  20.09  +++++++*++++++++++++
+    Angle PHI   ARG   26          -81.70  -48.30  12   5.31   9.40  +  ++  + +++ ++  +*+
+    Angle PHI   GLU   27          -71.60  -56.80   8   4.34  12.30  +++  + +* +    +
+    Angle PHI   VAL   28          -71.50  -61.60  16   7.06  10.60  +++ + +*++  ++++++++
+    Angle PSI   LYS   32          -39.50   -7.20   9   3.96   8.77  *+ ++   ++     +++
+    Angle PHI   TYR   35         -129.60  -85.80  15   8.42  16.79  ++ ++++ +++ ++*+ ++
+    Angle PSI   TYR   35          118.20  147.30  10   6.33  20.99    + ++ +  *+   + +++
+    Angle PSI   VAL   38          150.80  171.50  15   7.68  14.89   + ++++++++++ +*  ++
+    Angle PHI   ALA   42          -98.30  -46.10  20  16.15  24.53  +++++++++++*++++++++
+    Angle PHI   THR   43         -129.50  -69.30  20  17.89  26.66  ++*+++++++++++++++++
+    Angle PSI   THR   43          153.10  180.20  20  13.76  20.41  ++++++++++++++++++*+
+    Angle PHI   VAL   44          -67.50  -53.50  19   8.59  12.06  ++++++ +++++++*+++++
+    Angle PSI   GLY   45          -50.90  -37.70  17   8.61  16.74   +++ *++++++++ +++++
+    Angle PHI   ASP   46          -74.30  -59.30  18  15.35  29.48  ++++ ++++++++*+ ++++
+    Angle PSI   VAL   47          -56.50  -24.60  15   8.12  14.85  ++++++ ++++ *   ++++
+    Angle PHI   SER   50          -69.80  -60.10  17   7.05  13.04  +++++  +++++ ++*++++
+    Angle PHI   LEU   51          -68.10  -53.30  17   7.99  12.75   +++ + +++++++*+++++
+    Angle PHI   GLU   52          -78.80  -47.30   6   3.92  14.36    +  ++   +  +    *
+    Angle PSI   GLU   52          -57.00  -25.80  14   5.87   9.56  ++ +*++ + ++ ++  +++
+    Angle PSI   LEU   58          -22.00   22.90   7   4.32  16.61  +  ++      *  ++   +
+    Angle PSI   ALA   59          126.40  137.00  18  10.70  15.60  ++++++++++++++  +*++
+    Angle PHI   ILE   63         -150.60 -111.90   8   3.90   7.95   +   + +++   +  *+
+    Angle PSI   GLU   64          114.10  137.90  14   6.89  11.82   +++ +++*+   +++ +++
+    Angle PSI   ASP   65           35.80   49.70  20  15.55  21.18  ++++*+++++++++++++++
+    Angle PHI   GLY   66           59.30   87.60  14   8.15  15.83  ++++ +++ ++ ++*+  +
+    Angle PHI   VAL   68          -93.90  -50.40  20  17.17  30.79  +++++*++++++++++++++
+    Angle PSI   VAL   68          -49.50  -19.00  20  27.15  39.33  +++++++++++++*++++++
+    Angle PHI   HIS   71           46.50   64.00  13   9.50  27.71   ++*+++ +++    ++ ++
+    Angle PHI   VAL   72         -104.00  -64.50   9   4.99  14.29      ++++ +  ++*   +
+    Angle PSI   VAL   72          114.50  159.40  20  14.96  25.37  *+++++++++++++++++++
+    Angle PHI   ASN   73         -127.80  -69.30   8   5.27  12.90  + +    +  ++++   *
+    Angle PHI   VAL   74         -137.00 -106.70  20  13.99  24.01  ++++++++++++*+++++++
+    Angle PSI   VAL   74          116.70  148.80   8   5.39  20.34   + +   + ++    ++*
+    Angle PHI   LEU   75         -136.30  -93.80  19  10.60  14.47  +*+++ ++++++++++++++
+    Angle PHI   LYS   76         -161.70 -114.70   7   4.59  17.10     +   *  +  + + ++
+    Angle PSI   LYS   76          111.80  140.00   7   4.33   9.28      +  +  + ++  + *
+    Angle PSI   ARG   79          110.60  158.30   6   3.08   7.85   +  +  + +  *     +
+    Angle PHI   VAL   82          -76.70  -61.40  20  11.86  14.26  +++++++++++++*++++++
+    Angle PHI   MET   87          -84.80  -37.30   6   3.17   8.52   +  * ++    +  +
+    Angle PSI   MET   87          -48.50   -8.30  13   8.75  18.77  ++++  ++  +++++   *+
+    Angle PHI   THR   89          -75.40  -44.60   9   4.17   9.09  + +  ++++ *       ++
+    Angle PSI   THR   89          -45.90  -17.80  20  38.45  48.43  +*++++++++++++++++++
+    Angle PHI   ALA   90         -135.10  -79.30  20  50.46  63.20  +++++++++++++*++++++
+    Angle PSI   ALA   90          -34.20   24.50  20  43.63  52.83  ++++++++++++++++*+++
+    Angle PHI   LEU   91         -180.30  -99.70  20  14.14  20.09  +++++++++++*++++++++
+    Angle PSI   ASP   92          140.10  164.40  14   7.52  13.35  + + +++ *+ ++++++  +
+    Angle PSI   ASP   95          103.20  183.50   9   5.04   9.29    +  +   ++  +++ +*
+    Angle PHI   ALA   96         -148.60  -99.60   9   4.04   8.63  ++  +++* + ++
+    Angle PHI   SER   98         -156.00  -93.40   7   4.97  19.45      +*     +++  + +
+    Angle PSI   PRO  102          133.10  158.70  18   7.52   9.96  +*+ +++++++++++ ++++
+    57 violated distance restraints.
+    151 violated van der Waals restraints.
+    61 violated angle restraints.
+ 
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+    RMSDs for residues 1..106:
+    Average backbone RMSD to mean   :    2.16 +/- 0.52 A (1.30..3.31 A; 20 structures)
+    Average heavy atom RMSD to mean :    2.45 +/- 0.47 A (1.67..3.52 A; 20 structures)

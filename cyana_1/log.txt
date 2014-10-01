@@ -1,0 +1,2143 @@
+___________________________________________________________________
+ 
+CYANA 3.96 (mac-intel)
+ 
+Copyright (c) 2002-12 Peter Guentert. All rights reserved.
+___________________________________________________________________
+ 
+    Academic license for Dr. Mark Maciejewski, University of Connecticut Health Center.
+ 
+    Library file "/Network/Servers/macsent1.uchc.edu/Volumes/raid/mattf/cyana/cyana-3.96/lib/cyana.lib" read, 38 residue types.
+    Sequence file "samp3.seq" read, 106 residues.
+    Library file "/Network/Servers/macsent1.uchc.edu/Volumes/raid/mattf/cyana/cyana-3.96/lib/cyana.lib" read, 38 residue types.
+    Sequence file "samp3.seq" read, 106 residues.
+ 
+    ======================= Check ========================
+ 
+ 
+    ------------------------------------------------------------
+                   Proton list: shifts.txt
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Residue     missing shifts
+    GLY     1   H QA
+    GLY     2   H
+    TYR     6   QR
+    ASP     9   HA QB
+    ASP    10   HA QB
+    MET    15   QE
+    PHE    21   QR
+    PHE    22   HA QB QR
+    ALA    23   H HA
+    PHE    25   QR
+    LYS    32   QG QD
+    TYR    35   QR
+    TRP    36   HD1 HE3 HZ3 HZ2 HH2
+    TYR    55   QR
+    LYS    69   HA QB QG QD QE
+    HIS    71   HD2 HE1
+    HIS    83   HD2 HE1
+    MET    87   QE
+    PHE   100   HA QB QR
+    PRO   101   HA QB QG QD
+    GLY   106   QA
+    43 missing chemical shifts, completeness 91.5%.
+ 
+    ------------------------------------------------------------
+                   Peak list  : aromatic_gnoesy_chsqc.pks
+                   Proton list: shifts.txt
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "aromatic_gnoesy_chsqc.pks" read, 538 peaks, 0 assignments.
+    Atom              Shift     Dev    Mean     +/- Minimum Maximum
+    NE    ARG   20  115.993   19.22   84.67    1.63   75.15   99.81
+    CZ    ARG   20  181.373    6.47  160.09    3.29  156.20  177.70
+    QG2   VAL   29   -0.707    5.66    0.82    0.27   -2.32    2.78
+    NE    ARG   37  114.099   18.05   84.67    1.63   75.15   99.81
+    CZ    ARG   37  181.450    6.49  160.09    3.29  156.20  177.70
+    NE    ARG   49  115.255   18.76   84.67    1.63   75.15   99.81
+    CZ    ARG   49  181.380    6.47  160.09    3.29  156.20  177.70
+    N     LYS   69  101.348    5.19  121.08    3.80  101.10  140.30
+    N     ALA   90  100.585    6.36  123.24    3.56   77.10  142.81
+    9 shifts outside expected range.
+    Deviations from chemical shift list:
+    Dim  Peaks   Median Average Maximum    RMSD  Number Tolerance
+    Atom  Residue      Shift    Median Deviation Peaks
+    0 shifts with spread larger than tolerance.
+      Peak Dim Deviation Atom  Residue
+    0 deviations larger than tolerance.
+ 
+    ------------------------------------------------------------
+                   Peak list  : aromatic_noesy.pks
+                   Proton list: shifts.txt
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "aromatic_noesy.pks" read, 122 peaks, 0 assignments.
+    Deviations from chemical shift list:
+    Dim  Peaks   Median Average Maximum    RMSD  Number Tolerance
+    Atom  Residue      Shift    Median Deviation Peaks
+    0 shifts with spread larger than tolerance.
+      Peak Dim Deviation Atom  Residue
+    0 deviations larger than tolerance.
+ 
+    ------------------------------------------------------------
+                   Peak list  : D2O_noesy_chsqc.pks
+                   Proton list: shifts.txt
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "D2O_noesy_chsqc.pks" read, 4352 peaks, 0 assignments.
+    Deviations from chemical shift list:
+    Dim  Peaks   Median Average Maximum    RMSD  Number Tolerance
+    Atom  Residue      Shift    Median Deviation Peaks
+    0 shifts with spread larger than tolerance.
+      Peak Dim Deviation Atom  Residue
+    0 deviations larger than tolerance.
+ 
+    ------------------------------------------------------------
+                   Peak list  : noesy_nhsqc.pks
+                   Proton list: shifts.txt
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "noesy_nhsqc.pks" read, 1362 peaks, 0 assignments.
+    Deviations from chemical shift list:
+    Dim  Peaks   Median Average Maximum    RMSD  Number Tolerance
+    Atom  Residue      Shift    Median Deviation Peaks
+    0 shifts with spread larger than tolerance.
+      Peak Dim Deviation Atom  Residue
+    0 deviations larger than tolerance.
+                   CB      CG   CB-CG  Ptrans    Pcis  Result
+    PRO 70  :   31.71   27.91    3.80   1.000   0.000  trans
+    PRO 101: no CB and/or CG shift
+    PRO 102 :   32.12   27.84    4.28   1.000   0.000  trans
+    100 structures selected.
+    100 random structures created (seed 3771).
+    Structure minimized in 1 s, f = 8.26799.
+    Structure minimized in 0 s, f = 6.13755.
+    Structure minimized in 1 s, f = 2.78507.
+    Structure minimized in 1 s, f = 5.54290.
+    Structure minimized in 0 s, f = 0.680484.
+    Structure minimized in 1 s, f = 1.27995.
+    Structure minimized in 0 s, f = 7.93701.
+    Structure minimized in 1 s, f = 1.96873.
+    Structure minimized in 1 s, f = 8.32544.
+    Structure minimized in 1 s, f = 1.90281.
+    Structure minimized in 1 s, f = 1.89228.
+    Structure minimized in 1 s, f = 9.06089.
+    Structure minimized in 1 s, f = 6.09248.
+    Structure minimized in 1 s, f = 7.40868.
+    Structure minimized in 1 s, f = 7.02506.
+    Structure minimized in 1 s, f = 1.07424.
+    Structure minimized in 1 s, f = 5.91000.
+    Structure minimized in 1 s, f = 1.54309.
+    Structure minimized in 1 s, f = 8.03803.
+    Structure minimized in 0 s, f = 1.23576.
+    Structure minimized in 1 s, f = 7.02692.
+    Structure minimized in 0 s, f = 2.28143.
+    Structure minimized in 1 s, f = 2.04559.
+    Structure minimized in 1 s, f = 1.26725.
+    Structure minimized in 1 s, f = 7.11553.
+    Structure minimized in 1 s, f = 2.56493.
+    Structure minimized in 0 s, f = 1.98830.
+    Structure minimized in 1 s, f = 2.14452.
+    Structure minimized in 1 s, f = 5.67783.
+    Structure minimized in 0 s, f = 1.95268.
+    Structure minimized in 1 s, f = 2.12603.
+    Structure minimized in 1 s, f = 5.56226.
+    Structure minimized in 1 s, f = 1.65114.
+    Structure minimized in 1 s, f = 4.17408.
+    Structure minimized in 1 s, f = 0.994498.
+    Structure minimized in 1 s, f = 1.92664.
+    Structure minimized in 0 s, f = 0.444509.
+    Structure minimized in 0 s, f = 1.94071.
+    Structure minimized in 1 s, f = 6.11446.
+    Structure minimized in 1 s, f = 1.18810.
+    Structure minimized in 1 s, f = 3.62941.
+    Structure minimized in 1 s, f = 6.22907.
+    Structure minimized in 1 s, f = 4.31622.
+    Structure minimized in 1 s, f = 1.01697.
+    Structure minimized in 0 s, f = 2.68127.
+    Structure minimized in 1 s, f = 5.84913.
+    Structure minimized in 0 s, f = 1.70729.
+    Structure minimized in 1 s, f = 1.76538.
+    Structure minimized in 1 s, f = 2.24523.
+    Structure minimized in 1 s, f = 1.19396.
+    Structure minimized in 0 s, f = 2.37000.
+    Structure minimized in 1 s, f = 1.79699.
+    Structure minimized in 0 s, f = 1.44455.
+    Structure minimized in 1 s, f = 9.59942.
+    Structure minimized in 1 s, f = 1.24929.
+    Structure minimized in 1 s, f = 2.87643.
+    Structure minimized in 1 s, f = 8.80587.
+    Structure minimized in 0 s, f = 5.71426.
+    Structure minimized in 1 s, f = 1.10531.
+    Structure minimized in 0 s, f = 1.27851.
+    Structure minimized in 1 s, f = 3.18822.
+    Structure minimized in 0 s, f = 7.46765.
+    Structure minimized in 1 s, f = 8.03245.
+    Structure minimized in 1 s, f = 2.63715.
+    Structure minimized in 1 s, f = 1.59307.
+    Structure minimized in 1 s, f = 2.70926.
+    Structure minimized in 1 s, f = 2.46474.
+    Structure minimized in 1 s, f = 1.13419.
+    Structure minimized in 0 s, f = 6.21952.
+    Structure minimized in 1 s, f = 5.69670.
+    Structure minimized in 1 s, f = 6.41021.
+    Structure minimized in 1 s, f = 1.72707.
+    Structure minimized in 1 s, f = 2.31902.
+    Structure minimized in 1 s, f = 1.84763.
+    Structure minimized in 1 s, f = 2.12279.
+    Structure minimized in 1 s, f = 7.39469.
+    Structure minimized in 1 s, f = 0.889444.
+    Structure minimized in 0 s, f = 1.51367.
+    Structure minimized in 1 s, f = 1.51691.
+    Structure minimized in 1 s, f = 7.36950.
+    Structure minimized in 1 s, f = 3.00127.
+    Structure minimized in 1 s, f = 7.81285.
+    Structure minimized in 1 s, f = 5.69711.
+    Structure minimized in 1 s, f = 2.95592.
+    Structure minimized in 0 s, f = 4.07024.
+    Structure minimized in 0 s, f = 7.32881.
+    Structure minimized in 1 s, f = 6.44885.
+    Structure minimized in 1 s, f = 6.17948.
+    Structure minimized in 1 s, f = 3.86299.
+    Structure minimized in 1 s, f = 7.98884.
+    Structure minimized in 0 s, f = 6.57160.
+    Structure minimized in 0 s, f = 5.99105.
+    Structure minimized in 0 s, f = 0.975117.
+    Structure minimized in 0 s, f = 1.98288.
+    Structure minimized in 1 s, f = 6.33882.
+    Structure minimized in 1 s, f = 2.65909.
+    Structure minimized in 1 s, f = 3.27401.
+    Structure minimized in 1 s, f = 8.92815.
+    Structure minimized in 0 s, f = 1.59483.
+    Structure minimized in 1 s, f = 2.24566.
+    100 structures finished in 9 s (0 s/structure).
+    20 structures selected.
+    19415 distance restraints added.
+    4670 of 19415 distance restraints, 4670 of 19415 assignments selected.
+    7788 of 19415 distance restraints, 7788 of 19415 assignments selected.
+    Distance restraint file "cycle0.upl" written, 7788 upper limits, 7788 assignments.
+ 
+    =================== NOE assignment cycle 1 ===================
+ 
+    Library file "/Network/Servers/macsent1.uchc.edu/Volumes/raid/mattf/cyana/cyana-3.96/lib/cyana.lib" read, 38 residue types.
+    Sequence file "samp3.seq" read, 106 residues.
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "aromatic_gnoesy_chsqc.pks" read, 538 peaks, 0 assignments.
+    538 of 538 peaks, 538 of 538 assignments selected.
+    Volume of 538 peaks set.
+    Calibration constant for peak list 1: 8.24E+04
+    Upper limit set for 538 peaks.
+ 
+    Distance bounds:
+    All                    :   538 100.0%
+    Limit     -2.99 A      :    24   4.5%
+    Limit 3.00-3.99 A      :   247  45.9%
+    Limit 4.00-4.99 A      :   196  36.4%
+    Limit 5.00-5.99 A      :    70  13.0%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "aromatic_noesy.pks" read, 122 peaks, 0 assignments.
+    122 of 660 peaks, 122 of 660 assignments selected.
+    Volume of 122 peaks set.
+    Calibration constant for peak list 2: 1.45E+05
+    Upper limit set for 122 peaks.
+ 
+    Distance bounds:
+    All                    :   122 100.0%
+    Limit     -2.99 A      :    17  13.9%
+    Limit 3.00-3.99 A      :    51  41.8%
+    Limit 4.00-4.99 A      :    53  43.4%
+    Limit 5.00-5.99 A      :     0   0.0%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "D2O_noesy_chsqc.pks" read, 4352 peaks, 0 assignments.
+    4352 of 5012 peaks, 4352 of 5012 assignments selected.
+    Volume of 4352 peaks set.
+    Calibration constant for peak list 3: 1.74E+05
+    Upper limit set for 4352 peaks.
+ 
+    Distance bounds:
+    All                    :  4352 100.0%
+    Limit     -2.99 A      :   542  12.5%
+    Limit 3.00-3.99 A      :  1700  39.1%
+    Limit 4.00-4.99 A      :  1664  38.2%
+    Limit 5.00-5.99 A      :   445  10.2%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "noesy_nhsqc.pks" read, 1362 peaks, 0 assignments.
+    1362 of 6374 peaks, 1362 of 6374 assignments selected.
+    Volume of 1362 peaks set.
+    Calibration constant for peak list 4: 1.01E+05
+    Upper limit set for 1362 peaks.
+ 
+    Distance bounds:
+    All                    :  1362 100.0%
+    Limit     -2.99 A      :    45   3.3%
+    Limit 3.00-3.99 A      :   672  49.3%
+    Limit 4.00-4.99 A      :   575  42.2%
+    Limit 5.00-5.99 A      :    68   5.0%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    6374 of 6374 peaks, 6374 of 6374 assignments selected.
+    0 of 6374 peaks, 0 of 6374 assignments selected.
+    Assignment of 6374 peaks deleted.
+    6374 of 6374 peaks, 6374 of 6374 assignments selected.
+    Distance restraint file "cycle0.upl" read, 7788 upper limits, 7788 assignments.
+    3104 upper limits added, 26/1 at lower/upper bound, average 3.68 A.
+    172 duplicate distance restraints deleted.
+    1362 of 2932 distance restraints, 4284 of 8000 assignments selected.
+    1362 restraints: 2 unchanged, 1360 combined, 0 deleted.
+    2932 of 2932 distance restraints, 12274 of 12274 assignments selected.
+    374 distance restraints deleted.
+    Distance restraint file "cycle1.upl" written, 2558 upper limits, 11877 assignments.
+ 
+    Distance bounds:
+    All                    :  2558 100.0%
+    Intraresidue, |i-j|=0  :   461  18.0%
+    Sequential, |i-j|=1    :   735  28.7%
+    Short-range, |i-j|<=1  :  1196  46.8%
+    Medium-range, 1<|i-j|<5:   911  35.6%
+    Long-range, |i-j|>=5   :   451  17.6%
+    Limit     -2.99 A      :   356  13.9%
+    Limit 3.00-3.99 A      :  1857  72.6%
+    Limit 4.00-4.99 A      :   342  13.4%
+    Limit 5.00-5.99 A      :     2   0.1%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Ramachandran angle restraints for 87 residues added.
+    Rotamer angle restraints for 132 residues added.
+    Angle restraint file "cycle.aco" written, 1614 restraints for 306 angles.
+    Library file "/Network/Servers/macsent1.uchc.edu/Volumes/raid/mattf/cyana/cyana-3.96/lib/cyana.lib" read, 38 residue types.
+    Sequence file "samp3.seq" read, 106 residues.
+    Distance restraint file "cycle1.upl" read, 2558 upper limits, 11877 assignments.
+    Angle restraint file "aco.aco" read, 155 restraints for 155 angles.
+    Angle restraint file "cycle.aco" read, 1614 restraints for 306 angles.
+    100 structures selected.
+    100 random structures created (seed 434726).
+    Structure annealed in 19 s, f = 454.453.
+    Structure annealed in 19 s, f = 526.277.
+    Structure annealed in 19 s, f = 594.528.
+    Structure annealed in 19 s, f = 498.817.
+    Structure annealed in 18 s, f = 455.074.
+    Structure annealed in 19 s, f = 467.985.
+    Structure annealed in 19 s, f = 516.621.
+    Structure annealed in 20 s, f = 884.103.
+    Structure annealed in 18 s, f = 487.525.
+    Structure annealed in 18 s, f = 654.367.
+    Structure annealed in 18 s, f = 459.501.
+    Structure annealed in 18 s, f = 470.726.
+    Structure annealed in 18 s, f = 483.626.
+    Structure annealed in 19 s, f = 995.708.
+    Structure annealed in 18 s, f = 657.653.
+    Structure annealed in 18 s, f = 590.046.
+    Structure annealed in 18 s, f = 675.332.
+    Structure annealed in 18 s, f = 500.522.
+    Structure annealed in 18 s, f = 502.837.
+    Structure annealed in 18 s, f = 631.507.
+    Structure annealed in 18 s, f = 532.809.
+    Structure annealed in 18 s, f = 500.969.
+    Structure annealed in 18 s, f = 461.859.
+    Structure annealed in 18 s, f = 503.224.
+    Structure annealed in 19 s, f = 527.578.
+    Structure annealed in 19 s, f = 557.941.
+    Structure annealed in 19 s, f = 471.936.
+    Structure annealed in 19 s, f = 539.160.
+    Structure annealed in 19 s, f = 560.186.
+    Structure annealed in 19 s, f = 552.132.
+    Structure annealed in 19 s, f = 631.642.
+    Structure annealed in 19 s, f = 452.723.
+    Structure annealed in 18 s, f = 486.330.
+    Structure annealed in 18 s, f = 512.551.
+    Structure annealed in 18 s, f = 571.372.
+    Structure annealed in 18 s, f = 573.982.
+    Structure annealed in 18 s, f = 687.538.
+    Structure annealed in 18 s, f = 490.293.
+    Structure annealed in 18 s, f = 568.381.
+    Structure annealed in 18 s, f = 571.866.
+    Structure annealed in 18 s, f = 673.014.
+    Structure annealed in 18 s, f = 478.781.
+    Structure annealed in 18 s, f = 468.275.
+    Structure annealed in 18 s, f = 498.939.
+    Structure annealed in 18 s, f = 555.228.
+    Structure annealed in 19 s, f = 762.999.
+    Structure annealed in 18 s, f = 498.972.
+    Structure annealed in 18 s, f = 573.599.
+    Structure annealed in 19 s, f = 868.672.
+    Structure annealed in 18 s, f = 546.642.
+    Structure annealed in 18 s, f = 580.671.
+    Structure annealed in 18 s, f = 498.413.
+    Structure annealed in 18 s, f = 485.608.
+    Structure annealed in 18 s, f = 598.980.
+    Structure annealed in 19 s, f = 863.806.
+    Structure annealed in 18 s, f = 474.019.
+    Structure annealed in 18 s, f = 680.043.
+    Structure annealed in 18 s, f = 832.749.
+    Structure annealed in 19 s, f = 875.762.
+    Structure annealed in 18 s, f = 490.826.
+    Structure annealed in 18 s, f = 477.274.
+    Structure annealed in 18 s, f = 512.861.
+    Structure annealed in 17 s, f = 502.762.
+    Structure annealed in 18 s, f = 448.611.
+    Structure annealed in 18 s, f = 489.210.
+    Structure annealed in 18 s, f = 818.537.
+    Structure annealed in 18 s, f = 482.622.
+    Structure annealed in 18 s, f = 591.139.
+    Structure annealed in 18 s, f = 451.140.
+    Structure annealed in 18 s, f = 841.526.
+    Structure annealed in 18 s, f = 493.073.
+    Structure annealed in 18 s, f = 451.047.
+    Structure annealed in 18 s, f = 496.424.
+    Structure annealed in 19 s, f = 1235.33.
+    Structure annealed in 18 s, f = 511.845.
+    Structure annealed in 18 s, f = 521.858.
+    Structure annealed in 17 s, f = 498.668.
+    Structure annealed in 18 s, f = 500.932.
+    Structure annealed in 18 s, f = 474.209.
+    Structure annealed in 18 s, f = 652.514.
+    Structure annealed in 18 s, f = 467.598.
+    Structure annealed in 18 s, f = 444.293.
+    Structure annealed in 18 s, f = 572.227.
+    Structure annealed in 18 s, f = 514.088.
+    Structure annealed in 18 s, f = 684.226.
+    Structure annealed in 17 s, f = 586.327.
+    Structure annealed in 18 s, f = 513.433.
+    Structure annealed in 19 s, f = 1121.54.
+    Structure annealed in 18 s, f = 513.108.
+    Structure annealed in 18 s, f = 447.621.
+    Structure annealed in 19 s, f = 925.967.
+    Structure annealed in 19 s, f = 943.100.
+    Structure annealed in 18 s, f = 487.535.
+    Structure annealed in 18 s, f = 448.367.
+    Structure annealed in 18 s, f = 544.330.
+    Structure annealed in 18 s, f = 532.626.
+    Structure annealed in 16 s, f = 478.071.
+    Structure annealed in 16 s, f = 552.037.
+    Structure annealed in 16 s, f = 514.768.
+    Structure annealed in 16 s, f = 578.003.
+    100 structures finished in 246 s (2 s/structure).
+ 
+    Structural statistics:
+ 
+    str   target     upper limits    van der Waals   torsion angles
+        function   #    rms   max   #    sum   max   #    rms   max
+      1   444.29  13 0.1095  3.76 268  147.4  0.78  70 12.462 58.30
+      2   447.62  18 0.1074  3.63 292  155.3  0.75  66 14.187 94.39
+      3   448.37  17 0.1093  3.62 273  151.5  0.98  61 12.699 67.59
+      4   448.61  11 0.1097  3.37 285  147.1  0.86  63 12.771 74.64
+      5   451.05  17 0.1116  3.47 287  150.1  0.61  58 11.460 55.95
+      6   451.14  18 0.1101  3.60 283  149.6  0.81  65 12.693 51.16
+      7   452.71  16 0.1061  2.71 296  168.6  1.27  77 13.905 69.86
+      8   454.45  20 0.1113  2.67 275  149.3  0.95  60 11.526 50.66
+      9   455.07  20 0.1099  3.95 255  144.8  0.81  56 13.932 63.54
+     10   459.50  19 0.1084  3.68 300  162.3  0.87  66 14.626 68.83
+     11   461.86  15 0.1084  2.95 286  156.0  0.73  66 15.395 90.50
+     12   467.60  24 0.1126  3.06 290  155.4  0.78  62 12.064 70.53
+     13   468.09  15 0.1089  3.55 304  161.6  0.79  64 14.603 62.42
+     14   468.28  16 0.1100  2.54 307  170.5  0.81  67 13.331 74.08
+     15   470.73  19 0.1084  2.63 330  171.0  0.82  66 14.843 57.69
+     16   471.94  21 0.1121  3.78 313  164.1  0.87  63 11.517 39.56
+     17   473.91  19 0.1113  4.28 293  168.7  0.86  68 12.843 45.49
+     18   474.21  16 0.1101  2.66 322  169.8  0.85  73 13.955 56.50
+     19   477.27  16 0.1112  3.75 289  158.5  0.80  62 14.524 67.03
+     20   478.07  19 0.1121  4.32 330  168.1  0.84  66 12.569 51.34
+ 
+    Ave   461.24  17 0.1099  3.40 294  158.5  0.84  65 13.295 63.50
+    +/-    10.90   3 0.0017  0.54  19    8.7  0.12   5  1.170 13.41
+    Min   444.29  11 0.1061  2.54 255  144.8  0.61  56 11.460 39.56
+    Max   478.07  24 0.1126  4.32 330  171.0  1.27  77 15.395 94.39
+    Cut                      1.50             0.20             5.00
+    Overview file "cycle1.ovw" written.
+    PDB coordinate file "cycle1.pdb" written, 20 conformers.
+    Computation time for cycle 1: 259 s
+ 
+    =================== NOE assignment cycle 2 ===================
+ 
+    Library file "/Network/Servers/macsent1.uchc.edu/Volumes/raid/mattf/cyana/cyana-3.96/lib/cyana.lib" read, 38 residue types.
+    Sequence file "samp3.seq" read, 106 residues.
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "aromatic_gnoesy_chsqc.pks" read, 538 peaks, 0 assignments.
+    538 of 538 peaks, 538 of 538 assignments selected.
+    Volume of 538 peaks set.
+    Calibration constant for peak list 1: 8.24E+04
+    Upper limit set for 538 peaks.
+ 
+    Distance bounds:
+    All                    :   538 100.0%
+    Limit     -2.99 A      :    24   4.5%
+    Limit 3.00-3.99 A      :   247  45.9%
+    Limit 4.00-4.99 A      :   196  36.4%
+    Limit 5.00-5.99 A      :    70  13.0%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "aromatic_noesy.pks" read, 122 peaks, 0 assignments.
+    122 of 660 peaks, 122 of 660 assignments selected.
+    Volume of 122 peaks set.
+    Calibration constant for peak list 2: 1.45E+05
+    Upper limit set for 122 peaks.
+ 
+    Distance bounds:
+    All                    :   122 100.0%
+    Limit     -2.99 A      :    17  13.9%
+    Limit 3.00-3.99 A      :    51  41.8%
+    Limit 4.00-4.99 A      :    53  43.4%
+    Limit 5.00-5.99 A      :     0   0.0%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "D2O_noesy_chsqc.pks" read, 4352 peaks, 0 assignments.
+    4352 of 5012 peaks, 4352 of 5012 assignments selected.
+    Volume of 4352 peaks set.
+    Calibration constant for peak list 3: 1.74E+05
+    Upper limit set for 4352 peaks.
+ 
+    Distance bounds:
+    All                    :  4352 100.0%
+    Limit     -2.99 A      :   542  12.5%
+    Limit 3.00-3.99 A      :  1700  39.1%
+    Limit 4.00-4.99 A      :  1664  38.2%
+    Limit 5.00-5.99 A      :   445  10.2%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "noesy_nhsqc.pks" read, 1362 peaks, 0 assignments.
+    1362 of 6374 peaks, 1362 of 6374 assignments selected.
+    Volume of 1362 peaks set.
+    Calibration constant for peak list 4: 1.01E+05
+    Upper limit set for 1362 peaks.
+ 
+    Distance bounds:
+    All                    :  1362 100.0%
+    Limit     -2.99 A      :    45   3.3%
+    Limit 3.00-3.99 A      :   672  49.3%
+    Limit 4.00-4.99 A      :   575  42.2%
+    Limit 5.00-5.99 A      :    68   5.0%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    6374 of 6374 peaks, 6374 of 6374 assignments selected.
+    0 of 6374 peaks, 0 of 6374 assignments selected.
+    Assignment of 6374 peaks deleted.
+    6374 of 6374 peaks, 6374 of 6374 assignments selected.
+    Distance restraint file "cycle1.upl" read, 2558 upper limits, 11877 assignments.
+    PDB coordinate file "cycle1.pdb" read, 20 flexible conformers.
+    Distance restraint file "cycle0.upl" read, 7788 upper limits, 7788 assignments.
+    3026 upper limits added, 27/1 at lower/upper bound, average 3.67 A.
+    309 duplicate distance restraints deleted.
+    1241 of 2717 distance restraints, 1649 of 3812 assignments selected.
+    1241 restraints: 1 unchanged, 1240 combined, 0 deleted.
+    2717 of 2717 distance restraints, 5457 of 5457 assignments selected.
+    422 distance restraints deleted.
+    Distance restraint file "cycle2.upl" written, 2295 upper limits, 4868 assignments.
+ 
+    Distance bounds:
+    All                    :  2295 100.0%
+    Intraresidue, |i-j|=0  :   435  19.0%
+    Sequential, |i-j|=1    :   619  27.0%
+    Short-range, |i-j|<=1  :  1054  45.9%
+    Medium-range, 1<|i-j|<5:   766  33.4%
+    Long-range, |i-j|>=5   :   475  20.7%
+    Limit     -2.99 A      :   339  14.8%
+    Limit 3.00-3.99 A      :  1661  72.4%
+    Limit 4.00-4.99 A      :   292  12.7%
+    Limit 5.00-5.99 A      :     2   0.1%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Library file "/Network/Servers/macsent1.uchc.edu/Volumes/raid/mattf/cyana/cyana-3.96/lib/cyana.lib" read, 38 residue types.
+    Sequence file "samp3.seq" read, 106 residues.
+    Distance restraint file "cycle2.upl" read, 2295 upper limits, 4868 assignments.
+    Angle restraint file "aco.aco" read, 155 restraints for 155 angles.
+    Angle restraint file "cycle.aco" read, 1614 restraints for 306 angles.
+    100 structures selected.
+    100 random structures created (seed 434726).
+    Structure annealed in 10 s, f = 256.944.
+    Structure annealed in 10 s, f = 262.538.
+    Structure annealed in 10 s, f = 264.661.
+    Structure annealed in 11 s, f = 275.850.
+    Structure annealed in 10 s, f = 258.471.
+    Structure annealed in 10 s, f = 261.067.
+    Structure annealed in 10 s, f = 264.937.
+    Structure annealed in 10 s, f = 254.651.
+    Structure annealed in 10 s, f = 264.451.
+    Structure annealed in 10 s, f = 265.748.
+    Structure annealed in 10 s, f = 246.163.
+    Structure annealed in 10 s, f = 258.273.
+    Structure annealed in 10 s, f = 247.566.
+    Structure annealed in 11 s, f = 256.409.
+    Structure annealed in 10 s, f = 249.880.
+    Structure annealed in 10 s, f = 240.312.
+    Structure annealed in 10 s, f = 266.331.
+    Structure annealed in 10 s, f = 255.056.
+    Structure annealed in 10 s, f = 283.981.
+    Structure annealed in 11 s, f = 257.837.
+    Structure annealed in 10 s, f = 257.239.
+    Structure annealed in 10 s, f = 256.557.
+    Structure annealed in 10 s, f = 245.813.
+    Structure annealed in 10 s, f = 245.635.
+    Structure annealed in 10 s, f = 265.391.
+    Structure annealed in 10 s, f = 256.871.
+    Structure annealed in 10 s, f = 258.077.
+    Structure annealed in 10 s, f = 269.294.
+    Structure annealed in 10 s, f = 268.656.
+    Structure annealed in 11 s, f = 338.584.
+    Structure annealed in 11 s, f = 298.600.
+    Structure annealed in 10 s, f = 252.045.
+    Structure annealed in 10 s, f = 260.191.
+    Structure annealed in 10 s, f = 246.122.
+    Structure annealed in 10 s, f = 266.325.
+    Structure annealed in 10 s, f = 250.064.
+    Structure annealed in 10 s, f = 248.700.
+    Structure annealed in 10 s, f = 259.892.
+    Structure annealed in 10 s, f = 250.469.
+    Structure annealed in 10 s, f = 255.739.
+    Structure annealed in 10 s, f = 251.476.
+    Structure annealed in 10 s, f = 260.324.
+    Structure annealed in 10 s, f = 251.793.
+    Structure annealed in 10 s, f = 329.341.
+    Structure annealed in 10 s, f = 253.710.
+    Structure annealed in 10 s, f = 243.762.
+    Structure annealed in 10 s, f = 253.808.
+    Structure annealed in 10 s, f = 264.764.
+    Structure annealed in 10 s, f = 272.172.
+    Structure annealed in 10 s, f = 254.432.
+    Structure annealed in 10 s, f = 281.992.
+    Structure annealed in 10 s, f = 262.817.
+    Structure annealed in 10 s, f = 292.234.
+    Structure annealed in 10 s, f = 267.510.
+    Structure annealed in 10 s, f = 253.247.
+    Structure annealed in 10 s, f = 263.666.
+    Structure annealed in 10 s, f = 262.662.
+    Structure annealed in 10 s, f = 263.484.
+    Structure annealed in 11 s, f = 258.758.
+    Structure annealed in 10 s, f = 291.491.
+    Structure annealed in 10 s, f = 262.705.
+    Structure annealed in 10 s, f = 250.445.
+    Structure annealed in 10 s, f = 261.912.
+    Structure annealed in 11 s, f = 276.356.
+    Structure annealed in 10 s, f = 268.279.
+    Structure annealed in 10 s, f = 243.709.
+    Structure annealed in 10 s, f = 248.579.
+    Structure annealed in 10 s, f = 246.711.
+    Structure annealed in 10 s, f = 243.129.
+    Structure annealed in 10 s, f = 267.798.
+    Structure annealed in 10 s, f = 267.930.
+    Structure annealed in 10 s, f = 267.915.
+    Structure annealed in 10 s, f = 253.574.
+    Structure annealed in 10 s, f = 263.127.
+    Structure annealed in 10 s, f = 247.923.
+    Structure annealed in 10 s, f = 251.483.
+    Structure annealed in 10 s, f = 255.651.
+    Structure annealed in 10 s, f = 244.395.
+    Structure annealed in 10 s, f = 275.621.
+    Structure annealed in 10 s, f = 247.675.
+    Structure annealed in 11 s, f = 262.983.
+    Structure annealed in 10 s, f = 265.058.
+    Structure annealed in 10 s, f = 257.814.
+    Structure annealed in 10 s, f = 245.958.
+    Structure annealed in 10 s, f = 270.490.
+    Structure annealed in 10 s, f = 243.736.
+    Structure annealed in 10 s, f = 249.933.
+    Structure annealed in 10 s, f = 250.656.
+    Structure annealed in 11 s, f = 251.194.
+    Structure annealed in 11 s, f = 254.198.
+    Structure annealed in 10 s, f = 261.556.
+    Structure annealed in 10 s, f = 250.701.
+    Structure annealed in 10 s, f = 252.243.
+    Structure annealed in 11 s, f = 291.357.
+    Structure annealed in 11 s, f = 257.955.
+    Structure annealed in 10 s, f = 266.294.
+    Structure annealed in 10 s, f = 262.441.
+    Structure annealed in 10 s, f = 256.352.
+    Structure annealed in 10 s, f = 273.063.
+    Structure annealed in 10 s, f = 246.490.
+    100 structures finished in 140 s (1 s/structure).
+ 
+    Structural statistics:
+ 
+    str   target     upper limits    van der Waals   torsion angles
+        function   #    rms   max   #    sum   max   #    rms   max
+      1   240.31  41 0.1186  1.88 155  100.6  0.83  43 10.027 48.31
+      2   243.13  40 0.1183  1.61 154   99.1  0.90  51 10.709 60.37
+      3   243.71  49 0.1212  1.78 142   95.2  0.77  49 10.048 42.01
+      4   243.74  38 0.1182  1.57 164  102.2  0.83  48 10.555 53.45
+      5   243.76  41 0.1205  2.02 156   99.1  0.86  46  9.677 48.53
+      6   244.40  48 0.1202  1.91 131   94.4  0.93  53 10.689 47.83
+      7   245.64  45 0.1205  2.41 156   98.7  0.92  46 10.018 47.33
+      8   245.81  44 0.1196  1.84 155  100.6  0.79  52 10.892 61.19
+      9   245.96  46 0.1203  1.79 167  102.0  0.90  48  9.652 46.39
+     10   246.12  43 0.1196  1.92 164  105.0  0.89  49  9.972 49.38
+     11   246.16  43 0.1194  1.79 176  106.8  0.76  58 10.171 50.47
+     12   246.49  39 0.1194  2.25 150  100.2  0.89  47 11.081 55.65
+     13   246.71  46 0.1218  2.01 151   95.9  0.72  48 10.388 47.97
+     14   247.57  45 0.1193  1.57 151  103.0  0.91  50 11.405 63.20
+     15   247.66  43 0.1207  1.78 146  100.3  0.89  44 10.651 56.85
+     16   247.92  45 0.1207  1.82 162  100.0  0.81  53 10.323 49.83
+     17   248.58  46 0.1222  1.68 143   95.2  0.89  41  9.777 52.83
+     18   248.70  46 0.1196  2.01 175  109.4  0.85  46  9.992 50.86
+     19   249.88  40 0.1184  1.81 189  112.6  0.83  54 10.863 57.86
+     20   249.93  39 0.1195  1.72 184  108.0  0.91  48 10.360 49.72
+ 
+    Ave   246.11  43 0.1199  1.86 159  101.4  0.85  49 10.363 52.00
+    +/-     2.37   3 0.0011  0.21  14    4.8  0.06   4  0.472  5.42
+    Min   240.31  38 0.1182  1.57 131   94.4  0.72  41  9.652 42.01
+    Max   249.93  49 0.1222  2.41 189  112.6  0.93  58 11.405 63.20
+    Cut                      0.90             0.20             5.00
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+*** WARNING: Degenerate atom configuration for RMSD calculation.
+    Overview file "cycle2.ovw" written.
+    PDB coordinate file "cycle2.pdb" written, 20 conformers.
+    Computation time for cycle 2: 150 s
+ 
+    =================== NOE assignment cycle 3 ===================
+ 
+    Library file "/Network/Servers/macsent1.uchc.edu/Volumes/raid/mattf/cyana/cyana-3.96/lib/cyana.lib" read, 38 residue types.
+    Sequence file "samp3.seq" read, 106 residues.
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "aromatic_gnoesy_chsqc.pks" read, 538 peaks, 0 assignments.
+    538 of 538 peaks, 538 of 538 assignments selected.
+    Volume of 538 peaks set.
+    Calibration constant for peak list 1: 8.24E+04
+    Upper limit set for 538 peaks.
+ 
+    Distance bounds:
+    All                    :   538 100.0%
+    Limit     -2.99 A      :    24   4.5%
+    Limit 3.00-3.99 A      :   247  45.9%
+    Limit 4.00-4.99 A      :   196  36.4%
+    Limit 5.00-5.99 A      :    70  13.0%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "aromatic_noesy.pks" read, 122 peaks, 0 assignments.
+    122 of 660 peaks, 122 of 660 assignments selected.
+    Volume of 122 peaks set.
+    Calibration constant for peak list 2: 1.45E+05
+    Upper limit set for 122 peaks.
+ 
+    Distance bounds:
+    All                    :   122 100.0%
+    Limit     -2.99 A      :    17  13.9%
+    Limit 3.00-3.99 A      :    51  41.8%
+    Limit 4.00-4.99 A      :    53  43.4%
+    Limit 5.00-5.99 A      :     0   0.0%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "D2O_noesy_chsqc.pks" read, 4352 peaks, 0 assignments.
+    4352 of 5012 peaks, 4352 of 5012 assignments selected.
+    Volume of 4352 peaks set.
+    Calibration constant for peak list 3: 1.74E+05
+    Upper limit set for 4352 peaks.
+ 
+    Distance bounds:
+    All                    :  4352 100.0%
+    Limit     -2.99 A      :   542  12.5%
+    Limit 3.00-3.99 A      :  1700  39.1%
+    Limit 4.00-4.99 A      :  1664  38.2%
+    Limit 5.00-5.99 A      :   445  10.2%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "noesy_nhsqc.pks" read, 1362 peaks, 0 assignments.
+    1362 of 6374 peaks, 1362 of 6374 assignments selected.
+    Volume of 1362 peaks set.
+    Calibration constant for peak list 4: 1.01E+05
+    Upper limit set for 1362 peaks.
+ 
+    Distance bounds:
+    All                    :  1362 100.0%
+    Limit     -2.99 A      :    45   3.3%
+    Limit 3.00-3.99 A      :   672  49.3%
+    Limit 4.00-4.99 A      :   575  42.2%
+    Limit 5.00-5.99 A      :    68   5.0%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    6374 of 6374 peaks, 6374 of 6374 assignments selected.
+    0 of 6374 peaks, 0 of 6374 assignments selected.
+    Assignment of 6374 peaks deleted.
+    6374 of 6374 peaks, 6374 of 6374 assignments selected.
+    Distance restraint file "cycle2.upl" read, 2295 upper limits, 4868 assignments.
+    PDB coordinate file "cycle2.pdb" read, 20 flexible conformers.
+    Distance restraint file "cycle0.upl" read, 7788 upper limits, 7788 assignments.
+    2808 upper limits added, 27/1 at lower/upper bound, average 3.65 A.
+    374 duplicate distance restraints deleted.
+    402 distance restraints deleted.
+    Distance restraint file "cycle3.upl" written, 2032 upper limits, 2473 assignments.
+ 
+    Distance bounds:
+    All                    :  2032 100.0%
+    Intraresidue, |i-j|=0  :   418  20.6%
+    Sequential, |i-j|=1    :   524  25.8%
+    Short-range, |i-j|<=1  :   942  46.4%
+    Medium-range, 1<|i-j|<5:   392  19.3%
+    Long-range, |i-j|>=5   :   698  34.4%
+    Limit     -2.99 A      :   204  10.0%
+    Limit 3.00-3.99 A      :  1132  55.7%
+    Limit 4.00-4.99 A      :   687  33.8%
+    Limit 5.00-5.99 A      :     7   0.3%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Library file "/Network/Servers/macsent1.uchc.edu/Volumes/raid/mattf/cyana/cyana-3.96/lib/cyana.lib" read, 38 residue types.
+    Sequence file "samp3.seq" read, 106 residues.
+    Distance restraint file "cycle3.upl" read, 2032 upper limits, 2473 assignments.
+    Angle restraint file "aco.aco" read, 155 restraints for 155 angles.
+    Angle restraint file "cycle.aco" read, 1614 restraints for 306 angles.
+    100 structures selected.
+    100 random structures created (seed 434726).
+    Structure annealed in 8 s, f = 378.505.
+    Structure annealed in 8 s, f = 433.452.
+    Structure annealed in 8 s, f = 386.230.
+    Structure annealed in 8 s, f = 389.052.
+    Structure annealed in 8 s, f = 340.770.
+    Structure annealed in 8 s, f = 372.916.
+    Structure annealed in 8 s, f = 331.592.
+    Structure annealed in 8 s, f = 388.364.
+    Structure annealed in 8 s, f = 361.400.
+    Structure annealed in 8 s, f = 341.068.
+    Structure annealed in 8 s, f = 346.886.
+    Structure annealed in 8 s, f = 348.015.
+    Structure annealed in 8 s, f = 388.110.
+    Structure annealed in 8 s, f = 354.380.
+    Structure annealed in 8 s, f = 392.802.
+    Structure annealed in 8 s, f = 388.801.
+    Structure annealed in 8 s, f = 381.207.
+    Structure annealed in 8 s, f = 355.738.
+    Structure annealed in 8 s, f = 391.408.
+    Structure annealed in 8 s, f = 351.552.
+    Structure annealed in 8 s, f = 407.395.
+    Structure annealed in 8 s, f = 353.907.
+    Structure annealed in 8 s, f = 365.676.
+    Structure annealed in 8 s, f = 363.650.
+    Structure annealed in 8 s, f = 430.645.
+    Structure annealed in 8 s, f = 327.481.
+    Structure annealed in 8 s, f = 389.717.
+    Structure annealed in 8 s, f = 419.646.
+    Structure annealed in 8 s, f = 359.579.
+    Structure annealed in 8 s, f = 404.893.
+    Structure annealed in 8 s, f = 349.592.
+    Structure annealed in 8 s, f = 365.629.
+    Structure annealed in 8 s, f = 319.282.
+    Structure annealed in 8 s, f = 357.426.
+    Structure annealed in 8 s, f = 356.391.
+    Structure annealed in 8 s, f = 375.392.
+    Structure annealed in 8 s, f = 321.126.
+    Structure annealed in 8 s, f = 359.773.
+    Structure annealed in 8 s, f = 330.822.
+    Structure annealed in 8 s, f = 333.711.
+    Structure annealed in 8 s, f = 352.023.
+    Structure annealed in 8 s, f = 320.756.
+    Structure annealed in 8 s, f = 334.399.
+    Structure annealed in 8 s, f = 362.516.
+    Structure annealed in 8 s, f = 337.638.
+    Structure annealed in 8 s, f = 334.610.
+    Structure annealed in 8 s, f = 340.024.
+    Structure annealed in 8 s, f = 368.515.
+    Structure annealed in 8 s, f = 477.066.
+    Structure annealed in 8 s, f = 343.928.
+    Structure annealed in 8 s, f = 365.181.
+    Structure annealed in 8 s, f = 412.552.
+    Structure annealed in 8 s, f = 370.762.
+    Structure annealed in 8 s, f = 381.298.
+    Structure annealed in 8 s, f = 347.541.
+    Structure annealed in 8 s, f = 324.113.
+    Structure annealed in 8 s, f = 341.145.
+    Structure annealed in 8 s, f = 362.478.
+    Structure annealed in 8 s, f = 349.517.
+    Structure annealed in 8 s, f = 352.537.
+    Structure annealed in 8 s, f = 498.825.
+    Structure annealed in 8 s, f = 405.882.
+    Structure annealed in 8 s, f = 399.957.
+    Structure annealed in 8 s, f = 353.993.
+    Structure annealed in 8 s, f = 356.365.
+    Structure annealed in 8 s, f = 387.956.
+    Structure annealed in 8 s, f = 479.763.
+    Structure annealed in 8 s, f = 337.100.
+    Structure annealed in 8 s, f = 330.094.
+    Structure annealed in 8 s, f = 341.005.
+    Structure annealed in 8 s, f = 361.102.
+    Structure annealed in 8 s, f = 359.714.
+    Structure annealed in 8 s, f = 359.455.
+    Structure annealed in 8 s, f = 374.743.
+    Structure annealed in 8 s, f = 427.283.
+    Structure annealed in 8 s, f = 323.823.
+    Structure annealed in 8 s, f = 330.945.
+    Structure annealed in 8 s, f = 428.678.
+    Structure annealed in 8 s, f = 377.798.
+    Structure annealed in 8 s, f = 513.089.
+    Structure annealed in 8 s, f = 381.526.
+    Structure annealed in 8 s, f = 356.279.
+    Structure annealed in 8 s, f = 336.178.
+    Structure annealed in 8 s, f = 401.907.
+    Structure annealed in 8 s, f = 352.548.
+    Structure annealed in 9 s, f = 690.420.
+    Structure annealed in 8 s, f = 439.131.
+    Structure annealed in 8 s, f = 407.759.
+    Structure annealed in 8 s, f = 335.891.
+    Structure annealed in 8 s, f = 385.156.
+    Structure annealed in 8 s, f = 351.322.
+    Structure annealed in 8 s, f = 375.831.
+    Structure annealed in 8 s, f = 440.658.
+    Structure annealed in 8 s, f = 371.186.
+    Structure annealed in 8 s, f = 354.776.
+    Structure annealed in 8 s, f = 427.280.
+    Structure annealed in 8 s, f = 351.967.
+    Structure annealed in 8 s, f = 403.850.
+    Structure annealed in 8 s, f = 418.800.
+    Structure annealed in 8 s, f = 322.826.
+    100 structures finished in 110 s (1 s/structure).
+ 
+    Structural statistics:
+ 
+    str   target     upper limits    van der Waals   torsion angles
+        function   #    rms   max   #    sum   max   #    rms   max
+      1   319.28 195 0.1955  2.50 231  131.0  0.78  49 11.398 52.65
+      2   320.76 208 0.1963  2.74 229  128.9  0.77  50 11.393 58.63
+      3   321.13 200 0.1957  2.91 235  133.3  0.75  55 11.301 57.59
+      4   322.83 198 0.1985  2.68 210  127.9  0.75  57 11.356 53.26
+      5   323.82 219 0.1975  2.76 239  131.3  0.75  54 11.251 56.47
+      6   324.11 215 0.2001  2.44 214  127.4  0.82  51 11.100 56.79
+      7   327.48 211 0.2031  2.67 196  115.5  0.78  52 11.549 55.55
+      8   330.10 211 0.2001  1.80 250  132.6  0.75  55 11.160 52.33
+      9   330.82 216 0.1982  1.66 242  138.8  0.77  55 11.353 58.40
+     10   330.94 214 0.2003  2.70 227  128.9  0.76  61 11.565 55.04
+     11   331.59 213 0.1979  2.62 255  140.6  0.78  57 11.324 58.65
+     12   333.71 217 0.2002  2.28 252  136.4  0.91  44 10.897 51.00
+     13   334.40 219 0.1997  2.77 256  138.9  0.74  53 11.608 55.76
+     14   334.61 222 0.1983  1.67 245  139.8  0.86  50 11.299 56.37
+     15   335.89 210 0.2008  2.52 247  135.9  0.80  58 11.452 54.64
+     16   336.18 224 0.2002  1.75 241  135.2  0.76  53 12.083 76.47
+     17   337.10 203 0.2024  2.68 241  134.6  0.68  56 11.504 53.61
+     18   337.64 207 0.2036  2.46 232  130.0  0.77  56 11.328 55.57
+     19   340.02 221 0.2024  2.42 255  139.4  0.83  51 10.919 52.32
+     20   340.77 210 0.2008  2.21 264  142.1  0.79  55 11.668 58.88
+ 
+    Ave   330.66 212 0.1996  2.41 238  133.4  0.78  54 11.375 56.50
+    +/-     6.55   8 0.0023  0.38  17    6.0  0.05   4  0.257  5.12
+    Min   319.28 195 0.1955  1.66 196  115.5  0.68  44 10.897 51.00
+    Max   340.77 224 0.2036  2.91 264  142.1  0.91  61 12.083 76.47
+    Cut                      0.60             0.20             5.00
+    Overview file "cycle3.ovw" written.
+    PDB coordinate file "cycle3.pdb" written, 20 conformers.
+    Computation time for cycle 3: 118 s
+ 
+    =================== NOE assignment cycle 4 ===================
+ 
+    Library file "/Network/Servers/macsent1.uchc.edu/Volumes/raid/mattf/cyana/cyana-3.96/lib/cyana.lib" read, 38 residue types.
+    Sequence file "samp3.seq" read, 106 residues.
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "aromatic_gnoesy_chsqc.pks" read, 538 peaks, 0 assignments.
+    538 of 538 peaks, 538 of 538 assignments selected.
+    Volume of 538 peaks set.
+    Calibration constant for peak list 1: 8.24E+04
+    Upper limit set for 538 peaks.
+ 
+    Distance bounds:
+    All                    :   538 100.0%
+    Limit     -2.99 A      :    24   4.5%
+    Limit 3.00-3.99 A      :   247  45.9%
+    Limit 4.00-4.99 A      :   196  36.4%
+    Limit 5.00-5.99 A      :    70  13.0%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "aromatic_noesy.pks" read, 122 peaks, 0 assignments.
+    122 of 660 peaks, 122 of 660 assignments selected.
+    Volume of 122 peaks set.
+    Calibration constant for peak list 2: 1.45E+05
+    Upper limit set for 122 peaks.
+ 
+    Distance bounds:
+    All                    :   122 100.0%
+    Limit     -2.99 A      :    17  13.9%
+    Limit 3.00-3.99 A      :    51  41.8%
+    Limit 4.00-4.99 A      :    53  43.4%
+    Limit 5.00-5.99 A      :     0   0.0%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "D2O_noesy_chsqc.pks" read, 4352 peaks, 0 assignments.
+    4352 of 5012 peaks, 4352 of 5012 assignments selected.
+    Volume of 4352 peaks set.
+    Calibration constant for peak list 3: 1.74E+05
+    Upper limit set for 4352 peaks.
+ 
+    Distance bounds:
+    All                    :  4352 100.0%
+    Limit     -2.99 A      :   542  12.5%
+    Limit 3.00-3.99 A      :  1700  39.1%
+    Limit 4.00-4.99 A      :  1664  38.2%
+    Limit 5.00-5.99 A      :   445  10.2%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "noesy_nhsqc.pks" read, 1362 peaks, 0 assignments.
+    1362 of 6374 peaks, 1362 of 6374 assignments selected.
+    Volume of 1362 peaks set.
+    Calibration constant for peak list 4: 1.01E+05
+    Upper limit set for 1362 peaks.
+ 
+    Distance bounds:
+    All                    :  1362 100.0%
+    Limit     -2.99 A      :    45   3.3%
+    Limit 3.00-3.99 A      :   672  49.3%
+    Limit 4.00-4.99 A      :   575  42.2%
+    Limit 5.00-5.99 A      :    68   5.0%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    6374 of 6374 peaks, 6374 of 6374 assignments selected.
+    0 of 6374 peaks, 0 of 6374 assignments selected.
+    Assignment of 6374 peaks deleted.
+    6374 of 6374 peaks, 6374 of 6374 assignments selected.
+    Distance restraint file "cycle3.upl" read, 2032 upper limits, 2473 assignments.
+    PDB coordinate file "cycle3.pdb" read, 20 flexible conformers.
+    Distance restraint file "cycle0.upl" read, 7788 upper limits, 7788 assignments.
+    2761 upper limits added, 24/14 at lower/upper bound, average 3.85 A.
+    393 duplicate distance restraints deleted.
+    419 distance restraints deleted.
+    Distance restraint file "cycle4.upl" written, 1949 upper limits, 2346 assignments.
+ 
+    Distance bounds:
+    All                    :  1949 100.0%
+    Intraresidue, |i-j|=0  :   395  20.3%
+    Sequential, |i-j|=1    :   507  26.0%
+    Short-range, |i-j|<=1  :   902  46.3%
+    Medium-range, 1<|i-j|<5:   379  19.4%
+    Long-range, |i-j|>=5   :   668  34.3%
+    Limit     -2.99 A      :   143   7.3%
+    Limit 3.00-3.99 A      :   823  42.2%
+    Limit 4.00-4.99 A      :   863  44.3%
+    Limit 5.00-5.99 A      :   119   6.1%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Library file "/Network/Servers/macsent1.uchc.edu/Volumes/raid/mattf/cyana/cyana-3.96/lib/cyana.lib" read, 38 residue types.
+    Sequence file "samp3.seq" read, 106 residues.
+    Distance restraint file "cycle4.upl" read, 1949 upper limits, 2346 assignments.
+    Angle restraint file "aco.aco" read, 155 restraints for 155 angles.
+    Angle restraint file "cycle.aco" read, 1614 restraints for 306 angles.
+    100 structures selected.
+    100 random structures created (seed 434726).
+    Structure annealed in 7 s, f = 100.885.
+    Structure annealed in 7 s, f = 101.736.
+    Structure annealed in 7 s, f = 118.874.
+    Structure annealed in 7 s, f = 100.531.
+    Structure annealed in 7 s, f = 102.835.
+    Structure annealed in 7 s, f = 81.3486.
+    Structure annealed in 7 s, f = 127.488.
+    Structure annealed in 7 s, f = 104.733.
+    Structure annealed in 7 s, f = 104.894.
+    Structure annealed in 7 s, f = 143.812.
+    Structure annealed in 7 s, f = 89.1164.
+    Structure annealed in 7 s, f = 87.7422.
+    Structure annealed in 7 s, f = 111.090.
+    Structure annealed in 7 s, f = 141.407.
+    Structure annealed in 7 s, f = 104.934.
+    Structure annealed in 7 s, f = 99.9154.
+    Structure annealed in 7 s, f = 107.079.
+    Structure annealed in 7 s, f = 119.502.
+    Structure annealed in 7 s, f = 170.719.
+    Structure annealed in 7 s, f = 124.956.
+    Structure annealed in 7 s, f = 110.534.
+    Structure annealed in 7 s, f = 109.147.
+    Structure annealed in 7 s, f = 115.729.
+    Structure annealed in 7 s, f = 118.116.
+    Structure annealed in 7 s, f = 88.4920.
+    Structure annealed in 7 s, f = 100.035.
+    Structure annealed in 7 s, f = 94.9933.
+    Structure annealed in 7 s, f = 135.218.
+    Structure annealed in 7 s, f = 98.0166.
+    Structure annealed in 7 s, f = 143.177.
+    Structure annealed in 7 s, f = 94.6345.
+    Structure annealed in 7 s, f = 98.9906.
+    Structure annealed in 7 s, f = 131.820.
+    Structure annealed in 7 s, f = 141.867.
+    Structure annealed in 7 s, f = 84.2926.
+    Structure annealed in 7 s, f = 114.194.
+    Structure annealed in 7 s, f = 93.7616.
+    Structure annealed in 7 s, f = 137.927.
+    Structure annealed in 7 s, f = 147.725.
+    Structure annealed in 7 s, f = 102.300.
+    Structure annealed in 7 s, f = 113.304.
+    Structure annealed in 7 s, f = 108.982.
+    Structure annealed in 7 s, f = 178.662.
+    Structure annealed in 7 s, f = 96.3744.
+    Structure annealed in 7 s, f = 99.9284.
+    Structure annealed in 7 s, f = 105.813.
+    Structure annealed in 7 s, f = 102.056.
+    Structure annealed in 7 s, f = 105.214.
+    Structure annealed in 7 s, f = 92.2924.
+    Structure annealed in 7 s, f = 96.3384.
+    Structure annealed in 7 s, f = 98.3473.
+    Structure annealed in 7 s, f = 92.4020.
+    Structure annealed in 7 s, f = 119.226.
+    Structure annealed in 7 s, f = 136.558.
+    Structure annealed in 7 s, f = 105.770.
+    Structure annealed in 7 s, f = 109.802.
+    Structure annealed in 7 s, f = 105.033.
+    Structure annealed in 7 s, f = 103.139.
+    Structure annealed in 7 s, f = 101.511.
+    Structure annealed in 7 s, f = 114.865.
+    Structure annealed in 7 s, f = 102.111.
+    Structure annealed in 7 s, f = 102.524.
+    Structure annealed in 7 s, f = 109.302.
+    Structure annealed in 7 s, f = 130.915.
+    Structure annealed in 7 s, f = 120.393.
+    Structure annealed in 7 s, f = 93.6135.
+    Structure annealed in 7 s, f = 92.2242.
+    Structure annealed in 7 s, f = 87.5776.
+    Structure annealed in 7 s, f = 117.526.
+    Structure annealed in 7 s, f = 90.4464.
+    Structure annealed in 7 s, f = 89.0764.
+    Structure annealed in 7 s, f = 80.3210.
+    Structure annealed in 7 s, f = 116.942.
+    Structure annealed in 7 s, f = 125.165.
+    Structure annealed in 7 s, f = 97.5949.
+    Structure annealed in 7 s, f = 108.430.
+    Structure annealed in 7 s, f = 105.128.
+    Structure annealed in 7 s, f = 91.9034.
+    Structure annealed in 7 s, f = 113.259.
+    Structure annealed in 7 s, f = 101.611.
+    Structure annealed in 7 s, f = 122.136.
+    Structure annealed in 7 s, f = 149.393.
+    Structure annealed in 7 s, f = 109.872.
+    Structure annealed in 7 s, f = 151.480.
+    Structure annealed in 7 s, f = 91.1552.
+    Structure annealed in 7 s, f = 120.191.
+    Structure annealed in 7 s, f = 139.430.
+    Structure annealed in 7 s, f = 112.013.
+    Structure annealed in 7 s, f = 114.065.
+    Structure annealed in 7 s, f = 147.602.
+    Structure annealed in 7 s, f = 99.9687.
+    Structure annealed in 7 s, f = 117.297.
+    Structure annealed in 7 s, f = 112.899.
+    Structure annealed in 7 s, f = 95.8131.
+    Structure annealed in 7 s, f = 153.998.
+    Structure annealed in 7 s, f = 114.497.
+    Structure annealed in 7 s, f = 92.3058.
+    Structure annealed in 7 s, f = 96.3077.
+    Structure annealed in 7 s, f = 108.462.
+    Structure annealed in 7 s, f = 108.770.
+    100 structures finished in 100 s (1 s/structure).
+ 
+    Structural statistics:
+ 
+    str   target     upper limits    van der Waals   torsion angles
+        function   #    rms   max   #    sum   max   #    rms   max
+      1    80.32  62 0.0747  1.25  98   63.3  0.79  34  9.929 55.41
+      2    81.35  58 0.0769  1.76  89   62.6  0.74  33  9.899 53.27
+      3    84.29  65 0.0814  1.36  92   61.8  0.79  32  9.640 55.86
+      4    87.58  67 0.0858  1.95  82   59.6  0.66  32 10.029 54.44
+      5    87.74  65 0.0843  1.80 101   64.1  0.66  33  9.833 56.14
+      6    88.49  70 0.0842  1.89  93   64.9  0.79  36  9.769 52.78
+      7    89.08  75 0.0827  1.36  90   62.2  1.04  35 10.533 68.47
+      8    89.12  73 0.0845  1.78  98   65.0  0.76  37  9.732 57.48
+      9    90.45  59 0.0817  1.79 104   65.8  0.79  32  9.970 55.52
+     10    91.16  72 0.0829  1.47  97   67.0  0.79  33 10.104 55.96
+     11    91.90  73 0.0853  2.00  91   66.2  0.79  36 10.066 55.62
+     12    92.22  76 0.0824  1.16 112   68.0  0.81  31 10.252 57.23
+     13    92.29  80 0.0840  1.41 115   72.5  0.54  37  9.672 57.82
+     14    92.31  66 0.0914  1.79  89   62.1  0.61  36  9.574 56.04
+     15    92.40  80 0.0889  1.80 103   64.0  0.64  32  9.964 53.76
+     16    93.61  79 0.0817  1.44 102   70.0  0.77  34 10.541 61.18
+     17    93.76  79 0.0870  1.55 101   70.0  0.77  30  9.734 55.14
+     18    94.63  68 0.0894  1.60 106   67.4  0.76  34  9.554 53.80
+     19    94.99  74 0.0902  1.90  99   65.0  0.63  35  9.951 57.45
+     20    95.81  69 0.0871  1.42 116   73.4  0.71  38  9.578 53.76
+ 
+    Ave    90.18  71 0.0843  1.62  99   65.7  0.74  34  9.916 56.36
+    +/-     4.18   7 0.0040  0.24   9    3.6  0.10   2  0.279  3.36
+    Min    80.32  58 0.0747  1.16  82   59.6  0.54  30  9.554 52.78
+    Max    95.81  80 0.0914  2.00 116   73.4  1.04  38 10.541 68.47
+    Cut                      0.30             0.20             5.00
+    Overview file "cycle4.ovw" written.
+    PDB coordinate file "cycle4.pdb" written, 20 conformers.
+    Computation time for cycle 4: 107 s
+ 
+    =================== NOE assignment cycle 5 ===================
+ 
+    Library file "/Network/Servers/macsent1.uchc.edu/Volumes/raid/mattf/cyana/cyana-3.96/lib/cyana.lib" read, 38 residue types.
+    Sequence file "samp3.seq" read, 106 residues.
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "aromatic_gnoesy_chsqc.pks" read, 538 peaks, 0 assignments.
+    538 of 538 peaks, 538 of 538 assignments selected.
+    Volume of 538 peaks set.
+    Calibration constant for peak list 1: 8.24E+04
+    Upper limit set for 538 peaks.
+ 
+    Distance bounds:
+    All                    :   538 100.0%
+    Limit     -2.99 A      :    24   4.5%
+    Limit 3.00-3.99 A      :   247  45.9%
+    Limit 4.00-4.99 A      :   196  36.4%
+    Limit 5.00-5.99 A      :    70  13.0%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "aromatic_noesy.pks" read, 122 peaks, 0 assignments.
+    122 of 660 peaks, 122 of 660 assignments selected.
+    Volume of 122 peaks set.
+    Calibration constant for peak list 2: 1.45E+05
+    Upper limit set for 122 peaks.
+ 
+    Distance bounds:
+    All                    :   122 100.0%
+    Limit     -2.99 A      :    17  13.9%
+    Limit 3.00-3.99 A      :    51  41.8%
+    Limit 4.00-4.99 A      :    53  43.4%
+    Limit 5.00-5.99 A      :     0   0.0%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "D2O_noesy_chsqc.pks" read, 4352 peaks, 0 assignments.
+    4352 of 5012 peaks, 4352 of 5012 assignments selected.
+    Volume of 4352 peaks set.
+    Calibration constant for peak list 3: 1.74E+05
+    Upper limit set for 4352 peaks.
+ 
+    Distance bounds:
+    All                    :  4352 100.0%
+    Limit     -2.99 A      :   542  12.5%
+    Limit 3.00-3.99 A      :  1700  39.1%
+    Limit 4.00-4.99 A      :  1664  38.2%
+    Limit 5.00-5.99 A      :   445  10.2%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "noesy_nhsqc.pks" read, 1362 peaks, 0 assignments.
+    1362 of 6374 peaks, 1362 of 6374 assignments selected.
+    Volume of 1362 peaks set.
+    Calibration constant for peak list 4: 1.01E+05
+    Upper limit set for 1362 peaks.
+ 
+    Distance bounds:
+    All                    :  1362 100.0%
+    Limit     -2.99 A      :    45   3.3%
+    Limit 3.00-3.99 A      :   672  49.3%
+    Limit 4.00-4.99 A      :   575  42.2%
+    Limit 5.00-5.99 A      :    68   5.0%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    6374 of 6374 peaks, 6374 of 6374 assignments selected.
+    0 of 6374 peaks, 0 of 6374 assignments selected.
+    Assignment of 6374 peaks deleted.
+    6374 of 6374 peaks, 6374 of 6374 assignments selected.
+    Distance restraint file "cycle4.upl" read, 1949 upper limits, 2346 assignments.
+    PDB coordinate file "cycle4.pdb" read, 20 flexible conformers.
+    Distance restraint file "cycle0.upl" read, 7788 upper limits, 7788 assignments.
+    2655 upper limits added, 20/19 at lower/upper bound, average 3.86 A.
+    417 duplicate distance restraints deleted.
+    413 distance restraints deleted.
+    Distance restraint file "cycle5.upl" written, 1825 upper limits, 2057 assignments.
+ 
+    Distance bounds:
+    All                    :  1825 100.0%
+    Intraresidue, |i-j|=0  :   376  20.6%
+    Sequential, |i-j|=1    :   463  25.4%
+    Short-range, |i-j|<=1  :   839  46.0%
+    Medium-range, 1<|i-j|<5:   356  19.5%
+    Long-range, |i-j|>=5   :   630  34.5%
+    Limit     -2.99 A      :   136   7.5%
+    Limit 3.00-3.99 A      :   751  41.2%
+    Limit 4.00-4.99 A      :   793  43.5%
+    Limit 5.00-5.99 A      :   144   7.9%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Library file "/Network/Servers/macsent1.uchc.edu/Volumes/raid/mattf/cyana/cyana-3.96/lib/cyana.lib" read, 38 residue types.
+    Sequence file "samp3.seq" read, 106 residues.
+    Distance restraint file "cycle5.upl" read, 1825 upper limits, 2057 assignments.
+    Angle restraint file "aco.aco" read, 155 restraints for 155 angles.
+    Angle restraint file "cycle.aco" read, 1614 restraints for 306 angles.
+    100 structures selected.
+    100 random structures created (seed 434726).
+    Structure annealed in 7 s, f = 60.2707.
+    Structure annealed in 7 s, f = 73.1343.
+    Structure annealed in 7 s, f = 71.4856.
+    Structure annealed in 7 s, f = 64.2211.
+    Structure annealed in 7 s, f = 75.1255.
+    Structure annealed in 7 s, f = 64.8639.
+    Structure annealed in 7 s, f = 44.1532.
+    Structure annealed in 7 s, f = 53.7523.
+    Structure annealed in 7 s, f = 62.3702.
+    Structure annealed in 7 s, f = 45.5632.
+    Structure annealed in 7 s, f = 69.2211.
+    Structure annealed in 7 s, f = 58.4483.
+    Structure annealed in 7 s, f = 46.7475.
+    Structure annealed in 7 s, f = 57.7149.
+    Structure annealed in 7 s, f = 58.5729.
+    Structure annealed in 7 s, f = 63.5719.
+    Structure annealed in 7 s, f = 64.4220.
+    Structure annealed in 7 s, f = 72.7455.
+    Structure annealed in 7 s, f = 58.9224.
+    Structure annealed in 7 s, f = 40.5239.
+    Structure annealed in 7 s, f = 64.7836.
+    Structure annealed in 7 s, f = 51.7270.
+    Structure annealed in 7 s, f = 40.4304.
+    Structure annealed in 7 s, f = 47.4369.
+    Structure annealed in 7 s, f = 43.2931.
+    Structure annealed in 7 s, f = 69.7816.
+    Structure annealed in 7 s, f = 64.3015.
+    Structure annealed in 7 s, f = 74.9505.
+    Structure annealed in 7 s, f = 91.2724.
+    Structure annealed in 7 s, f = 84.9867.
+    Structure annealed in 7 s, f = 66.6321.
+    Structure annealed in 7 s, f = 93.8814.
+    Structure annealed in 7 s, f = 72.6803.
+    Structure annealed in 7 s, f = 47.4204.
+    Structure annealed in 7 s, f = 66.0359.
+    Structure annealed in 7 s, f = 63.9253.
+    Structure annealed in 7 s, f = 83.0463.
+    Structure annealed in 7 s, f = 62.4149.
+    Structure annealed in 7 s, f = 64.0453.
+    Structure annealed in 7 s, f = 62.6761.
+    Structure annealed in 7 s, f = 72.1089.
+    Structure annealed in 7 s, f = 54.4306.
+    Structure annealed in 7 s, f = 83.5887.
+    Structure annealed in 7 s, f = 46.3815.
+    Structure annealed in 7 s, f = 64.1700.
+    Structure annealed in 7 s, f = 54.5435.
+    Structure annealed in 7 s, f = 83.4708.
+    Structure annealed in 7 s, f = 43.8401.
+    Structure annealed in 7 s, f = 48.5652.
+    Structure annealed in 7 s, f = 45.1660.
+    Structure annealed in 7 s, f = 53.3521.
+    Structure annealed in 7 s, f = 51.0695.
+    Structure annealed in 7 s, f = 65.0468.
+    Structure annealed in 7 s, f = 51.9069.
+    Structure annealed in 7 s, f = 69.8062.
+    Structure annealed in 7 s, f = 57.4586.
+    Structure annealed in 7 s, f = 71.3141.
+    Structure annealed in 7 s, f = 64.0643.
+    Structure annealed in 7 s, f = 92.8819.
+    Structure annealed in 7 s, f = 63.6901.
+    Structure annealed in 7 s, f = 58.3319.
+    Structure annealed in 7 s, f = 56.1476.
+    Structure annealed in 7 s, f = 74.9440.
+    Structure annealed in 7 s, f = 47.8292.
+    Structure annealed in 7 s, f = 57.7007.
+    Structure annealed in 7 s, f = 73.7374.
+    Structure annealed in 7 s, f = 54.9650.
+    Structure annealed in 7 s, f = 58.5326.
+    Structure annealed in 7 s, f = 54.2087.
+    Structure annealed in 7 s, f = 88.4121.
+    Structure annealed in 7 s, f = 86.5181.
+    Structure annealed in 7 s, f = 51.8563.
+    Structure annealed in 7 s, f = 55.4302.
+    Structure annealed in 7 s, f = 59.9892.
+    Structure annealed in 7 s, f = 49.2302.
+    Structure annealed in 7 s, f = 52.0052.
+    Structure annealed in 7 s, f = 52.1125.
+    Structure annealed in 7 s, f = 70.2072.
+    Structure annealed in 7 s, f = 55.3027.
+    Structure annealed in 7 s, f = 49.7512.
+    Structure annealed in 7 s, f = 61.4789.
+    Structure annealed in 7 s, f = 67.3175.
+    Structure annealed in 7 s, f = 57.5816.
+    Structure annealed in 7 s, f = 60.8136.
+    Structure annealed in 7 s, f = 66.0525.
+    Structure annealed in 7 s, f = 72.6229.
+    Structure annealed in 7 s, f = 43.5235.
+    Structure annealed in 7 s, f = 56.7480.
+    Structure annealed in 7 s, f = 56.7546.
+    Structure annealed in 7 s, f = 60.3184.
+    Structure annealed in 7 s, f = 49.3505.
+    Structure annealed in 7 s, f = 93.3256.
+    Structure annealed in 7 s, f = 53.8505.
+    Structure annealed in 7 s, f = 63.6125.
+    Structure annealed in 7 s, f = 62.4920.
+    Structure annealed in 7 s, f = 50.1457.
+    Structure annealed in 7 s, f = 51.8811.
+    Structure annealed in 7 s, f = 79.1171.
+    Structure annealed in 7 s, f = 46.4989.
+    Structure annealed in 7 s, f = 62.8931.
+    100 structures finished in 95 s (0 s/structure).
+ 
+    Structural statistics:
+ 
+    str   target     upper limits    van der Waals   torsion angles
+        function   #    rms   max   #    sum   max   #    rms   max
+      1    40.43 111 0.0447  0.97  49   40.9  0.52  25  8.534 48.40
+      2    40.52  88 0.0451  1.22  54   38.8  0.47  25  8.755 45.52
+      3    43.29 111 0.0456  0.86  61   43.8  0.53  27  8.721 49.98
+      4    43.52 117 0.0458  1.03  65   43.6  0.53  29  8.705 47.31
+      5    43.84 120 0.0508  1.65  50   40.0  0.49  27  8.740 49.82
+      6    44.15 102 0.0499  1.65  52   41.9  0.56  25  8.662 48.42
+      7    45.17 122 0.0486  1.23  61   46.2  0.52  24  8.372 47.17
+      8    45.56 124 0.0492  1.03  53   44.9  0.66  25  8.658 49.40
+      9    46.38 119 0.0555  1.63  52   42.3  0.50  27  8.786 53.15
+     10    46.50 104 0.0512  1.42  60   44.8  0.52  27  8.871 47.17
+     11    46.75 120 0.0519  1.13  66   48.0  0.53  24  8.474 43.07
+     12    47.42 133 0.0544  1.60  56   42.9  0.54  35  8.885 47.83
+     13    47.44 112 0.0503  0.96  69   47.3  0.54  28  8.875 49.45
+     14    47.83 110 0.0527  1.63  68   47.6  0.54  23  8.478 46.70
+     15    48.57 133 0.0528  1.12  69   48.8  0.56  29  8.547 48.22
+     16    49.23 123 0.0534  1.47  63   46.4  0.66  29  8.624 47.90
+     17    49.35 133 0.0546  1.31  65   46.7  0.47  26  8.853 49.81
+     18    49.75 117 0.0567  1.71  63   45.6  0.60  30  8.750 48.46
+     19    50.15 133 0.0557  1.30  61   47.6  0.51  29  8.857 49.15
+     20    51.07 115 0.0580  1.66  65   48.0  0.50  26  8.604 44.03
+ 
+    Ave    46.35 117 0.0513  1.33  60   44.8  0.54  27  8.688 48.05
+    +/-     2.95  11 0.0039  0.28   6    2.9  0.05   3  0.147  2.15
+    Min    40.43  88 0.0447  0.86  49   38.8  0.47  23  8.372 43.07
+    Max    51.07 133 0.0580  1.71  69   48.8  0.66  35  8.885 53.15
+    Cut                      0.10             0.20             5.00
+    Overview file "cycle5.ovw" written.
+    PDB coordinate file "cycle5.pdb" written, 20 conformers.
+    Computation time for cycle 5: 103 s
+ 
+    =================== NOE assignment cycle 6 ===================
+ 
+    Library file "/Network/Servers/macsent1.uchc.edu/Volumes/raid/mattf/cyana/cyana-3.96/lib/cyana.lib" read, 38 residue types.
+    Sequence file "samp3.seq" read, 106 residues.
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "aromatic_gnoesy_chsqc.pks" read, 538 peaks, 0 assignments.
+    538 of 538 peaks, 538 of 538 assignments selected.
+    Volume of 538 peaks set.
+    Calibration constant for peak list 1: 8.24E+04
+    Upper limit set for 538 peaks.
+ 
+    Distance bounds:
+    All                    :   538 100.0%
+    Limit     -2.99 A      :    24   4.5%
+    Limit 3.00-3.99 A      :   247  45.9%
+    Limit 4.00-4.99 A      :   196  36.4%
+    Limit 5.00-5.99 A      :    70  13.0%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "aromatic_noesy.pks" read, 122 peaks, 0 assignments.
+    122 of 660 peaks, 122 of 660 assignments selected.
+    Volume of 122 peaks set.
+    Calibration constant for peak list 2: 1.45E+05
+    Upper limit set for 122 peaks.
+ 
+    Distance bounds:
+    All                    :   122 100.0%
+    Limit     -2.99 A      :    17  13.9%
+    Limit 3.00-3.99 A      :    51  41.8%
+    Limit 4.00-4.99 A      :    53  43.4%
+    Limit 5.00-5.99 A      :     0   0.0%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "D2O_noesy_chsqc.pks" read, 4352 peaks, 0 assignments.
+    4352 of 5012 peaks, 4352 of 5012 assignments selected.
+    Volume of 4352 peaks set.
+    Calibration constant for peak list 3: 1.74E+05
+    Upper limit set for 4352 peaks.
+ 
+    Distance bounds:
+    All                    :  4352 100.0%
+    Limit     -2.99 A      :   542  12.5%
+    Limit 3.00-3.99 A      :  1700  39.1%
+    Limit 4.00-4.99 A      :  1664  38.2%
+    Limit 5.00-5.99 A      :   445  10.2%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "noesy_nhsqc.pks" read, 1362 peaks, 0 assignments.
+    1362 of 6374 peaks, 1362 of 6374 assignments selected.
+    Volume of 1362 peaks set.
+    Calibration constant for peak list 4: 1.01E+05
+    Upper limit set for 1362 peaks.
+ 
+    Distance bounds:
+    All                    :  1362 100.0%
+    Limit     -2.99 A      :    45   3.3%
+    Limit 3.00-3.99 A      :   672  49.3%
+    Limit 4.00-4.99 A      :   575  42.2%
+    Limit 5.00-5.99 A      :    68   5.0%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    6374 of 6374 peaks, 6374 of 6374 assignments selected.
+    0 of 6374 peaks, 0 of 6374 assignments selected.
+    Assignment of 6374 peaks deleted.
+    6374 of 6374 peaks, 6374 of 6374 assignments selected.
+    Distance restraint file "cycle5.upl" read, 1825 upper limits, 2057 assignments.
+    PDB coordinate file "cycle5.pdb" read, 20 flexible conformers.
+    Distance restraint file "cycle0.upl" read, 7788 upper limits, 7788 assignments.
+    2568 upper limits added, 21/11 at lower/upper bound, average 3.85 A.
+    430 duplicate distance restraints deleted.
+    406 distance restraints deleted.
+    Distance restraint file "cycle6.upl" written, 1732 upper limits, 1872 assignments.
+ 
+    Distance bounds:
+    All                    :  1732 100.0%
+    Intraresidue, |i-j|=0  :   372  21.5%
+    Sequential, |i-j|=1    :   440  25.4%
+    Short-range, |i-j|<=1  :   812  46.9%
+    Medium-range, 1<|i-j|<5:   334  19.3%
+    Long-range, |i-j|>=5   :   586  33.8%
+    Limit     -2.99 A      :   130   7.5%
+    Limit 3.00-3.99 A      :   716  41.3%
+    Limit 4.00-4.99 A      :   753  43.5%
+    Limit 5.00-5.99 A      :   131   7.6%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Library file "/Network/Servers/macsent1.uchc.edu/Volumes/raid/mattf/cyana/cyana-3.96/lib/cyana.lib" read, 38 residue types.
+    Sequence file "samp3.seq" read, 106 residues.
+    Distance restraint file "cycle6.upl" read, 1732 upper limits, 1872 assignments.
+    Angle restraint file "aco.aco" read, 155 restraints for 155 angles.
+    Angle restraint file "cycle.aco" read, 1614 restraints for 306 angles.
+    100 structures selected.
+    100 random structures created (seed 434726).
+    Structure annealed in 7 s, f = 32.7245.
+    Structure annealed in 7 s, f = 48.4531.
+    Structure annealed in 7 s, f = 40.2310.
+    Structure annealed in 7 s, f = 41.4813.
+    Structure annealed in 7 s, f = 62.8624.
+    Structure annealed in 7 s, f = 39.1788.
+    Structure annealed in 7 s, f = 44.7543.
+    Structure annealed in 7 s, f = 56.9389.
+    Structure annealed in 7 s, f = 34.6516.
+    Structure annealed in 7 s, f = 38.9884.
+    Structure annealed in 7 s, f = 61.6026.
+    Structure annealed in 7 s, f = 44.7142.
+    Structure annealed in 7 s, f = 53.7603.
+    Structure annealed in 7 s, f = 47.4134.
+    Structure annealed in 7 s, f = 40.8231.
+    Structure annealed in 7 s, f = 73.6893.
+    Structure annealed in 7 s, f = 36.5858.
+    Structure annealed in 7 s, f = 40.5311.
+    Structure annealed in 7 s, f = 50.3542.
+    Structure annealed in 7 s, f = 52.9978.
+    Structure annealed in 7 s, f = 48.4053.
+    Structure annealed in 7 s, f = 39.7640.
+    Structure annealed in 7 s, f = 33.0061.
+    Structure annealed in 7 s, f = 31.1241.
+    Structure annealed in 7 s, f = 44.2180.
+    Structure annealed in 7 s, f = 40.1392.
+    Structure annealed in 7 s, f = 53.1010.
+    Structure annealed in 7 s, f = 37.9774.
+    Structure annealed in 7 s, f = 42.7427.
+    Structure annealed in 7 s, f = 54.3236.
+    Structure annealed in 7 s, f = 31.5920.
+    Structure annealed in 7 s, f = 39.7764.
+    Structure annealed in 7 s, f = 50.0836.
+    Structure annealed in 7 s, f = 35.0295.
+    Structure annealed in 7 s, f = 65.3278.
+    Structure annealed in 7 s, f = 41.2853.
+    Structure annealed in 7 s, f = 50.7964.
+    Structure annealed in 7 s, f = 43.8156.
+    Structure annealed in 7 s, f = 40.6132.
+    Structure annealed in 7 s, f = 36.1385.
+    Structure annealed in 7 s, f = 37.1469.
+    Structure annealed in 7 s, f = 30.7279.
+    Structure annealed in 7 s, f = 42.8812.
+    Structure annealed in 7 s, f = 48.0698.
+    Structure annealed in 7 s, f = 56.3396.
+    Structure annealed in 7 s, f = 40.8999.
+    Structure annealed in 7 s, f = 38.4947.
+    Structure annealed in 7 s, f = 61.0114.
+    Structure annealed in 7 s, f = 44.8730.
+    Structure annealed in 7 s, f = 47.5168.
+    Structure annealed in 7 s, f = 38.1164.
+    Structure annealed in 7 s, f = 54.0124.
+    Structure annealed in 7 s, f = 55.3589.
+    Structure annealed in 7 s, f = 45.7016.
+    Structure annealed in 7 s, f = 41.5434.
+    Structure annealed in 7 s, f = 41.6445.
+    Structure annealed in 7 s, f = 58.8497.
+    Structure annealed in 7 s, f = 38.0945.
+    Structure annealed in 7 s, f = 36.4623.
+    Structure annealed in 7 s, f = 51.4735.
+    Structure annealed in 7 s, f = 55.2886.
+    Structure annealed in 7 s, f = 58.6657.
+    Structure annealed in 7 s, f = 32.7211.
+    Structure annealed in 7 s, f = 36.4254.
+    Structure annealed in 7 s, f = 37.2914.
+    Structure annealed in 7 s, f = 43.2311.
+    Structure annealed in 7 s, f = 49.6863.
+    Structure annealed in 7 s, f = 53.0023.
+    Structure annealed in 7 s, f = 57.3978.
+    Structure annealed in 7 s, f = 35.2393.
+    Structure annealed in 7 s, f = 29.3058.
+    Structure annealed in 7 s, f = 95.8733.
+    Structure annealed in 7 s, f = 85.1508.
+    Structure annealed in 7 s, f = 31.3763.
+    Structure annealed in 7 s, f = 52.7182.
+    Structure annealed in 7 s, f = 42.0879.
+    Structure annealed in 7 s, f = 43.1795.
+    Structure annealed in 7 s, f = 61.1861.
+    Structure annealed in 7 s, f = 55.5347.
+    Structure annealed in 7 s, f = 51.9789.
+    Structure annealed in 7 s, f = 40.5458.
+    Structure annealed in 7 s, f = 41.5406.
+    Structure annealed in 7 s, f = 43.4263.
+    Structure annealed in 7 s, f = 39.1847.
+    Structure annealed in 7 s, f = 43.3228.
+    Structure annealed in 7 s, f = 54.5603.
+    Structure annealed in 7 s, f = 42.4236.
+    Structure annealed in 7 s, f = 34.5370.
+    Structure annealed in 7 s, f = 47.1342.
+    Structure annealed in 7 s, f = 38.9359.
+    Structure annealed in 7 s, f = 45.0562.
+    Structure annealed in 7 s, f = 47.5175.
+    Structure annealed in 7 s, f = 54.8833.
+    Structure annealed in 7 s, f = 44.6933.
+    Structure annealed in 7 s, f = 50.6938.
+    Structure annealed in 7 s, f = 35.6430.
+    Structure annealed in 7 s, f = 45.0641.
+    Structure annealed in 7 s, f = 35.9158.
+    Structure annealed in 7 s, f = 43.5359.
+    Structure annealed in 7 s, f = 40.0025.
+    100 structures finished in 92 s (0 s/structure).
+ 
+    Structural statistics:
+ 
+    str   target     upper limits    van der Waals   torsion angles
+        function   #    rms   max   #    sum   max   #    rms   max
+      1    29.31  66 0.0318  0.70  32   30.8  0.44  23  8.040 43.52
+      2    30.73  59 0.0381  1.23  31   34.3  0.44  21  7.578 39.82
+      3    31.12  71 0.0403  1.58  43   33.4  0.45  22  7.462 37.91
+      4    31.38  81 0.0402  1.05  30   32.4  0.50  29  7.674 38.56
+      5    31.59  56 0.0362  1.46  36   30.4  0.48  26  8.233 44.70
+      6    32.72  80 0.0417  1.31  36   33.3  0.47  28  7.830 39.46
+      7    32.72  62 0.0378  1.52  40   33.7  0.47  24  8.073 40.25
+      8    33.01  79 0.0454  1.28  33   32.2  0.43  23  7.743 39.71
+      9    34.54  80 0.0467  1.04  40   36.2  0.51  27  7.529 37.75
+     10    34.65  79 0.0448  1.50  42   34.9  0.48  24  7.957 42.82
+     11    35.03  96 0.0485  1.61  37   33.5  0.46  24  7.763 41.24
+     12    35.24  88 0.0486  1.59  43   35.3  0.45  20  7.570 39.81
+     13    35.64  94 0.0454  1.15  44   37.6  0.45  24  7.763 44.92
+     14    35.92  88 0.0480  1.01  40   34.6  0.44  23  7.995 45.03
+     15    36.14  76 0.0479  1.08  42   37.3  0.50  24  7.687 37.52
+     16    36.43  97 0.0516  1.20  38   34.5  0.49  27  7.642 38.37
+     17    36.46  82 0.0489  1.27  46   36.1  0.45  20  7.797 41.23
+     18    36.59  72 0.0498  1.58  49   37.6  0.43  25  7.575 39.14
+     19    37.15  84 0.0553  1.58  33   31.5  0.44  25  7.717 39.12
+     20    37.29  84 0.0510  1.14  41   34.7  0.42  26  7.945 44.99
+ 
+    Ave    34.18  79 0.0449  1.29  39   34.2  0.46  24  7.779 40.79
+    +/-     2.35  11 0.0058  0.25   5    2.1  0.03   2  0.200  2.55
+    Min    29.31  56 0.0318  0.70  30   30.4  0.42  20  7.462 37.52
+    Max    37.29  97 0.0553  1.61  49   37.6  0.51  29  8.233 45.03
+    Cut                      0.10             0.20             5.00
+    Overview file "cycle6.ovw" written.
+    PDB coordinate file "cycle6.pdb" written, 20 conformers.
+    Computation time for cycle 6: 99 s
+ 
+    =================== NOE assignment cycle 7 ===================
+ 
+    Library file "/Network/Servers/macsent1.uchc.edu/Volumes/raid/mattf/cyana/cyana-3.96/lib/cyana.lib" read, 38 residue types.
+    Sequence file "samp3.seq" read, 106 residues.
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "aromatic_gnoesy_chsqc.pks" read, 538 peaks, 0 assignments.
+    538 of 538 peaks, 538 of 538 assignments selected.
+    Volume of 538 peaks set.
+    Calibration constant for peak list 1: 8.24E+04
+    Upper limit set for 538 peaks.
+ 
+    Distance bounds:
+    All                    :   538 100.0%
+    Limit     -2.99 A      :    24   4.5%
+    Limit 3.00-3.99 A      :   247  45.9%
+    Limit 4.00-4.99 A      :   196  36.4%
+    Limit 5.00-5.99 A      :    70  13.0%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "aromatic_noesy.pks" read, 122 peaks, 0 assignments.
+    122 of 660 peaks, 122 of 660 assignments selected.
+    Volume of 122 peaks set.
+    Calibration constant for peak list 2: 1.45E+05
+    Upper limit set for 122 peaks.
+ 
+    Distance bounds:
+    All                    :   122 100.0%
+    Limit     -2.99 A      :    17  13.9%
+    Limit 3.00-3.99 A      :    51  41.8%
+    Limit 4.00-4.99 A      :    53  43.4%
+    Limit 5.00-5.99 A      :     0   0.0%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "D2O_noesy_chsqc.pks" read, 4352 peaks, 0 assignments.
+    4352 of 5012 peaks, 4352 of 5012 assignments selected.
+    Volume of 4352 peaks set.
+    Calibration constant for peak list 3: 1.74E+05
+    Upper limit set for 4352 peaks.
+ 
+    Distance bounds:
+    All                    :  4352 100.0%
+    Limit     -2.99 A      :   542  12.5%
+    Limit 3.00-3.99 A      :  1700  39.1%
+    Limit 4.00-4.99 A      :  1664  38.2%
+    Limit 5.00-5.99 A      :   445  10.2%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "noesy_nhsqc.pks" read, 1362 peaks, 0 assignments.
+    1362 of 6374 peaks, 1362 of 6374 assignments selected.
+    Volume of 1362 peaks set.
+    Calibration constant for peak list 4: 1.01E+05
+    Upper limit set for 1362 peaks.
+ 
+    Distance bounds:
+    All                    :  1362 100.0%
+    Limit     -2.99 A      :    45   3.3%
+    Limit 3.00-3.99 A      :   672  49.3%
+    Limit 4.00-4.99 A      :   575  42.2%
+    Limit 5.00-5.99 A      :    68   5.0%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    6374 of 6374 peaks, 6374 of 6374 assignments selected.
+    0 of 6374 peaks, 0 of 6374 assignments selected.
+    Assignment of 6374 peaks deleted.
+    6374 of 6374 peaks, 6374 of 6374 assignments selected.
+    Distance restraint file "cycle6.upl" read, 1732 upper limits, 1872 assignments.
+    PDB coordinate file "cycle6.pdb" read, 20 flexible conformers.
+    Distance restraint file "cycle0.upl" read, 7788 upper limits, 7788 assignments.
+    538 of 6374 peaks, 538 of 6623 assignments selected.
+    XEASY peak list "aromatic_gnoesy_chsqc-cycle7.pks" written, 538 peaks, 0 assignments.
+    XEASY peak list "aromatic_gnoesy_chsqc-cycle7-ref.pks" written, 538 peaks, 0 assignments.
+    122 of 6374 peaks, 139 of 6623 assignments selected.
+    XEASY peak list "aromatic_noesy-cycle7.pks" written, 122 peaks, 44 assignments.
+    XEASY peak list "aromatic_noesy-cycle7-ref.pks" written, 122 peaks, 0 assignments.
+    4352 of 6374 peaks, 4524 of 6623 assignments selected.
+    XEASY peak list "D2O_noesy_chsqc-cycle7.pks" written, 4352 peaks, 1999 assignments.
+    XEASY peak list "D2O_noesy_chsqc-cycle7-ref.pks" written, 4352 peaks, 0 assignments.
+    1362 of 6374 peaks, 1422 of 6623 assignments selected.
+    XEASY peak list "noesy_nhsqc-cycle7.pks" written, 1362 peaks, 958 assignments.
+    XEASY peak list "noesy_nhsqc-cycle7-ref.pks" written, 1362 peaks, 0 assignments.
+    2512 upper limits added, 20/14 at lower/upper bound, average 3.85 A.
+    422 duplicate distance restraints deleted.
+    191 ambiguous distance restraints replaced by 334 unambiguous ones.
+    484 distance restraints deleted.
+    Distance restraint file "cycle7.upl" written, 1749 upper limits, 1749 assignments.
+ 
+    Distance bounds:
+    All                    :  1749 100.0%
+    Intraresidue, |i-j|=0  :   363  20.8%
+    Sequential, |i-j|=1    :   445  25.4%
+    Short-range, |i-j|<=1  :   808  46.2%
+    Medium-range, 1<|i-j|<5:   330  18.9%
+    Long-range, |i-j|>=5   :   611  34.9%
+    Limit     -2.99 A      :   127   7.3%
+    Limit 3.00-3.99 A      :   685  39.2%
+    Limit 4.00-4.99 A      :   753  43.1%
+    Limit 5.00-5.99 A      :   183  10.5%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Library file "/Network/Servers/macsent1.uchc.edu/Volumes/raid/mattf/cyana/cyana-3.96/lib/cyana.lib" read, 38 residue types.
+    Sequence file "samp3.seq" read, 106 residues.
+    Distance restraint file "cycle7.upl" read, 1749 upper limits, 1749 assignments.
+    Angle restraint file "aco.aco" read, 155 restraints for 155 angles.
+    Angle restraint file "cycle.aco" read, 1614 restraints for 306 angles.
+    100 structures selected.
+    100 random structures created (seed 434726).
+    Structure annealed in 7 s, f = 22.5902.
+    Structure annealed in 7 s, f = 39.1592.
+    Structure annealed in 6 s, f = 24.1218.
+    Structure annealed in 7 s, f = 42.8850.
+    Structure annealed in 7 s, f = 33.8238.
+    Structure annealed in 7 s, f = 38.4132.
+    Structure annealed in 7 s, f = 35.5168.
+    Structure annealed in 7 s, f = 33.9801.
+    Structure annealed in 7 s, f = 28.8998.
+    Structure annealed in 7 s, f = 43.7960.
+    Structure annealed in 7 s, f = 43.5424.
+    Structure annealed in 7 s, f = 32.3676.
+    Structure annealed in 7 s, f = 27.8887.
+    Structure annealed in 7 s, f = 38.2605.
+    Structure annealed in 7 s, f = 34.0715.
+    Structure annealed in 7 s, f = 66.2713.
+    Structure annealed in 7 s, f = 39.6962.
+    Structure annealed in 7 s, f = 42.2818.
+    Structure annealed in 7 s, f = 22.9139.
+    Structure annealed in 7 s, f = 32.8517.
+    Structure annealed in 7 s, f = 45.7927.
+    Structure annealed in 6 s, f = 29.2464.
+    Structure annealed in 7 s, f = 37.3244.
+    Structure annealed in 7 s, f = 24.4677.
+    Structure annealed in 7 s, f = 25.3796.
+    Structure annealed in 7 s, f = 34.7069.
+    Structure annealed in 7 s, f = 79.2536.
+    Structure annealed in 7 s, f = 40.4755.
+    Structure annealed in 7 s, f = 40.4826.
+    Structure annealed in 7 s, f = 54.3067.
+    Structure annealed in 7 s, f = 30.7833.
+    Structure annealed in 7 s, f = 35.3621.
+    Structure annealed in 7 s, f = 33.8658.
+    Structure annealed in 7 s, f = 27.4243.
+    Structure annealed in 6 s, f = 26.8252.
+    Structure annealed in 7 s, f = 24.8569.
+    Structure annealed in 7 s, f = 32.8039.
+    Structure annealed in 7 s, f = 42.5577.
+    Structure annealed in 7 s, f = 74.4207.
+    Structure annealed in 7 s, f = 34.6611.
+    Structure annealed in 7 s, f = 44.9442.
+    Structure annealed in 7 s, f = 34.8155.
+    Structure annealed in 7 s, f = 29.4508.
+    Structure annealed in 7 s, f = 32.7989.
+    Structure annealed in 7 s, f = 37.1164.
+    Structure annealed in 6 s, f = 21.8820.
+    Structure annealed in 6 s, f = 23.7383.
+    Structure annealed in 7 s, f = 26.5869.
+    Structure annealed in 7 s, f = 38.6671.
+    Structure annealed in 7 s, f = 43.7669.
+    Structure annealed in 7 s, f = 28.9692.
+    Structure annealed in 7 s, f = 37.5955.
+    Structure annealed in 7 s, f = 38.3850.
+    Structure annealed in 7 s, f = 30.8649.
+    Structure annealed in 7 s, f = 51.6023.
+    Structure annealed in 7 s, f = 38.4999.
+    Structure annealed in 7 s, f = 77.2592.
+    Structure annealed in 6 s, f = 22.8424.
+    Structure annealed in 7 s, f = 33.0544.
+    Structure annealed in 7 s, f = 52.4043.
+    Structure annealed in 7 s, f = 48.4602.
+    Structure annealed in 7 s, f = 71.9571.
+    Structure annealed in 7 s, f = 90.6551.
+    Structure annealed in 7 s, f = 68.2331.
+    Structure annealed in 7 s, f = 33.3524.
+    Structure annealed in 7 s, f = 57.6445.
+    Structure annealed in 7 s, f = 32.0090.
+    Structure annealed in 7 s, f = 68.4354.
+    Structure annealed in 7 s, f = 21.1618.
+    Structure annealed in 7 s, f = 36.6015.
+    Structure annealed in 7 s, f = 48.8633.
+    Structure annealed in 7 s, f = 36.9242.
+    Structure annealed in 7 s, f = 47.2042.
+    Structure annealed in 7 s, f = 24.7143.
+    Structure annealed in 7 s, f = 33.8391.
+    Structure annealed in 7 s, f = 34.5067.
+    Structure annealed in 7 s, f = 52.1790.
+    Structure annealed in 7 s, f = 31.2379.
+    Structure annealed in 7 s, f = 48.9877.
+    Structure annealed in 7 s, f = 35.6650.
+    Structure annealed in 7 s, f = 59.9737.
+    Structure annealed in 7 s, f = 37.0993.
+    Structure annealed in 7 s, f = 32.8043.
+    Structure annealed in 7 s, f = 25.4528.
+    Structure annealed in 7 s, f = 40.3828.
+    Structure annealed in 7 s, f = 32.7859.
+    Structure annealed in 7 s, f = 23.4141.
+    Structure annealed in 7 s, f = 41.5647.
+    Structure annealed in 7 s, f = 35.0640.
+    Structure annealed in 7 s, f = 25.7231.
+    Structure annealed in 7 s, f = 23.5648.
+    Structure annealed in 7 s, f = 70.9246.
+    Structure annealed in 7 s, f = 33.3256.
+    Structure annealed in 7 s, f = 46.1034.
+    Structure annealed in 7 s, f = 28.1597.
+    Structure annealed in 7 s, f = 29.5747.
+    Structure annealed in 6 s, f = 29.7867.
+    Structure annealed in 6 s, f = 31.9190.
+    Structure annealed in 6 s, f = 25.6507.
+    Structure annealed in 6 s, f = 27.7140.
+    100 structures finished in 90 s (0 s/structure).
+ 
+    Structural statistics:
+ 
+    str   target     upper limits    van der Waals   torsion angles
+        function   #    rms   max   #    sum   max   #    rms   max
+      1    21.16  48 0.0291  0.76  28   26.1  0.40  20  6.503 32.92
+      2    21.88  47 0.0258  0.66  29   27.4  0.42  18  6.837 32.64
+      3    22.59  59 0.0313  0.68  33   29.2  0.40  22  6.456 30.80
+      4    22.84  55 0.0331  0.68  32   27.6  0.42  21  6.577 32.57
+      5    22.91  48 0.0341  0.71  22   26.7  0.43  19  6.656 33.18
+      6    23.41  53 0.0343  1.07  31   29.2  0.41  18  6.542 32.27
+      7    23.56  56 0.0315  0.78  33   28.8  0.39  20  6.667 32.34
+      8    23.74  39 0.0294  0.81  30   28.8  0.42  20  7.021 32.90
+      9    24.12  47 0.0359  1.39  24   27.8  0.42  23  6.793 32.76
+     10    24.47  62 0.0375  0.96  28   28.6  0.41  23  6.640 33.48
+     11    24.71  49 0.0363  1.20  27   28.0  0.51  22  6.925 33.39
+     12    24.86  58 0.0319  0.70  35   29.9  0.43  24  6.992 32.92
+     13    25.38  56 0.0365  0.86  30   30.8  0.43  20  6.662 32.62
+     14    25.45  60 0.0360  0.98  32   29.2  0.41  22  6.955 33.25
+     15    25.65  48 0.0376  1.40  29   29.7  0.51  21  6.868 32.94
+     16    25.72  64 0.0324  0.80  34   32.8  0.43  21  6.855 36.58
+     17    26.59  50 0.0400  1.23  24   29.1  0.51  21  6.941 33.77
+     18    26.83  61 0.0339  0.67  36   32.9  0.54  25  6.978 33.22
+     19    27.42  68 0.0448  1.07  28   30.3  0.46  20  6.679 34.52
+     20    27.71  63 0.0436  1.06  34   28.9  0.42  21  6.820 32.56
+ 
+    Ave    24.55  55 0.0348  0.92  30   29.1  0.44  21  6.768 33.08
+    +/-     1.77   7 0.0045  0.23   4    1.7  0.04   2  0.171  1.06
+    Min    21.16  39 0.0258  0.66  22   26.1  0.39  18  6.456 30.80
+    Max    27.71  68 0.0448  1.40  36   32.9  0.54  25  7.021 36.58
+    Cut                      0.10             0.20             5.00
+    Overview file "cycle7.ovw" written.
+    PDB coordinate file "cycle7.pdb" written, 20 conformers.
+    Computation time for cycle 7: 98 s
+ 
+    =================== Final structure calculation ===================
+ 
+    Library file "/Network/Servers/macsent1.uchc.edu/Volumes/raid/mattf/cyana/cyana-3.96/lib/cyana.lib" read, 38 residue types.
+    Sequence file "samp3.seq" read, 106 residues.
+    PDB coordinate file "cycle7.pdb" read, 20 flexible conformers.
+    Distance restraint file "cycle7.upl" read, 1749 upper limits, 1749 assignments.
+    Chemical shift list "shifts.txt" read, 979 chemical shifts.
+    Peak list "aromatic_gnoesy_chsqc.pks" read, 538 peaks, 0 assignments.
+ 
+    Atoms with consistent swapping in 20 or more structures:
+                                TF gap    # 1   5   10   15   20
+       7  LYS    HB2   HB3      -0.566  -20 ******************** swapped
+      12  LYS    HG2   HG3       1.281   20 -------------------- as input
+      15  MET    HG2   HG3      -1.105  -20 ******************** swapped
+      16  GLU    HB2   HB3       4.394   20 -------------------- as input
+      17  LEU    HB2   HB3       5.900   20 -------------------- as input
+      19  LEU    HB2   HB3      -0.374  -20 ******************** swapped
+      20  ARG    HG2   HG3      -3.337  -20 ******************** swapped
+      26  ARG    HB2   HB3      -1.018  -20 ******************** swapped
+      27  GLU    HB2   HB3      -0.553  -20 ******************** swapped
+      27  GLU    HG2   HG3      -4.783  -20 ******************** swapped
+      31  GLN    HB2   HB3      -1.567  -20 ******************** swapped
+      34  ILE    HG12  HG13     -2.199  -20 ******************** swapped
+      37  ARG    HB2   HB3       1.228   20 -------------------- as input
+      37  ARG    HG2   HG3      -1.882  -20 ******************** swapped
+      38  VAL    QG1   QG2      15.891   20 -------------------- as input
+      41  ASP    HB2   HB3       0.314   20 -------------------- as input
+      45  GLY    HA2   HA3      -0.218  -20 ******************** swapped
+      47  VAL    QG1   QG2      -9.345  -20 ******************** swapped
+      48  LEU    HB2   HB3      -0.325  -20 ******************** swapped
+      49  ARG    HG2   HG3      -0.540  -20 ******************** swapped
+      51  LEU    HB2   HB3      -0.941  -20 ******************** swapped
+      52  GLU    HB2   HB3       1.744   20 -------------------- as input
+      52  GLU    HG2   HG3      -3.889  -20 ******************** swapped
+      54  GLU    HB2   HB3      -1.289  -20 ******************** swapped
+      55  TYR    HB2   HB3       0.844   20 -------------------- as input
+      57  GLY    HA2   HA3       2.134   20 -------------------- as input
+      58  LEU    HB2   HB3       4.085   20 -------------------- as input
+      61  ARG    HB2   HB3      -0.439  -20 ******************** swapped
+      61  ARG    HG2   HG3      -2.224  -20 ******************** swapped
+      62  LEU    HB2   HB3      -5.227  -20 ******************** swapped
+      64  GLU    HB2   HB3       0.673   20 -------------------- as input
+      64  GLU    HG2   HG3       1.035   20 -------------------- as input
+      65  ASP    HB2   HB3       1.162   20 -------------------- as input
+      66  GLY    HA2   HA3      -0.254  -20 ******************** swapped
+      67  GLU    HB2   HB3       3.638   20 -------------------- as input
+      70  PRO    HB2   HB3       1.952   20 -------------------- as input
+      70  PRO    HG2   HG3       3.334   20 -------------------- as input
+      70  PRO    HD2   HD3      -3.462  -20 ******************** swapped
+      71  HIS    HB2   HB3      -0.462  -20 ******************** swapped
+      72  VAL    QG1   QG2     -14.165  -20 ******************** swapped
+      75  LEU    HB2   HB3      -1.149  -20 ******************** swapped
+      75  LEU    QD1   QD2     -29.287  -20 ******************** swapped
+      76  LYS    HB2   HB3      -4.118  -20 ******************** swapped
+      76  LYS    HG2   HG3       0.632   20 -------------------- as input
+      76  LYS    HD2   HD3       1.956   20 -------------------- as input
+      76  LYS    HE2   HE3      -1.920  -20 ******************** swapped
+      78  GLY    HA2   HA3      -0.977  -20 ******************** swapped
+      79  ARG    HG2   HG3       0.777   20 -------------------- as input
+      80  GLU    HB2   HB3      -0.296  -20 ******************** swapped
+      84  LEU    HB2   HB3       0.982   20 -------------------- as input
+      86  GLY    HA2   HA3      -2.684  -20 ******************** swapped
+      87  MET    HB2   HB3      -3.102  -20 ******************** swapped
+      91  LEU    HB2   HB3       0.750   20 -------------------- as input
+      95  ASP    HB2   HB3      -0.959  -20 ******************** swapped
+      97  VAL    QG1   QG2     -38.393  -20 ******************** swapped
+      98  SER    HB2   HB3       0.504   20 -------------------- as input
+     102  PRO    HB2   HB3      -6.066  -20 ******************** swapped
+     102  PRO    HG2   HG3       5.270   20 -------------------- as input
+     102  PRO    HD2   HD3      -2.024  -20 ******************** swapped
+    59 stereo pairs assigned: 23 as input, 36 swapped.
+    Chemical shift list "shifts-final.txt" written, 979 chemical shifts.
+    Macro file "finalstereo.cya" written, 59 stereospecific assignments.
+    Number of modified restraints: 1809
+    Distance restraint file "final.upl" written, 1809 upper limits, 1809 assignments.
+ 
+    Distance bounds:
+    All                    :  1809 100.0%
+    Intraresidue, |i-j|=0  :   386  21.3%
+    Sequential, |i-j|=1    :   457  25.3%
+    Short-range, |i-j|<=1  :   843  46.6%
+    Medium-range, 1<|i-j|<5:   344  19.0%
+    Long-range, |i-j|>=5   :   622  34.4%
+    Limit     -2.99 A      :   139   7.7%
+    Limit 3.00-3.99 A      :   732  40.5%
+    Limit 4.00-4.99 A      :   766  42.3%
+    Limit 5.00-5.99 A      :   172   9.5%
+    Limit 6.00-     A      :     0   0.0%
+ 
+    Ramachandran angle restraints for 87 residues added.
+    Rotamer angle restraints for 132 residues added.
+    Angle restraint file "final.aco" written, 918 restraints for 306 angles.
+    Library file "/Network/Servers/macsent1.uchc.edu/Volumes/raid/mattf/cyana/cyana-3.96/lib/cyana.lib" read, 38 residue types.
+    Sequence file "samp3.seq" read, 106 residues.
+    59 stereospecific assignments defined.
+    Distance restraint file "final.upl" read, 1809 upper limits, 1809 assignments.
+    Angle restraint file "aco.aco" read, 155 restraints for 155 angles.
+    Angle restraint file "final.aco" read, 918 restraints for 306 angles.
+    100 structures selected.
+    100 random structures created (seed 434726).
+    Structure annealed in 7 s, f = 24.0215.
+    Structure annealed in 7 s, f = 23.6492.
+    Structure annealed in 7 s, f = 21.2992.
+    Structure annealed in 7 s, f = 22.6373.
+    Structure annealed in 7 s, f = 19.4721.
+    Structure annealed in 7 s, f = 20.0995.
+    Structure annealed in 7 s, f = 52.2604.
+    Structure annealed in 7 s, f = 19.2127.
+    Structure annealed in 7 s, f = 20.8479.
+    Structure annealed in 7 s, f = 19.9648.
+    Structure annealed in 7 s, f = 22.4749.
+    Structure annealed in 7 s, f = 20.7886.
+    Structure annealed in 7 s, f = 22.8476.
+    Structure annealed in 7 s, f = 21.7437.
+    Structure annealed in 7 s, f = 20.7701.
+    Structure annealed in 7 s, f = 21.3981.
+    Structure annealed in 7 s, f = 21.0947.
+    Structure annealed in 7 s, f = 22.9220.
+    Structure annealed in 7 s, f = 38.6659.
+    Structure annealed in 7 s, f = 20.7387.
+    Structure annealed in 7 s, f = 19.0836.
+    Structure annealed in 7 s, f = 19.7407.
+    Structure annealed in 7 s, f = 24.0899.
+    Structure annealed in 7 s, f = 19.6703.
+    Structure annealed in 7 s, f = 19.3143.
+    Structure annealed in 7 s, f = 19.5084.
+    Structure annealed in 7 s, f = 19.5031.
+    Structure annealed in 7 s, f = 18.7915.
+    Structure annealed in 7 s, f = 22.2122.
+    Structure annealed in 7 s, f = 32.2149.
+    Structure annealed in 7 s, f = 20.4870.
+    Structure annealed in 7 s, f = 21.5163.
+    Structure annealed in 7 s, f = 18.8144.
+    Structure annealed in 7 s, f = 20.8589.
+    Structure annealed in 7 s, f = 18.5222.
+    Structure annealed in 7 s, f = 21.1775.
+    Structure annealed in 7 s, f = 20.8510.
+    Structure annealed in 7 s, f = 18.7540.
+    Structure annealed in 7 s, f = 20.5179.
+    Structure annealed in 7 s, f = 23.0962.
+    Structure annealed in 7 s, f = 29.5461.
+    Structure annealed in 7 s, f = 19.7183.
+    Structure annealed in 7 s, f = 21.6250.
+    Structure annealed in 7 s, f = 51.5991.
+    Structure annealed in 7 s, f = 19.4201.
+    Structure annealed in 7 s, f = 34.7238.
+    Structure annealed in 7 s, f = 21.3090.
+    Structure annealed in 7 s, f = 34.3333.
+    Structure annealed in 6 s, f = 19.5978.
+    Structure annealed in 7 s, f = 19.1365.
+    Structure annealed in 7 s, f = 19.9897.
+    Structure annealed in 7 s, f = 19.8451.
+    Structure annealed in 7 s, f = 20.2593.
+    Structure annealed in 7 s, f = 20.8893.
+    Structure annealed in 7 s, f = 21.7627.
+    Structure annealed in 7 s, f = 19.6820.
+    Structure annealed in 7 s, f = 20.1223.
+    Structure annealed in 7 s, f = 22.5433.
+    Structure annealed in 7 s, f = 21.8859.
+    Structure annealed in 7 s, f = 22.5374.
+    Structure annealed in 7 s, f = 22.9122.
+    Structure annealed in 7 s, f = 20.2348.
+    Structure annealed in 7 s, f = 19.8494.
+    Structure annealed in 6 s, f = 19.8598.
+    Structure annealed in 7 s, f = 20.9173.
+    Structure annealed in 7 s, f = 24.1748.
+    Structure annealed in 7 s, f = 21.7002.
+    Structure annealed in 6 s, f = 19.1530.
+    Structure annealed in 7 s, f = 22.9758.
+    Structure annealed in 7 s, f = 23.3853.
+    Structure annealed in 7 s, f = 18.8579.
+    Structure annealed in 7 s, f = 21.0448.
+    Structure annealed in 7 s, f = 23.1276.
+    Structure annealed in 7 s, f = 28.9086.
+    Structure annealed in 7 s, f = 23.5136.
+    Structure annealed in 7 s, f = 22.7658.
+    Structure annealed in 7 s, f = 21.9952.
+    Structure annealed in 7 s, f = 19.0500.
+    Structure annealed in 7 s, f = 19.9313.
+    Structure annealed in 7 s, f = 19.1866.
+    Structure annealed in 7 s, f = 23.3183.
+    Structure annealed in 7 s, f = 54.3649.
+    Structure annealed in 7 s, f = 34.4020.
+    Structure annealed in 7 s, f = 19.4314.
+    Structure annealed in 7 s, f = 19.3309.
+    Structure annealed in 7 s, f = 22.1993.
+    Structure annealed in 7 s, f = 22.4540.
+    Structure annealed in 7 s, f = 22.2257.
+    Structure annealed in 7 s, f = 20.0446.
+    Structure annealed in 7 s, f = 20.5364.
+    Structure annealed in 7 s, f = 24.7124.
+    Structure annealed in 7 s, f = 23.9904.
+    Structure annealed in 7 s, f = 18.9916.
+    Structure annealed in 7 s, f = 31.7712.
+    Structure annealed in 7 s, f = 21.4455.
+    Structure annealed in 7 s, f = 19.9840.
+    Structure annealed in 6 s, f = 18.7128.
+    Structure annealed in 6 s, f = 22.3600.
+    Structure annealed in 6 s, f = 22.7565.
+    Structure annealed in 6 s, f = 21.0182.
+    100 structures finished in 90 s (0 s/structure).
+ 
+    Structural statistics:
+ 
+    str   target     upper limits    van der Waals   torsion angles
+        function   #    rms   max   #    sum   max   #    rms   max
+      1    18.52  49 0.0219  0.64  23   24.5  0.39  20  6.220 32.66
+      2    18.71  42 0.0201  0.64  23   24.0  0.39  21  6.345 32.68
+      3    18.75  41 0.0211  0.66  21   23.5  0.38  21  6.455 32.65
+      4    18.79  45 0.0215  0.64  26   25.5  0.38  22  6.219 32.59
+      5    18.81  41 0.0216  0.64  23   23.9  0.39  22  6.307 32.35
+      6    18.86  43 0.0224  0.65  24   25.8  0.41  21  6.137 31.76
+      7    18.99  41 0.0214  0.62  25   24.5  0.38  20  6.370 31.80
+      8    19.05  50 0.0234  0.64  28   24.8  0.42  18  6.123 31.54
+      9    19.08  42 0.0232  0.63  29   24.9  0.42  20  6.105 31.22
+     10    19.14  44 0.0219  0.63  26   24.9  0.41  22  6.328 32.43
+     11    19.15  36 0.0230  0.66  24   24.6  0.41  19  6.281 31.80
+     12    19.19  43 0.0238  0.67  27   25.1  0.42  20  6.153 32.40
+     13    19.21  43 0.0231  0.64  25   23.9  0.42  21  6.285 32.01
+     14    19.31  41 0.0212  0.63  24   24.5  0.39  20  6.457 32.92
+     15    19.33  46 0.0223  0.65  23   24.8  0.41  22  6.417 30.94
+     16    19.42  41 0.0197  0.64  22   24.5  0.40  22  6.642 31.48
+     17    19.43  42 0.0239  0.65  24   25.2  0.42  21  6.216 30.52
+     18    19.47  45 0.0249  0.97  18   23.1  0.39  20  6.438 30.93
+     19    19.50  46 0.0223  0.64  25   25.9  0.43  20  6.282 30.94
+     20    19.51  46 0.0244  0.62  28   23.4  0.39  22  6.349 30.99
+ 
+    Ave    19.11  43 0.0223  0.66  24   24.6  0.40  21  6.306 31.83
+    +/-     0.29   3 0.0013  0.07   3    0.7  0.02   1  0.132  0.72
+    Min    18.52  36 0.0197  0.62  18   23.1  0.38  18  6.105 30.52
+    Max    19.51  50 0.0249  0.97  29   25.9  0.43  22  6.642 32.92
+    Cut                      0.10             0.20             5.00
+    Overview file "final.ovw" written.
+    PDB coordinate file "final.pdb" written, 20 conformers.
+    Struct    fav    add    gen    dis
+    ------    ---    ---    ---    ---
+       1       65     22      2      0
+       2       65     22      2      0
+       3       67     20      2      0
+       4       65     22      2      0
+       5       66     20      3      0
+       6       64     22      3      0
+       7       65     22      2      0
+       8       66     21      2      0
+       9       65     22      2      0
+      10       65     21      3      0
+      11       64     23      2      0
+      12       66     21      2      0
+      13       66     21      2      0
+      14       66     21      2      0
+      15       65     21      3      0
+      16       65     22      2      0
+      17       63     24      2      0
+      18       66     21      2      0
+      19       70     17      2      0
+      20       63     24      2      0
+     all      73.4%  24.1%   2.5%   0.0%
+    Postscript file "rama.ps" written.
+    Computation time for final structure calculation: 97 s
+    Total computation time: 1044 s

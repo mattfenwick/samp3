@@ -1,0 +1,64 @@
+var info echo
+echo:=off
+info:=none
+atom stereo "HB2  HB3   :7"   # LYS
+atom stereo "HG2  HG3   :12"   # LYS
+atom stereo "HG2  HG3   :15"   # MET
+atom stereo "HB2  HB3   :16"   # GLU
+atom stereo "HB2  HB3   :17"   # LEU
+atom stereo "HB2  HB3   :19"   # LEU
+atom stereo "HG2  HG3   :20"   # ARG
+atom stereo "HB2  HB3   :26"   # ARG
+atom stereo "HB2  HB3   :27"   # GLU
+atom stereo "HG2  HG3   :27"   # GLU
+atom stereo "HB2  HB3   :31"   # GLN
+atom stereo "HG12 HG13  :34"   # ILE
+atom stereo "HB2  HB3   :37"   # ARG
+atom stereo "HG2  HG3   :37"   # ARG
+atom stereo "QG1  QG2   :38"   # VAL
+atom stereo "HB2  HB3   :41"   # ASP
+atom stereo "HA2  HA3   :45"   # GLY
+atom stereo "QG1  QG2   :47"   # VAL
+atom stereo "HB2  HB3   :48"   # LEU
+atom stereo "HG2  HG3   :49"   # ARG
+atom stereo "HB2  HB3   :51"   # LEU
+atom stereo "HB2  HB3   :52"   # GLU
+atom stereo "HG2  HG3   :52"   # GLU
+atom stereo "HB2  HB3   :54"   # GLU
+atom stereo "HB2  HB3   :55"   # TYR
+atom stereo "HA2  HA3   :57"   # GLY
+atom stereo "HB2  HB3   :58"   # LEU
+atom stereo "HB2  HB3   :61"   # ARG
+atom stereo "HG2  HG3   :61"   # ARG
+atom stereo "HB2  HB3   :62"   # LEU
+atom stereo "HB2  HB3   :64"   # GLU
+atom stereo "HG2  HG3   :64"   # GLU
+atom stereo "HB2  HB3   :65"   # ASP
+atom stereo "HA2  HA3   :66"   # GLY
+atom stereo "HB2  HB3   :67"   # GLU
+atom stereo "HB2  HB3   :70"   # PRO
+atom stereo "HG2  HG3   :70"   # PRO
+atom stereo "HD2  HD3   :70"   # PRO
+atom stereo "HB2  HB3   :71"   # HIS
+atom stereo "QG1  QG2   :72"   # VAL
+atom stereo "HB2  HB3   :75"   # LEU
+atom stereo "QD1  QD2   :75"   # LEU
+atom stereo "HB2  HB3   :76"   # LYS
+atom stereo "HG2  HG3   :76"   # LYS
+atom stereo "HD2  HD3   :76"   # LYS
+atom stereo "HE2  HE3   :76"   # LYS
+atom stereo "HA2  HA3   :78"   # GLY
+atom stereo "HG2  HG3   :79"   # ARG
+atom stereo "HB2  HB3   :80"   # GLU
+atom stereo "HB2  HB3   :84"   # LEU
+atom stereo "HA2  HA3   :86"   # GLY
+atom stereo "HB2  HB3   :87"   # MET
+atom stereo "HB2  HB3   :91"   # LEU
+atom stereo "HB2  HB3   :95"   # ASP
+atom stereo "QG1  QG2   :97"   # VAL
+atom stereo "HB2  HB3   :98"   # SER
+atom stereo "HB2  HB3   :102"   # PRO
+atom stereo "HG2  HG3   :102"   # PRO
+atom stereo "HD2  HD3   :102"   # PRO
+unset info
+print "    59 stereospecific assignments defined."
