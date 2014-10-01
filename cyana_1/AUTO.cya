@@ -1,0 +1,12 @@
+peaks       := aromatic_gnoesy_chsqc.pks,aromatic_noesy.pks,D2O_noesy_chsqc.pks,noesy_nhsqc.pks  # NOESY peak lists in XEASY format
+prot        := shifts.txt                # names of chemical shift lists
+restraints  := aco.aco                   # additional (non-NOE) restraints
+tolerance   := 0.04, 0.03, 0.45          # shift tolerances: H, H', C/N', C/N
+#calibration_constant:=6.7E5,8.2E5,8.0E4 # calibration constants, automatic if empty
+structures  := 100,20                    # number of initial, final structures
+steps       := 10000                     # number of torsion angle dynamics steps
+randomseed  := 434726                    # random number generator seed
+
+nproc=8
+
+noeassign peaks=$peaks prot=$prot autoaco
